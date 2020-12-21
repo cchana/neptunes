@@ -18,21 +18,27 @@ header {
     }
     ul {
         display: flex;
+        justify-content: space-between;
         margin: 0 auto;
         max-width: 800px;
+        padding: 0;
         li {
             list-style-type: none;
+            margin: 0;
+            padding: 0;
             width: 20%;
             &:first-child a {
                 padding: 0 $base;
             }
             &.selected a {
+                background-color: rgba(0,0,0,0.1);
                 text-decoration: underline;
             }
             a {
                 display: block;
                 font-weight: 600;
                 padding: $base;
+                text-align: center;
                 text-decoration: none;
             }
             img {
@@ -63,6 +69,9 @@ blockquote {
             margin: 0 20% 0 0;
             &.right {
                 margin: 0 0 0 20%;
+            }
+            span {
+                display: block;
             }
         }
     }

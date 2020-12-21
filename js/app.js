@@ -47,11 +47,11 @@ function _generateSongs(data, decadeFilter){
                     if(song.artists.featuring.length > 0) {
                         html += `<span class="featuring">(feat. ${song.artists.featuring.join(', ')})</span>`;
                     }
-                    html += `<span class="album">`;
+                    html += ` <span class="album">`;
                     if(song.album) {
                         html += song.album;
                     }
-                    html += `<small>(${year})</small></span></li>`;
+                    html += ` <small>(${year})</small></span></li>`;
 					// update the check for the next song to determine if the album has changed
 					previousAlbum = song.album;
             	});

@@ -17,23 +17,29 @@ header h1 {
 }
 header ul {
   display: flex;
+  justify-content: space-between;
   margin: 0 auto;
   max-width: 800px;
+  padding: 0;
 }
 header ul li {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
   width: 20%;
 }
 header ul li:first-child a {
   padding: 0 8px;
 }
 header ul li.selected a {
+  background-color: rgba(0, 0, 0, 0.1);
   text-decoration: underline;
 }
 header ul li a {
   display: block;
   font-weight: 600;
   padding: 8px;
+  text-align: center;
   text-decoration: none;
 }
 header ul li img {
@@ -64,4 +70,7 @@ blockquote cite {
 }
 #songs ol li.right {
   margin: 0 0 0 20%;
+}
+#songs ol li span {
+  display: block;
 }

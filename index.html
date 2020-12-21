@@ -3,7 +3,7 @@
 <head>
     <title>The Neptunes</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="/css/style.css?v=1000" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css?v=1002" />
 </head>
 <body>
 
@@ -15,7 +15,7 @@
 
         <nav>
             <ul>
-                <li><a class="filter-decade" href="#0000"><img src="/images/neptunes.svg?v=1000"
+                <li><a class="filter-decade" href="#0000"><img src="/images/neptunes.svg?v=1002"
                     alt="The Neptunes" /></a></li>
                 <li><a class="filter-decade" href="#1990s">1990s</a></li>
                 <li><a class="filter-decade" href="#2000s">2000s</a></li>
@@ -44,13 +44,41 @@
 
     </article>
 
+    <section>
+        <p>This piece is a work in progress, if you spot an error in the data please submit a <a href="https://github.com/cchana/neptunes">pull request</a> to get it updated.</p>
+    </section>
+
     <footer>
-        <p>A project built as my entry to the <a href="https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k">#dohackathon</a>. The Neptunes is hosted on the <a href="https://m.do.co/c/04b9e2582817" rel="nofollow">DigitalOcean</a> platform.</p>
+        <p>This project was built by <a href="https://charanj.it">Charanjit Chana</a> and was an entry to the <a href="https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k">#dohackathon</a>, hosted on the <a href="https://m.do.co/c/04b9e2582817" rel="nofollow">DigitalOcean</a> platform.</p>
     </footer>
 
 </main>
 
-<!--script src="https://unpkg.com/vue@3.0.4/dist/vue.global.js"></script-->
-<script type="module" src="/js/app.js?v=1000"></script>
+<script type="module" src="/js/app.js?v=1002"></script>
+
+<script>
+if(allowedToTrack()) {
+    let rand = Math.floor(Math.random() * (9999999 - 1000000) ) + 1000000,
+        size = window.innerHeight+'x'+window.innerWidth;
+    fetch("https://123.charanj.it/xyz/api/"+rand+"/false/"+size);
+}
+// Can the user be tracked?
+function allowedToTrack() {
+    // if the browser supports the ability to turn of tracking
+    if (window.doNotTrack || navigator.doNotTrack || navigator.msDoNotTrack || (window.external && 'msTrackingProtectionEnabled' in window.external)) {
+        // and if the setting is on
+        if (window.doNotTrack == "1" || navigator.doNotTrack == "yes" || navigator.doNotTrack == "1" || navigator.msDoNotTrack == "1" || window.external.msTrackingProtectionEnabled()) {
+            // tracking not allowed
+            return false;
+        }
+    }
+    // otherwise, assume it's fine
+    return true;
+}
+</script>
+<noscript>
+<img src="https://123.charanj.it/xyz/api/random" alt="Basic Analytics" style="display: none;" height="0" width="0" />
+</noscript>
+
 </body>
 </html>
