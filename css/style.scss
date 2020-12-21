@@ -26,6 +26,9 @@ header {
             &:first-child a {
                 padding: 0 $base;
             }
+            &.selected a {
+                text-decoration: underline;
+            }
             a {
                 display: block;
                 font-weight: 600;
@@ -45,5 +48,22 @@ blockquote {
     max-width: 800px;
     cite {
         display: block;
+    }
+}
+
+#songs {
+    margin: 0 auto;
+    max-width: 800px;
+    ol {
+        margin: 0;
+        padding: 0;
+        li {
+            border: 1px solid black;
+            list-style-type: none;
+            margin: 0 20% 0 0;
+            &.right {
+                margin: 0 0 0 20%;
+            }
+        }
     }
 }

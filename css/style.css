@@ -27,6 +27,9 @@ header ul li {
 header ul li:first-child a {
   padding: 0 8px;
 }
+header ul li.selected a {
+  text-decoration: underline;
+}
 header ul li a {
   display: block;
   font-weight: 600;
@@ -44,4 +47,21 @@ blockquote {
 }
 blockquote cite {
   display: block;
+}
+
+#songs {
+  margin: 0 auto;
+  max-width: 800px;
+}
+#songs ol {
+  margin: 0;
+  padding: 0;
+}
+#songs ol li {
+  border: 1px solid black;
+  list-style-type: none;
+  margin: 0 20% 0 0;
+}
+#songs ol li.right {
+  margin: 0 0 0 20%;
 }

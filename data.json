@@ -31,16 +31,38 @@
                 "album": "New Beginning"
             }
         ],
-        "1998": [
+        "1997": [
             {
-                "title": "I Can't Make A Mistake",
+                "title": "If It Ain't Love (The Neptunes Remix)",
                 "artists": {
-                    "primary": "MC Lyte",
+                    "primary": "Keystone",
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Seven & Seven"
+                "album": "A Tear Falls In Brooklyn"
             },
+            {
+                "title": "The Day The Earth Stood Still",
+                "artists": {
+                    "primary": "Keystone",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "A Tear Falls In Brooklyn"
+            },
+            {
+                "title": "Lookin' At Me",
+                "artists": {
+                    "primary": "Mase",
+                    "featuring": [
+                        "Puff Daddy"
+                    ]
+                },
+                "genre": "",
+                "album": "Harlem World"
+            }
+        ],
+        "1998": [
             {
                 "title": "It's All Yours",
                 "artists": {
@@ -53,15 +75,24 @@
                 "album": "Seven & Seven"
             },
             {
-                "title": "Lookin' At Me",
+                "title": "I Can't Make A Mistake",
                 "artists": {
-                    "primary": "Mase",
+                    "primary": "MC Lyte",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Seven & Seven"
+            },
+            {
+                "title": "Closer",
+                "artists": {
+                    "primary": "MC Lyte",
                     "featuring": [
-                        "Puff Daddy"
+                        "Space Nine"
                     ]
                 },
                 "genre": "",
-                "album": "Harlem World"
+                "album": "Seven & Seven"
             },
             {
                 "title": "Superthug",
@@ -75,6 +106,217 @@
         ],
         "1999": [
             {
+                "title": "The Prayer (Intro)",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Hear Me Out",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Power",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Interlude 1",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "You Don't Even Know",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Pharrell",
+                        "Kelis"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Breakfast In Cairo",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Noreaga",
+                        "Kurupt"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Skit",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Pharrell"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Hostage",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Pharrell",
+                        "Kelis"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Wild Cowboy",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Markita"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Got Caught Dealin' Part II",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Pharrell"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Interlude 2",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Taiwan To Texas",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Pharrell"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Interlude 3",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Stick Girl",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Pharrell",
+                        "Kelis"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "You Can't Touch Me",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Lee Harvey",
+                        "Nako"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Feel Like Me",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Pharrell"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Bodysnatchers",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Pharrell"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Dianna Ross",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Pharrell"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Watch Over Me",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": [
+                        "Pharrell"
+                    ]
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Interlude 4",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
                 "title": "The Funeral",
                 "artists": {
                     "primary": "Clipse",
@@ -82,6 +324,63 @@
                 },
                 "genre": "",
                 "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Wat'cha Wanna Do (The Neptunes Remix)",
+                "artists": {
+                    "primary": "Pras",
+                    "featuring": [
+                        "Pharrell",
+                        "Kelis",
+                        "Clipse"
+                    ]
+                },
+                "genre": "",
+                "album": false
+            },
+            {
+                "title": "One Big Fiesta",
+                "artists": {
+                    "primary": "Harlem World",
+                    "featuring": [
+                        "Mase"
+                    ]
+                },
+                "genre": "",
+                "album": "The Movement"
+            },
+            {
+                "title": "Not The Kids",
+                "artists": {
+                    "primary": "Harlem World",
+                    "featuring": [
+                        "Rashad"
+                    ]
+                },
+                "genre": "",
+                "album": "The Movement"
+            },
+            {
+                "title": "Recognize",
+                "artists": {
+                    "primary": "Ol' Dirty Bastard",
+                    "featuring": [
+                        "Chris Rock"
+                    ]
+                },
+                "genre": "",
+                "album": "Nigga Please"
+            },
+            {
+                "title": "Cold Blooded",
+                "artists": {
+                    "primary": "Ol' Dirty Bastard",
+                    "featuring": [
+                        "Kelis"
+                    ]
+                },
+                "genre": "",
+                "album": "Nigga Please"
             },
             {
                 "title": "Got Your Money",
@@ -95,6 +394,17 @@
                 "album": "Nigga Please"
             },
             {
+                "title": "The Greatest Romance Ever Sold (Neptunes Edit)",
+                "artists": {
+                    "primary": "Prince",
+                    "featuring": [
+                        "Q-Tip"
+                    ]
+                },
+                "genre": "",
+                "album": false
+            },
+            {
                 "title": "Oh No",
                 "artists": {
                     "primary": "N.O.R.E.",
@@ -104,7 +414,38 @@
                 "album": "Melvin Flynt - Da Hustler"
             },
             {
+                "title": "Cocain Business (Hysteria)",
+                "artists": {
+                    "primary": "N.O.R.E.",
+                    "featuring": [
+                        "Kelis"
+                    ]
+                },
+                "genre": "",
+                "album": "Melvin Flynt - Da Hustler"
+            },
+            {
+                "title": "Intro",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
                 "title": "Good Stuff",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": [
+                        "Pusha T"
+                    ]
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "Caught Out There",
                 "artists": {
                     "primary": "Kelis",
                     "featuring": []
@@ -117,6 +458,103 @@
                 "artists": {
                     "primary": "Kelis",
                     "featuring": []
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "Mafia",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": [
+                        "Markita"
+                    ]
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "Game Show",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "Suspended",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "Mars",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "Ghetto Children",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": [
+                        "N.E.R.D.",
+                        "Marc Dorsey"
+                    ]
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "I Want Your Love",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "No Turning Back",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "Roller Rink",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "In The Morning",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "Wouldn't You Agree",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": [
+                        "Justin Vince"
+                    ]
                 },
                 "genre": "",
                 "album": "Kaleidoscope"
@@ -204,6 +642,747 @@
                     ]
                 },
                 "genre": "",
+                "album": "In Search Of..."
+            },
+            {
+                "title": "Rock Star",
+                "artists": {
+                    "primary": "N.E.R.D.",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "In Search Of..."
+            },
+            {
+                "title": "Wait A Minute",
+                "artists": {
+                    "primary": "Ray J",
+                    "featuring": [
+                        "Lil' Kim",
+                        "Pharrell"
+                    ]
+                },
+                "genre": "",
+                "album": "This Ain't A Game"
+            },
+            {
+                "title": "I'm Serious",
+                "artists": {
+                    "primary": "T.I.",
+                    "featuring": [
+                        "Beenue Man"
+                    ]
+                },
+                "genre": "",
+                "album": "I'm Serious"
+            },
+            {
+                "title": "There She Goes",
+                "artists": {
+                    "primary": "Babyface",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Face2Face"
+            },
+            {
+                "title": "Plase Don't Mind",
+                "artists": {
+                    "primary": "Philly's Most Wanted",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Get Down or Lay Down"
+            },
+            {
+                "title": "Candy",
+                "artists": {
+                    "primary": "Foxy Brown",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Broken Silence"
+            },
+            {
+                "title": "I'm A Slave 4 U",
+                "artists": {
+                    "primary": "Britney Spear",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Britney"
+            },
+            {
+                "title": "Young, Fresh n' New",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": []
+                },
+                "genre": "Wanderland",
+                "album": ""
+            },
+            {
+                "title": "Knock Youself Out",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Diddy",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Bouncin' Back (Bumpin' Me Against The Wall)",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "As I Come Back",
+                "artists": {
+                    "primary": "Busta Rhymes",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Run Away (I Wanna Be With U)",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Young'n (Holla Back)",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            }
+        ],
+        "2002": [
+            {
+                "title": "U Don't Have To Call",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "I sTill Love You",
+                "artists": {
+                    "primary": "702",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Star"
+            },
+            {
+                "title": "Formal Invite",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Pass the Courvoisier, Part II",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Girlfriend",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Take Ya Home",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Hot In Herre",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Grindin",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Nothin",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Work It Out",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Feel It Boy",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Boys",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "When The Last Time",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Luv U Better",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Like I Love You",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "From tha Chuuuch to da Palace",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Hit the Freeway",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Come Close",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Ma, I Don't Love Her",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Star",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            }
+        ],
+        "2003": [
+            {
+                "title": "Beautiful",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Excuse Me Miss",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "What Happened To That Boy",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Belly Dancer",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Rock Your Body",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Amazin'",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Hot Damn",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Frontin'",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Señorita",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Light Your Ass on Fire",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Milkshake",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Change Clothes",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            }
+        ],
+        "2004": [
+            {
+                "title": "Show Me Your Soul",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Maybe",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Flap Your Wings",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Like a Boss",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Drop It Like It's Hot",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Let's Get Blown",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            }
+        ],
+        "2005": [
+            {
+                "title": "I Ain't Heard of That",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "For The Nasty",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Touch",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Hollaback Girl",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Signs",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Don't Stop",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Wanna Love You Girl",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            }
+        ],
+        "2006": [
+            {
+                "title": "Mr. Mr Too",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Tokyo Drift (Fast & Furious)",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Margarita",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Money Maker",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "I Gotcha",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Vato",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Wamp Wamp (What It Do)",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Wind It Up",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            }
+        ],
+        "2007": [
+            {
+                "title": "Give It Up",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Green Light",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Blue Magic",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "I Know",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            }
+        ],
+        "2008": [
+            {
+                "title": "Zock On!",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Everyone Nose (All the Girls Standing in the Line to the Bathroom)",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Universal Mind Control",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Announcement",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Spaz",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Give It 2 Me",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            }
+        ],
+        "2009": [
+            {
+                "title": "I'm Good",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Did It Again",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Popular Demand (Popeye's)",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
                 "album": ""
             }
         ]
@@ -240,6 +1419,68 @@
                 },
                 "genre": "",
                 "album": "No Mercy"
+            }
+        ],
+        "2011": [
+            {
+                "title": "Trouble on My Mind",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "Gotta Have It",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            }
+        ],
+        "2012": [
+            {
+                "title": "Glory",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            }
+        ],
+        "2015": [
+            {
+                "title": "So Many Pros",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            },
+            {
+                "title": "California Roll",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
+            }
+        ],
+        "2018": [
+            {
+                "title": "Supplies",
+                "artists": {
+                    "primary": "",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": ""
             }
         ]
     },
