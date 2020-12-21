@@ -1,0 +1,292 @@
+{
+    "template": [
+        {
+            "title": "",
+            "artists": {
+                "primary": "",
+                "featuring": []
+            },
+            "genre": "",
+            "album": ""
+        }
+    ],
+    "1990": {
+        "1996": [
+            {
+                "title": "When Boy Meets Girl",
+                "artists": {
+                    "primary": "Total",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Total"
+            },
+            {
+                "title": "Use Your Heart",
+                "artists": {
+                    "primary": "SWV",
+                    "featuring": []
+                },
+                "genre": "R&B",
+                "album": "New Beginning"
+            }
+        ],
+        "1998": [
+            {
+                "title": "I Can't Make A Mistake",
+                "artists": {
+                    "primary": "MC Lyte",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Seven & Seven"
+            },
+            {
+                "title": "It's All Yours",
+                "artists": {
+                    "primary": "MC Lyte",
+                    "featuring": [
+                        "Gina Thompson"
+                    ]
+                },
+                "genre": "",
+                "album": "Seven & Seven"
+            },
+            {
+                "title": "Lookin' At Me",
+                "artists": {
+                    "primary": "Mase",
+                    "featuring": [
+                        "Puff Daddy"
+                    ]
+                },
+                "genre": "",
+                "album": "Harlem World"
+            },
+            {
+                "title": "Superthug",
+                "artists": {
+                    "primary": "N.O.R.E.",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "N.O.R.E."
+            }
+        ],
+        "1999": [
+            {
+                "title": "The Funeral",
+                "artists": {
+                    "primary": "Clipse",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Exclusive Audio Footage"
+            },
+            {
+                "title": "Got Your Money",
+                "artists": {
+                    "primary": "Ol' Dirty Bastard",
+                    "featuring": [
+                        "Kelis"
+                    ]
+                },
+                "genre": "",
+                "album": "Nigga Please"
+            },
+            {
+                "title": "Oh No",
+                "artists": {
+                    "primary": "N.O.R.E.",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Melvin Flynt - Da Hustler"
+            },
+            {
+                "title": "Good Stuff",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            },
+            {
+                "title": "Get Along With You",
+                "artists": {
+                    "primary": "Kelis",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Kaleidoscope"
+            }
+        ]
+    },
+    "2000": {
+        "2000": [
+            {
+                "title": "Shake Ya Ass",
+                "artists": {
+                    "primary": "Mystikal",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Let's Get Ready"
+            },
+            {
+                "title": "Danger (Been So Long)",
+                "artists": {
+                    "primary": "Mystikal",
+                    "featuring": [
+                        "Nivea"
+                    ]
+                },
+                "genre": "",
+                "album": "Let's Get Ready"
+            },
+            {
+                "title": "Girls Dem Sugar",
+                "artists": {
+                    "primary": "Beenie Man",
+                    "featuring": [
+                        "Mya"
+                    ]
+                },
+                "genre": "Reggae",
+                "album": "Art & Life"
+            },
+            {
+                "title": "Cross The Border",
+                "artists": {
+                    "primary": "Philly's Most Wanted",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Get Down or Lay Down"
+            },
+            {
+                "title": "I Just Wanna Love U (Give It 2 Me)",
+                "artists": {
+                    "primary": "Jay-Z",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "The Dynasty: Roc La Famlia"
+            },
+            {
+                "title": "Southern Hospitality",
+                "artists": {
+                    "primary": "Ludacris",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Back For The First Time"
+            }
+        ],
+        "2001": [
+            {
+                "title": "Dem Thangs",
+                "artists": {
+                    "primary": "Angie Martinez",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Up Close And Personal"
+            },
+            {
+                "title": "Lapdance",
+                "artists": {
+                    "primary": "N.E.R.D.",
+                    "featuring": [
+                        "Vita",
+                        "Lee Harvey"
+                    ]
+                },
+                "genre": "",
+                "album": ""
+            }
+        ]
+    },
+    "2010": {
+        "2010": [
+            {
+                "title": "Hon-n-Fun",
+                "artists": {
+                    "primary": "N.E.R.D.",
+                    "featuring": [
+                        "Nelly Furtado"
+                    ]
+                },
+                "genre": "",
+                "album": "Nothing"
+            },
+            {
+                "title": "Hypnotize U",
+                "artists": {
+                    "primary": "N.E.R.D.",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": "Nothing"
+            },
+            {
+                "title": "Get Back Up",
+                "artists": {
+                    "primary": "T.I.",
+                    "featuring": [
+                        "Chris Brown"
+                    ]
+                },
+                "genre": "",
+                "album": "No Mercy"
+            }
+        ]
+    },
+    "2020": {
+        "2020": [
+            {
+                "title": "Pomegranate",
+                "artists": {
+                    "primary": "deadmau5",
+                    "featuring": []
+                },
+                "genre": "",
+                "album": false
+            },
+            {
+                "title": "Entrepreneur",
+                "artists": {
+                    "primary": "Pharrell Williams",
+                    "featuring": [
+                        "Jay-Z"
+                    ]
+                },
+                "genre": "",
+                "album": false
+            },
+            {
+                "title": "Trenches",
+                "artists": {
+                    "primary": "Monica",
+                    "featuring": [
+                        "Lil Baby"
+                    ]
+                },
+                "genre": "",
+                "album": "Trenches"
+            },
+            {
+                "title": "Hit Different",
+                "artists": {
+                    "primary": "SZA",
+                    "featuring": [
+                        "Ty Dolla Sign"
+                    ]
+                },
+                "genre": "",
+                "album": false
+            }
+        ]
+    }
+}
