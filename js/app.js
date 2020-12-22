@@ -63,6 +63,14 @@ function _generateSongs(data, decadeFilter){
 	return html;
 }
 
+// function highlight correct year in nav
+function highlightDecade(decade) {
+	document.querySelectorAll('.filter-decade').forEach(item => {
+		item.parentElement.classList.remove('selected');
+	});
+	document.querySelector('.songs-'+decade).classList.add('selected');
+}
+
 // function to actually fetch the songs
 function getSongs(decade) {
 	// find the container where they'll live
@@ -92,11 +100,30 @@ function getSongs(decade) {
 	}
 }
 
-// When the page starts, get the songs
-getSongs();
-
-// add click events to links on the page
+// when the page has loaded, start doing stuff
 window.onload = function() {
+
+	// if there is a hash in the URL (and that it isn't set to #0000s which means all)
+	if(window.location.hash !== '' && window.location.hash !== '#0000s') {
+		// get the decade from the hash
+		const decade = parseInt(window.location.hash.substring(1,5));
+		// if the decade is a valid decade starting at 1990
+		if(!isNaN(decade) && decade >= 1990) {
+			// load songs for that decade
+			getSongs(decade);
+			highlightDecade(decade);
+		} else {
+			// otherwise get all songs
+			getSongs();
+		}
+	// if no hash, this is the root and fetch it all
+	} else {
+		getSongs();
+	}
+
+	/*
+	** This section will apply click events to all of the navigation links
+	*/
 	// get all the filters
 	document.querySelectorAll('.filter-decade').forEach(filter => {
 		// add click events
@@ -109,8 +136,12 @@ window.onload = function() {
 			})
 			// if this is an actual decade link
 			if(e.target.attributes.href !== undefined) {
-				// only fetch songs for that decade
-				getSongs(e.target.attributes.href.value.substring(1,5));
+				// figure out the decade
+				const decade = e.target.attributes.href.value.substring(1,5)
+				// update the url hash
+				window.location.hash = `#${decade}s`;
+				// get the songs
+				getSongs(decade);
 				// and highlight in the navigation
 				e.target.parentElement.classList.add('selected');
 			} else {

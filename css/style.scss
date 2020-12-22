@@ -1,4 +1,25 @@
 $base: 8px;
+$borderRadius: $basePx/2;
+$fancyBorderRadius: 50% 65% 50% 60% / 49% 55% 60% 60%;
+$fancyBorderRadius2: 60% 50% 65% 50% / 60% 60% 55% 49%;
+
+$black: #1F1F1F;
+$white: #F5F5F5;
+$lightGrey: #F0F0F0;
+$grey: #E5E5E5;
+$darkGrey: #353535;
+$cchana: #FF5500;
+$onetaw: #F20;
+
+$timing: .2s ease-in-out;
+
+:root{
+    --bg-color: #{$white};
+    --bg-color2: #{$lightGrey};
+    --text-color: #{$black};
+    --grey: #{$grey};
+}
+
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
