@@ -107,6 +107,7 @@ dl {
     background-color: var(--glass);
     border-radius: $borderRadius;
     box-shadow: 0 0 20px -10px rgba($black,0.5);
+    height: auto;
     margin: $base*2 auto 0;
     max-width: 800px;
     &:first-child {

@@ -92,6 +92,7 @@ dl {
   background-color: var(--glass);
   border-radius: 16px;
   box-shadow: 0 0 20px -10px rgba(31, 31, 31, 0.5);
+  height: auto;
   margin: 16px auto 0;
   max-width: 800px;
 }
