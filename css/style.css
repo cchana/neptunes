@@ -1,3 +1,10 @@
+:root {
+  --bg-color: #F5F5F5;
+  --bg-color2: #F0F0F0;
+  --text-color: #1F1F1F;
+  --grey: #E5E5E5;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   position: relative;
@@ -65,11 +72,24 @@ blockquote cite {
 }
 #songs ol li {
   border: 1px solid black;
+  border-radius: 8px;
+  box-sizing: border-box;
   list-style-type: none;
-  margin: 0 20% 0 0;
+  margin: 0 50% 8px 0;
+  padding: 8px;
+  width: 50%;
 }
 #songs ol li.right {
-  margin: 0 0 0 20%;
+  margin: 0 0 8px 50%;
+}
+#songs ol li img {
+  float: right;
+  height: auto;
+  width: 64px;
+}
+#songs ol li h3 {
+  margin: 0;
+  padding: 0;
 }
 #songs ol li span {
   display: block;

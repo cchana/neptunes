@@ -41,17 +41,24 @@ function _generateSongs(data, decadeFilter){
 						left = !left;
 					}
                     // append the html
-            		html += `<li class="${left ? 'left' : 'right'}">
-                    <h3>${song.title}</h3>
-                    ${song.artists.primary}`;
+            		html += `<li class="${left ? 'left' : 'right'}">`;
+					if(song.artwork) {
+						html += `<img src="${song.artwork}" alt="${song.album ? song.album : song.title}" loading="lazy" />`;
+					}
+					if(song.link) {
+						html += `<h3><a href="${song.link}" target="_blank">${song.title}</a></h3>`;
+					} else {
+						html += `<h3>${song.title}</h3>`;
+					}
+                    html += `<span class="song-artist">${song.artists.primary}</span>`;
                     if(song.artists.featuring.length > 0) {
-                        html += `<span class="featuring">(feat. ${song.artists.featuring.join(', ')})</span>`;
+                        html += `<span class="song-featuring">(feat. ${song.artists.featuring.join(', ')})</span>`;
                     }
-                    html += ` <span class="album">`;
-                    if(song.album) {
-                        html += song.album;
+                    html += ` <span class="song-release">`;
+                    if(song.album !== '') {
+                        html += `<span class="song-album">${song.album}</span>`;
                     }
-                    html += ` <small>(${year})</small></span></li>`;
+                    html += ` <small class="song=year">(${year})</small></span></li>`;
 					// update the check for the next song to determine if the album has changed
 					previousAlbum = song.album;
             	});
@@ -80,7 +87,7 @@ function getSongs(decade) {
 		// add loading text first
 		content.innerHTML = '<p>Loading</p>';
 		// fetch the songs
-	    fetch('./data.json?v=1001')
+	    fetch('./data.json?v=1004')
 			// then process the response
 	        .then((response) => {
 				return response.json();

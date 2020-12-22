@@ -1,7 +1,5 @@
 $base: 8px;
-$borderRadius: $basePx/2;
-$fancyBorderRadius: 50% 65% 50% 60% / 49% 55% 60% 60%;
-$fancyBorderRadius2: 60% 50% 65% 50% / 60% 60% 55% 49%;
+$borderRadius: $base;
 
 $black: #1F1F1F;
 $white: #F5F5F5;
@@ -86,10 +84,23 @@ blockquote {
         padding: 0;
         li {
             border: 1px solid black;
+            border-radius: $borderRadius;
+            box-sizing: border-box;
             list-style-type: none;
-            margin: 0 20% 0 0;
+            margin: 0 50% $base 0;
+            padding: $base;
+            width: 50%;
             &.right {
-                margin: 0 0 0 20%;
+                margin: 0 0 $base 50%;
+            }
+            img {
+                float: right;
+                height: auto;
+                width: 64px;
+            }
+            h3 {
+                margin: 0;
+                padding: 0;
             }
             span {
                 display: block;

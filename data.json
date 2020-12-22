@@ -7,7 +7,13 @@
                 "featuring": []
             },
             "genre": "",
-            "album": ""
+            "album": "",
+            "links": {
+                "apple": "",
+                "amazon": "",
+                "spotify": ""
+            },
+            "artwork": ""
         }
     ],
     "1990": {
@@ -19,7 +25,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Total"
+                "album": "Total",
+                "links": {
+                    "apple": "https://geo.music.apple.com/us/album/when-boy-meets-girl/578516369?i=578516414&itsct=music_box&itscg=30200&at=10lIXX&ct=neptunes&app=music&ls=1",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/3d/27/b1/3d27b18d-c365-6c32-0238-4e2a12bdde67/603497927555.jpg/128x128.jpeg"
             },
             {
                 "title": "Use Your Heart",
@@ -28,7 +40,13 @@
                     "featuring": []
                 },
                 "genre": "R&B",
-                "album": "New Beginning"
+                "album": "New Beginning",
+                "links": {
+                    "apple": "https://is4-ssl.mzstatic.com/image/thumb/Music/d4/0a/78/mzi.igvesjep.jpg/600x600bb.jpeg",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music/d4/0a/78/mzi.igvesjep.jpg/128x128bb.jpeg"
             }
         ],
         "1997": [
@@ -39,7 +57,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "A Tear Falls In Brooklyn"
+                "album": "A Tear Falls In Brooklyn",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "The Day The Earth Stood Still",
@@ -48,7 +72,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "A Tear Falls In Brooklyn"
+                "album": "A Tear Falls In Brooklyn",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Lookin' At Me",
@@ -59,7 +89,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Harlem World"
+                "album": "Harlem World",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "1998": [
@@ -72,7 +108,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Seven & Seven"
+                "album": "Seven & Seven",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "I Can't Make A Mistake",
@@ -81,7 +123,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Seven & Seven"
+                "album": "Seven & Seven",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Closer",
@@ -92,7 +140,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Seven & Seven"
+                "album": "Seven & Seven",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Superthug",
@@ -101,7 +155,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "N.O.R.E."
+                "album": "N.O.R.E.",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "1999": [
@@ -112,7 +172,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Hear Me Out",
@@ -121,7 +187,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Power",
@@ -130,7 +202,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Interlude 1",
@@ -139,7 +217,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "You Don't Even Know",
@@ -151,7 +235,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Breakfast In Cairo",
@@ -163,7 +253,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Skit",
@@ -174,7 +270,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Hostage",
@@ -186,7 +288,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Wild Cowboy",
@@ -197,7 +305,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Got Caught Dealin' Part II",
@@ -208,7 +322,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Interlude 2",
@@ -217,7 +337,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Taiwan To Texas",
@@ -228,7 +354,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Interlude 3",
@@ -237,7 +369,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Stick Girl",
@@ -249,7 +387,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "You Can't Touch Me",
@@ -261,7 +405,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Feel Like Me",
@@ -272,7 +422,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Bodysnatchers",
@@ -283,7 +439,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Dianna Ross",
@@ -294,7 +456,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Watch Over Me",
@@ -305,7 +473,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Interlude 4",
@@ -314,7 +488,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "The Funeral",
@@ -323,7 +503,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Exclusive Audio Footage"
+                "album": "Exclusive Audio Footage",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Wat'cha Wanna Do (The Neptunes Remix)",
@@ -336,7 +522,13 @@
                     ]
                 },
                 "genre": "",
-                "album": false
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "One Big Fiesta",
@@ -347,7 +539,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "The Movement"
+                "album": "The Movement",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Not The Kids",
@@ -358,7 +556,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "The Movement"
+                "album": "The Movement",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Recognize",
@@ -369,7 +573,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Nigga Please"
+                "album": "Nigga Please",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Cold Blooded",
@@ -380,7 +590,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Nigga Please"
+                "album": "Nigga Please",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Got Your Money",
@@ -391,7 +607,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Nigga Please"
+                "album": "Nigga Please",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "The Greatest Romance Ever Sold (Neptunes Edit)",
@@ -402,7 +624,13 @@
                     ]
                 },
                 "genre": "",
-                "album": false
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Oh No",
@@ -411,7 +639,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Melvin Flynt - Da Hustler"
+                "album": "Melvin Flynt - Da Hustler",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Cocain Business (Hysteria)",
@@ -422,7 +656,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Melvin Flynt - Da Hustler"
+                "album": "Melvin Flynt - Da Hustler",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Intro",
@@ -431,7 +671,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Good Stuff",
@@ -442,7 +688,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Caught Out There",
@@ -451,7 +703,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Get Along With You",
@@ -460,7 +718,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Mafia",
@@ -471,7 +735,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Game Show",
@@ -480,7 +750,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Suspended",
@@ -489,7 +765,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Mars",
@@ -498,7 +780,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Ghetto Children",
@@ -510,7 +798,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "I Want Your Love",
@@ -519,7 +813,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "No Turning Back",
@@ -528,7 +828,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Roller Rink",
@@ -537,7 +843,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "In The Morning",
@@ -546,7 +858,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Wouldn't You Agree",
@@ -557,7 +875,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Kaleidoscope"
+                "album": "Kaleidoscope",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ]
     },
@@ -570,7 +894,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Let's Get Ready"
+                "album": "Let's Get Ready",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Danger (Been So Long)",
@@ -581,7 +911,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Let's Get Ready"
+                "album": "Let's Get Ready",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Girls Dem Sugar",
@@ -592,7 +928,13 @@
                     ]
                 },
                 "genre": "Reggae",
-                "album": "Art & Life"
+                "album": "Art & Life",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Cross The Border",
@@ -601,7 +943,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Get Down or Lay Down"
+                "album": "Get Down or Lay Down",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "I Just Wanna Love U (Give It 2 Me)",
@@ -610,7 +958,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "The Dynasty: Roc La Famlia"
+                "album": "The Dynasty: Roc La Famlia",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Southern Hospitality",
@@ -619,7 +973,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Back For The First Time"
+                "album": "Back For The First Time",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2001": [
@@ -630,7 +990,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Up Close And Personal"
+                "album": "Up Close And Personal",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Lapdance",
@@ -642,7 +1008,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "In Search Of..."
+                "album": "In Search Of...",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Rock Star",
@@ -651,7 +1023,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "In Search Of..."
+                "album": "In Search Of...",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Wait A Minute",
@@ -663,7 +1041,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "This Ain't A Game"
+                "album": "This Ain't A Game",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "I'm Serious",
@@ -674,7 +1058,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "I'm Serious"
+                "album": "I'm Serious",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "There She Goes",
@@ -683,7 +1073,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Face2Face"
+                "album": "Face2Face",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Plase Don't Mind",
@@ -692,7 +1088,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Get Down or Lay Down"
+                "album": "Get Down or Lay Down",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Candy",
@@ -701,7 +1103,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Broken Silence"
+                "album": "Broken Silence",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "I'm A Slave 4 U",
@@ -710,7 +1118,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Britney"
+                "album": "Britney",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Young, Fresh n' New",
@@ -719,7 +1133,13 @@
                     "featuring": []
                 },
                 "genre": "Wanderland",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Knock Youself Out",
@@ -728,7 +1148,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Diddy",
@@ -737,7 +1163,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Bouncin' Back (Bumpin' Me Against The Wall)",
@@ -746,7 +1178,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "As I Come Back",
@@ -755,7 +1193,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Run Away (I Wanna Be With U)",
@@ -764,7 +1208,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Young'n (Holla Back)",
@@ -773,7 +1223,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2002": [
@@ -784,7 +1240,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "I sTill Love You",
@@ -793,7 +1255,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Star"
+                "album": "Star",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Formal Invite",
@@ -802,7 +1270,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Pass the Courvoisier, Part II",
@@ -811,7 +1285,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Girlfriend",
@@ -820,7 +1300,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Take Ya Home",
@@ -829,7 +1315,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Hot In Herre",
@@ -838,7 +1330,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Grindin",
@@ -847,7 +1345,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Nothin",
@@ -856,7 +1360,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Work It Out",
@@ -865,7 +1375,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Feel It Boy",
@@ -874,7 +1390,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Boys",
@@ -883,7 +1405,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "When The Last Time",
@@ -892,7 +1420,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Luv U Better",
@@ -901,7 +1435,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Like I Love You",
@@ -910,7 +1450,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "From tha Chuuuch to da Palace",
@@ -919,7 +1465,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Hit the Freeway",
@@ -928,7 +1480,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Come Close",
@@ -937,7 +1495,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Ma, I Don't Love Her",
@@ -946,7 +1510,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Star",
@@ -955,7 +1525,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2003": [
@@ -966,7 +1542,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Excuse Me Miss",
@@ -975,7 +1557,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "What Happened To That Boy",
@@ -984,7 +1572,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Belly Dancer",
@@ -993,7 +1587,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Rock Your Body",
@@ -1002,7 +1602,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Amazin'",
@@ -1011,7 +1617,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Hot Damn",
@@ -1020,7 +1632,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Frontin'",
@@ -1029,7 +1647,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Señorita",
@@ -1038,7 +1662,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Light Your Ass on Fire",
@@ -1047,7 +1677,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Milkshake",
@@ -1056,7 +1692,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Change Clothes",
@@ -1065,7 +1707,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2004": [
@@ -1076,7 +1724,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Maybe",
@@ -1085,7 +1739,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Flap Your Wings",
@@ -1094,7 +1754,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Like a Boss",
@@ -1103,7 +1769,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Drop It Like It's Hot",
@@ -1112,7 +1784,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Let's Get Blown",
@@ -1121,7 +1799,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2005": [
@@ -1132,7 +1816,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "For The Nasty",
@@ -1141,7 +1831,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Touch",
@@ -1150,7 +1846,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Hollaback Girl",
@@ -1159,7 +1861,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Signs",
@@ -1168,7 +1876,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Don't Stop",
@@ -1177,7 +1891,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Wanna Love You Girl",
@@ -1186,7 +1906,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2006": [
@@ -1197,7 +1923,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Tokyo Drift (Fast & Furious)",
@@ -1206,7 +1938,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Margarita",
@@ -1215,7 +1953,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Money Maker",
@@ -1224,7 +1968,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "I Gotcha",
@@ -1233,7 +1983,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Vato",
@@ -1242,7 +1998,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Wamp Wamp (What It Do)",
@@ -1251,7 +2013,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Wind It Up",
@@ -1260,7 +2028,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2007": [
@@ -1271,7 +2045,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Green Light",
@@ -1280,7 +2060,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Blue Magic",
@@ -1289,7 +2075,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "I Know",
@@ -1298,7 +2090,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2008": [
@@ -1309,7 +2107,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Everyone Nose (All the Girls Standing in the Line to the Bathroom)",
@@ -1318,7 +2122,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Universal Mind Control",
@@ -1327,7 +2137,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Announcement",
@@ -1336,7 +2152,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Spaz",
@@ -1345,7 +2167,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Give It 2 Me",
@@ -1354,7 +2182,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2009": [
@@ -1365,7 +2199,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Did It Again",
@@ -1374,7 +2214,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Popular Demand (Popeye's)",
@@ -1383,7 +2229,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ]
     },
@@ -1398,7 +2250,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Nothing"
+                "album": "Nothing",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Hypnotize U",
@@ -1407,7 +2265,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": "Nothing"
+                "album": "Nothing",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Get Back Up",
@@ -1418,7 +2282,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "No Mercy"
+                "album": "No Mercy",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2011": [
@@ -1429,7 +2299,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Gotta Have It",
@@ -1438,7 +2314,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2012": [
@@ -1449,7 +2331,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2015": [
@@ -1460,7 +2348,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "California Roll",
@@ -1469,7 +2363,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ],
         "2018": [
@@ -1480,7 +2380,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": ""
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ]
     },
@@ -1493,7 +2399,13 @@
                     "featuring": []
                 },
                 "genre": "",
-                "album": false
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Entrepreneur",
@@ -1504,7 +2416,13 @@
                     ]
                 },
                 "genre": "",
-                "album": false
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Trenches",
@@ -1515,7 +2433,13 @@
                     ]
                 },
                 "genre": "",
-                "album": "Trenches"
+                "album": "Trenches",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             },
             {
                 "title": "Hit Different",
@@ -1526,7 +2450,13 @@
                     ]
                 },
                 "genre": "",
-                "album": false
+                "album": "",
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
             }
         ]
     }
