@@ -107,9 +107,9 @@ dl dt {
 dl dt img {
   border-radius: 8px;
   box-shadow: 0 0 10px -3px rgba(31, 31, 31, 0.5);
-  height: auto;
+  height: 64px;
   margin-right: 16px;
-  max-width: 64px;
+  width: 64px;
 }
 dl dt h3 {
   margin: 0;

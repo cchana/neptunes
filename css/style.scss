@@ -120,9 +120,9 @@ dl {
         img {
             border-radius: $borderRadius/2;
             box-shadow: 0 0 10px -3px rgba($black, .5);
-            height: auto;
+            height: 64px;
             margin-right: $base*2;
-            max-width: 64px;
+            width: 64px;
         }
         h3 {
             margin: 0;
