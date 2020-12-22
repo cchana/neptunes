@@ -48,6 +48,14 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/data0.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/data0-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/data_simple.json": {
 		"ft": 524288,
 		"oA": 1,

@@ -1,3 +1,6 @@
+//TODO: Reverse Border
+//TODO: Search
+
 // store the loaded songs so that they don't need to be fetched constantly, can be read from memory instead
 let songs;
 
@@ -21,8 +24,7 @@ function _generateSongs(data, decadeFilter){
 
     // foreach decade
     decades.forEach(decade => {
-        html += `<h2 id="${decade}s">${decade}</h2>
-        <ol>`;
+        html += `<h2 id="${decade}s">${decade}</h2>`;
         // set the year to the current decade
         let year = decade,
             // and the end of the decade comes, as the new one starts
@@ -33,42 +35,44 @@ function _generateSongs(data, decadeFilter){
             // check if the year is supported
             if(data[decade][year] !== undefined) {
                 // for each song mentioned
-                data[decade][year].forEach((song, index) => {
-					let sameAlbum = false
-					// if the song has no album associated, or the previous album is not the same as this one
-					if(!song.album || (data[decade][year][index-1] === undefined || data[decade][year][index-1].album !== song.album)) {
-						// toggle left between true and false
-						left = !left;
-					} else {
-						sameAlbum = true;
-					}
-                    // append the html
-            		html += `<li class="${left ? 'left' : 'right'} ${sameAlbum ? 'sameAlbum' : null}">`;
-					if(song.artwork && !sameAlbum) {
-						html += `<img src="${song.artwork}" alt="${song.album ? song.album : song.title}" loading="lazy" />`;
-					}
-					if(song.link) {
-						html += `<h3><a href="${song.link}" target="_blank">${song.title}</a></h3>`;
-					} else {
-						html += `<h3>${song.title}</h3>`;
-					}
-                    html += `<span class="song-artist">${song.artists.primary}</span>`;
-                    if(song.artists.featuring.length > 0) {
-                        html += `<span class="song-featuring">(feat. ${song.artists.featuring.join(', ')})</span>`;
-                    }
-                    html += ` <span class="song-release">`;
-                    if(song.album !== '') {
-                        html += `<span class="song-album">${song.album}</span>`;
-                    }
-                    html += ` <small class="song=year">(${year})</small></span></li>`;
-					// update the check for the next song to determine if the album has changed
+                data[decade][year].forEach((album) => {
+					html += _template(album);
             	});
             }
             year++;
         }
-        html += `</ol>`;
     });
 	return html;
+}
+
+function _template(album) {
+	// append the html
+	let html = `<dl>
+		<dt>`;
+	if(album.artwork !== '') {
+		html += `<img src="${album.artwork}" alt="${album.title + ' by ' + album.artist}" loading="lazy" />`;
+	}
+	html += `<h3>
+				${album.title}
+				<em>${album.artist}</em>
+			</h3>
+		</dt>
+		<dd>
+			<ol>`;
+	album.songs.forEach(song => {
+		html += `<li>${song.title}`;
+		if(song.featuring.length > 0){
+			html += ` <small>(featuring ${song.featuring.join(', ')})</small>`;
+		}
+		html += `</li>`;
+	});
+	html += `</ol>
+			<!--div>
+				<p>Listen: <a href="#">Apple Music</a>, <a href="#">Spotify</a>, <a href="#">Amazon Music</a></p>
+			</div-->
+		</dd>
+	</dl>`;
+	return html
 }
 
 // function highlight correct year in nav
@@ -88,7 +92,7 @@ function getSongs(decade) {
 		// add loading text first
 		content.innerHTML = '<p>Loading</p>';
 		// fetch the songs
-	    fetch('./data.json?v=1004')
+	    fetch('./data.json?v=1011')
 			// then process the response
 	        .then((response) => {
 				return response.json();
