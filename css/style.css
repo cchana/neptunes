@@ -3,55 +3,62 @@
   --bg-color2: #F0F0F0;
   --text-color: #1F1F1F;
   --grey: #E5E5E5;
+  --glass: rgba(245, 245, 245, 0.7);
 }
 
-html,
-body {
+html {
   margin: 0;
   padding: 0;
 }
 
 body {
-  background: var(--bg-color);
+  background-attachment: fixed;
+  background-color: var(--bg-color);
+  background-size: 800px 600px;
   color: var(--text-color);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  margin: 0;
+  padding: 0 24px 24px;
   position: relative;
 }
 
 header {
-  backdrop-filter: blur(10px);
-  background: rgba(245, 245, 245, 0.7);
+  background: rgba(31, 31, 31, 0.95);
+  box-shadow: 0 0 10px 10px rgba(31, 31, 31, 0.95);
+  margin-left: -24px;
   padding: 16px;
   position: sticky;
   top: 0;
-  width: 100%;
+  width: calc(100% + 16px);
+  z-index: 5;
 }
 header h1 {
   font-size: 24px;
-  font-weight: 300;
-  margin: 0;
+  font-weight: 400;
+  margin: 0 0 16px;
   padding: 0;
   text-align: center;
   text-transform: uppercase;
 }
+header nav {
+  margin: 0 auto;
+  max-width: 800px;
+}
 header ul {
   display: flex;
   justify-content: space-between;
-  margin: 0 auto;
-  max-width: 800px;
+  margin: 0;
   padding: 0;
 }
 header ul li {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 20%;
-}
-header ul li:first-child a {
-  padding: 0 8px;
+  width: 25%;
 }
 header ul li.selected a {
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(245, 245, 245, 0.2);
+  border-radius: 8px;
   text-decoration: underline;
 }
 header ul li a {
@@ -62,47 +69,78 @@ header ul li a {
   text-decoration: none;
 }
 header ul li img {
-  filter: invert(1);
   height: 32px;
 }
+header a {
+  color: #FFF;
+  text-decoration: none;
+}
+header a:hover {
+  text-decoration: underline;
+}
 
-#songs {
+footer {
   margin: 0 auto;
   max-width: 800px;
 }
-#songs ol {
-  margin: 0;
-  padding: 0;
+
+article {
+  padding: 16px 0;
 }
-#songs ol li {
-  border: 1px solid var(--grey);
+
+dl {
+  background-color: var(--glass);
+  border-radius: 16px;
+  box-shadow: 0 0 20px -10px rgba(31, 31, 31, 0.5);
+  margin: 16px auto 0;
+  max-width: 800px;
+}
+dl:first-child {
+  margin: 0 auto;
+}
+dl dt {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 16px 16px 0 0;
+  display: flex;
+  padding: 16px;
+}
+dl dt img {
   border-radius: 8px;
-  box-sizing: border-box;
-  list-style-type: none;
-  margin: 0 50% 8px 0;
-  padding: 8px;
-  width: 50%;
+  box-shadow: 0 0 10px -3px rgba(31, 31, 31, 0.5);
+  margin-right: 16px;
+  max-width: 64px;
 }
-#songs ol li.right {
-  margin: 0 0 8px 50%;
-}
-#songs ol li img {
-  float: right;
-  height: auto;
-  width: 64px;
-}
-#songs ol li h3 {
+dl dt h3 {
   margin: 0;
   padding: 0;
 }
-#songs ol li span {
+dl dt h3 {
+  font-weight: 500;
+}
+dl dt em {
   display: block;
+  font-weight: 300;
+  font-style: normal;
+}
+dl dd {
+  border-radius: 0 0 16px 16px;
+  margin: 0;
+  padding: 16px;
+}
+dl dd ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+dl dd ol li {
+  margin: 0;
+  padding: 0;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --bg-color: #1F1F1F;
-    --text-color: #F5F5F5;
-    --grey: #353535;
-  }
+  /*    :root{
+          --bg-color:     #1F1F1F;
+          --text-color:   #F5F5F5;
+          --grey:         #353535;
+      }*/
 }

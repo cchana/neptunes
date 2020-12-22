@@ -27,22 +27,24 @@ function _generateSongs(data, decadeFilter){
         let year = decade,
             // and the end of the decade comes, as the new one starts
             decadeEnd = decade + 10,
-			left = false,
-			previousAlbum = '';
+			left = false;
         // for each year that happens before the end of the decade
         while(year < decadeEnd) {
             // check if the year is supported
             if(data[decade][year] !== undefined) {
                 // for each song mentioned
-                data[decade][year].forEach(song => {
+                data[decade][year].forEach((song, index) => {
+					let sameAlbum = false
 					// if the song has no album associated, or the previous album is not the same as this one
-					if(!song.album || previousAlbum !== song.album) {
+					if(!song.album || (data[decade][year][index-1] === undefined || data[decade][year][index-1].album !== song.album)) {
 						// toggle left between true and false
 						left = !left;
+					} else {
+						sameAlbum = true;
 					}
                     // append the html
-            		html += `<li class="${left ? 'left' : 'right'}">`;
-					if(song.artwork) {
+            		html += `<li class="${left ? 'left' : 'right'} ${sameAlbum ? 'sameAlbum' : null}">`;
+					if(song.artwork && !sameAlbum) {
 						html += `<img src="${song.artwork}" alt="${song.album ? song.album : song.title}" loading="lazy" />`;
 					}
 					if(song.link) {
@@ -60,7 +62,6 @@ function _generateSongs(data, decadeFilter){
                     }
                     html += ` <small class="song=year">(${year})</small></span></li>`;
 					// update the check for the next song to determine if the album has changed
-					previousAlbum = song.album;
             	});
             }
             year++;
