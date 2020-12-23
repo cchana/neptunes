@@ -2,45 +2,76 @@
 //TODO: Search
 
 // store the loaded songs so that they don't need to be fetched constantly, can be read from memory instead
-let songs;
+let songs,
+	decadeFilter = 0,
+	decadeTemplate = {
+		"1990": {},
+		"2000": {},
+		"2010": {},
+		"2020": {}
+	},
+	reverse = false;
+const validDecades = [
+	1990,
+	2000,
+	2010,
+	2020
+];
 
 // Templates with data
 function _generateSongs(data, decadeFilter){
+
     // store the HTML output
 	let html = "",
         decades = [];
 
     // depending on filters, build a record of accepted decades
     if(!decadeFilter) {
-        decades = [
-            1990,
-            2000,
-            2010,
-            2020
-        ];
+		decades = validDecades.map((x) => x);
+		if(reverse) {
+			decades = decades.reverse();
+		}
     } else {
         decades.push(decadeFilter);
     }
 
     // foreach decade
     decades.forEach(decade => {
-        html += `<h2 id="${decade}s">${decade}</h2>`;
+        html += `<h2 id="${decade}s">${decade}s</h2>`;
         // set the year to the current decade
         let year = decade,
-            // and the end of the decade comes, as the new one starts
-            decadeEnd = decade + 10,
+			decadeEnd = decade,
 			left = false;
-        // for each year that happens before the end of the decade
-        while(year < decadeEnd) {
-            // check if the year is supported
-            if(data[decade][year] !== undefined) {
-                // for each song mentioned
-                data[decade][year].forEach((album) => {
-					html += _template(album);
-            	});
-            }
-            year++;
-        }
+		if(!reverse) {
+            // and the end of the decade comes, as the new one starts
+            decadeEnd = decade + 10;
+	        // for each year that happens before the end of the decade
+	        while(year < decadeEnd) {
+	            // check if the year is supported
+	            if(data[decade][year] !== undefined && data[decade][year].length > 0) {
+					html += `<h3 id="year=${year}">${year}</h3>`;
+	                // for each song mentioned
+	                data[decade][year].forEach((album) => {
+						html += _template(album);
+	            	});
+	            }
+	            year++;
+	        }
+		} else {
+			year = decadeEnd + 9;
+			while(year >= decadeEnd) {
+	            // check if the year is supported
+	            if(data[decade][year] !== undefined && data[decade][year].length > 0) {
+					html += `<h3 id="year=${year}">${year}</h3>`;
+					let reversedSongs = data[decade][year].map((x) => x);
+	                // for each song mentioned
+	                reversedSongs.reverse().forEach((album) => {
+						html += _template(album);
+	            	});
+	            }
+	            year--;
+	        }
+		}
     });
 	return html;
 }
@@ -61,7 +92,7 @@ function _template(album) {
 			<ol>`;
 	album.songs.forEach(song => {
 		html += `<li>${song.title}`;
-		if(song.featuring.length > 0){
+		if(song.featuring !== undefined && song.featuring.length > 0){
 			html += ` <small>(featuring ${song.featuring.join(', ')})</small>`;
 		}
 		html += `</li>`;
@@ -92,7 +123,7 @@ function getSongs(decade) {
 		// add loading text first
 		content.innerHTML = '<p>Loading</p>';
 		// fetch the songs
-	    fetch('./data.json?v=1012')
+	    fetch('./data.json?v=1014')
 			// then process the response
 	        .then((response) => {
 				return response.json();
@@ -112,9 +143,31 @@ function getSongs(decade) {
 	}
 }
 
+function searchSongs(filter) {
+	let filteredSongs = {};
+	validDecades.forEach(decade => {
+		let year = decade,
+            // and the end of the decade comes, as the new one starts
+            decadeEnd = decade + 10,
+			left = false;
+        // for each year that happens before the end of the decade
+        while(year < decadeEnd) {
+			if(songs[decade][year] !== undefined) {
+				if(filteredSongs[decade] === undefined) {
+					filteredSongs[decade] = {};
+				}
+				filteredSongs[decade][year] = songs[decade][year].filter(
+					album => album.title.toLowerCase().includes(filter.toLowerCase().trim())
+				);
+			}
+			year++;
+		}
+	});
+	document.querySelector('#songs').innerHTML = _generateSongs(filteredSongs);
+}
+
 // when the page has loaded, start doing stuff
 window.onload = function() {
-
 	// if there is a hash in the URL (and that it isn't set to #0000s which means all)
 	if(window.location.hash !== '' && window.location.hash !== '#0000s') {
 		// get the decade from the hash
@@ -142,6 +195,7 @@ window.onload = function() {
 		filter.addEventListener('click', function(e) {
 			// stop the default happening
 			e.preventDefault();
+			document.getElementById('searchBox').value = '';
 			// remove the 'selected' style from existing item
 			document.querySelectorAll('.filter-decade').forEach(option => {
 				option.parentElement.classList.remove('selected');
@@ -150,6 +204,7 @@ window.onload = function() {
 			if(e.target.attributes.href !== undefined) {
 				// figure out the decade
 				const decade = e.target.attributes.href.value.substring(1,5)
+				decadeFilter = decade;
 				// update the url hash
 				window.location.hash = `#${decade}s`;
 				// get the songs
@@ -163,5 +218,22 @@ window.onload = function() {
 			// and scroll to the top
 			window.scroll(0,0);
 		});
+	});
+
+	document.getElementById('searchBox').addEventListener('keyup', function(e) {
+		document.querySelectorAll('.filter-decade').forEach(option => {
+			option.parentElement.classList.remove('selected');
+		})
+		window.location.hash = '';
+		searchSongs(this.value);
+	});
+	document.getElementById('reverseResults').addEventListener('change', function(e) {
+		reverse = this.checked;
+		let searchTerm = document.getElementById('searchBox').value;
+		if(searchTerm === '') {
+			getSongs(decadeFilter);
+		} else {
+			searchSongs(searchTerm);
+		}
 	});
 }

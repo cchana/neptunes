@@ -44,6 +44,9 @@ header nav {
   margin: 0 auto;
   max-width: 800px;
 }
+header nav label {
+  color: #F5F5F5;
+}
 header ul {
   display: flex;
   justify-content: space-between;

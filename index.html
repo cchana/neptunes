@@ -4,7 +4,7 @@
 <meta charset="utf-8">
     <title>The Neptunes</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="/css/style.css?v=1011" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css?v=1013" />
 </head>
 <body>
 
@@ -15,13 +15,17 @@
         <h1><a href="/">The Neptunes</a></h1>
         <nav>
             <ul>
-                <!--li><a class="filter-decade" href="#0000s"><img src="/images/neptunes.svg?v=1004"
-                    alt="The Neptunes" /></a></li-->
                 <li class="songs-1990"><a class="filter-decade" href="#1990s">1990s</a></li>
                 <li class="songs-2000"><a class="filter-decade" href="#2000s">2000s</a></li>
                 <li class="songs-2010"><a class="filter-decade" href="#2010s">2010s</a></li>
                 <li class="songs-2020"><a class="filter-decade" href="#2020s">2020s</a></li>
             </ul>
+            <div>
+                <label for="reverseResults">Reverse results? <input type="checkbox" id="reverseResults" /></label>
+                <form>
+                    <input type="text" id="searchBox" />
+                </form>
+            </div>
         </nav>
 
     </header>
@@ -30,64 +34,6 @@
 
         <div id="songs">
         </div>
-
-
-
-            <!--<dl>
-                <dt>
-                    <img src="https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/4c/96/1e/4c961ee0-4ad0-9c7d-56d6-fd8a1a332a5b/886446856896.jpg/600x600bb.jpeg" alt="NO ONE EVER REALLY DIES" />
-                    <h3>
-                        NO ONE EVER REALLY DIES
-                        <em>N.E.R.D.</em>
-                    </h3>
-                </dt>
-                <dd>
-                    <ol>
-                        <li>Lemon</li>
-                        <li>Deep Down Body Thurst</li>
-                        <li>Voilà</li>
-                        <li>1000</li>
-                        <li>Don't Don't Do It!</li>
-                        <li>Esp</li>
-                        <li>Lightning Fire Magic Prayer</li>
-                        <li>Rollinem 7's <small>(feat. André 3000)</small></li>
-                        <li>Kites</li>
-                        <li>Secret Life of Tigers</li>
-                        <li>Lifting You</li>
-                    </ol>
-                    <div>
-                        <p>Listen: <a href="#">Apple Music</a>, <a href="#">Spotify</a>, <a href="#">Amazon Music</a></p>
-                    </div>
-                </dd>
-            </dl>
-
-            <dl>
-                <dt>
-                    <img src="https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/4c/96/1e/4c961ee0-4ad0-9c7d-56d6-fd8a1a332a5b/886446856896.jpg/600x600bb.jpeg" alt="NO ONE EVER REALLY DIES" />
-                    <h3>
-                        NO ONE EVER REALLY DIES
-                        <em>N.E.R.D.</em>
-                    </h3>
-                </dt>
-                <dd>
-                    <ol>
-                        <li>Lemon</li>
-                        <li>Deep Down Body Thurst</li>
-                        <li>Voilà</li>
-                        <li>1000</li>
-                        <li>Don't Don't Do It!</li>
-                        <li>Esp</li>
-                        <li>Lightning Fire Magic Prayer</li>
-                        <li>Rollinem 7's <small>(feat. André 3000)</small></li>
-                        <li>Kites</li>
-                        <li>Secret Life of Tigers</li>
-                        <li>Lifting You</li>
-                    </ol>
-                    <div>
-                        <p>Listen: <a href="#">Apple Music</a>, <a href="#">Spotify</a>, <a href="#">Amazon Music</a></p>
-                    </div>
-                </dd>
-            </dl>-->
 
     </article>
 
@@ -103,7 +49,7 @@
 
 </main>
 
-<script type="module" src="/js/app.js?v=1012"></script>
+<script type="module" src="/js/app.js?v=1014"></script>
 
 <script>
 if(allowedToTrack()) {
