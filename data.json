@@ -1,25 +1,4 @@
 {
-    "template": [
-        {
-            "title": "",
-            "artist": "",
-            "songs": [
-                {
-                    "title": "",
-                    "featuring": [],
-                    "links": {
-                        "apple": ""
-                    }
-                }
-            ],
-            "links": {
-                "apple": "",
-                "amazon": "",
-                "spotify": ""
-            },
-            "artwork": ""
-        }
-    ],
     "1990": {
         "1996": [
             {
@@ -102,6 +81,23 @@
         ],
         "1998": [
             {
+                "title": "N.O.R.E.",
+                "artist": "N.O.R.E.",
+                "songs": [
+                    {
+                        "title": "Superthug",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/75/f9/70/75f970f6-2617-8219-128c-22d053312bca/603497920600.png/128x128bb.jpeg"
+            },
+            {
                 "title": "Seven & Seven",
                 "artist": "MC Lyte",
                 "songs": [
@@ -131,23 +127,6 @@
                     "spotify": ""
                 },
                 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/93/fd/mzi.mevzlgxq.jpg/128x128bb.jpeg"
-            },
-            {
-                "title": "N.O.R.E.",
-                "artist": "N.O.R.E.",
-                "songs": [
-                    {
-                        "title": "Superthug",
-                        "featuring": [],
-                        "links": {}
-                    }
-                ],
-                "links": {
-                    "apple": "",
-                    "amazon": "",
-                    "spotify": ""
-                },
-                "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/75/f9/70/75f970f6-2617-8219-128c-22d053312bca/603497920600.png/128x128bb.jpeg"
             }
         ],
         "1999": [
@@ -158,37 +137,27 @@
                     {
                         "title": "The Prayer (Intro)",
                         "featuring": [],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Hear Me Out",
                         "featuring": [],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Power",
                         "featuring": [],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Interlude 1",
                         "featuring": [],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "You Don't Even Know",
                         "featuring": [],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Breakfast In Cairo",
@@ -196,66 +165,50 @@
                             "Noreaga",
                             "Kurupt"
                         ],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Skit",
                         "featuring": [
                             "Pharrell"
                         ],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Hostage",
                         "featuring": [],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Wild Cowboy",
                         "featuring": [
                             "Markita"
                         ],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Got Caught Dealin' Part II",
                         "featuring": [
                             "Pharrell"
                         ],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Interlude 2",
                         "featuring": [],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Taiwan To Texas",
                         "featuring": [
                             "Pharrell"
                         ],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Interlude 3",
                         "featuring": [],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Stick Girl",
@@ -263,9 +216,7 @@
                             "Pharrell",
                             "Kelis"
                         ],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "You Can't Touch Me",
@@ -273,57 +224,245 @@
                             "Lee Harvey",
                             "Nako"
                         ],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Feel Like Me",
                         "featuring": [
                             "Pharrell"
                         ],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Bodysnatchers",
                         "featuring": [],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Dianna Ross",
                         "featuring": [
                             "Pharrell"
                         ],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Watch Over Me",
                         "featuring": [
                             "Pharrell"
                         ],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "Interlude 4",
                         "featuring": [],
-                        "links": {
-                            "apple": ""
-                        }
+                        "links": {}
                     },
                     {
                         "title": "The Funeral",
                         "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Wat'cha Wanna Do (Single)",
+                "artist": "Pras",
+                "songs": [
+                    {
+                        "title": "Wat'cha Wanna Do (The Neptunes Remix)",
+                        "featuring": [
+                            "Pharrell",
+                            "Kelis",
+                            "Clipse"
+                        ],
                         "links": {
-                            "apple": ""
                         }
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Movement",
+                "artist": "Harlem World",
+                "songs": [
+                    {
+                        "title": "One Big Fiesta",
+                        "featuring": [
+                            "Mase"
+                        ],
+                        "links": {
+                        }
+                    },
+                    {
+                        "title": "Not The Kids",
+                        "featuring": [
+                            "Rashad"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Melvin Flynt - Da Hustler",
+                "artist": "N.O.R.E.",
+                "songs": [
+                    {
+                        "title": "Oh No",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Cocain Business (Hysteria)",
+                        "featuring": [
+                            "Kelis"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Nigga Please",
+                "artist": "Ol' Dirty Bastard",
+                "songs": [
+                    {
+                        "title": "Cold Blooded",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Got Your Money",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Greatest Romance Ever Sold (Single)",
+                "artist": "Prince",
+                "songs": [
+                    {
+                        "title": "The Greatest Romance Ever Sold (Neptunes Edit)",
+                        "featuring": [
+                            "Q-Tip"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Kaleidoscope",
+                "artist": "Kelis",
+                "songs": [
+                    {
+                        "title": "Intro",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Good Stuff",
+                        "featuring": [
+                            "Pusha T"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Caught Out There",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Get Along With You",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Mafia",
+                        "featuring": [
+                            "Markita"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Game Show",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Suspended",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Mars",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Ghetto Children",
+                        "featuring": [
+                            "N.E.R.D.",
+                            "Marc Dorsey"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "I Want Your Love",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "No Turning Back",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Roller RInk",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "In The Morning",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Wouldn't You Agree",
+                        "featuring": [
+                            "Justin Vince"
+                        ],
+                        "links": {}
                     }
                 ],
                 "links": {
@@ -337,10 +476,1785 @@
     },
     "2000": {
         "2000": [
+            {
+                "title": "Steal My Kisses (Single)",
+                "artist": "Ben Harper & The Innocent Criminals",
+                "songs": [
+                    {
+                        "title": "Steal My Kisses (The Neptunes Beatbox Mix)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Goodfellas",
+                "artist": "504 Boyz",
+                "songs": [
+                    {
+                        "title": "D-Game",
+                        "featuring": [
+                            "Pharrell",
+                            "Pusha T"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Let's Get Ready",
+                "artist": "Mystikal",
+                "songs": [
+                    {
+                        "title": "Shake Ya Ass",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Jump",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Danger (Been So Long)",
+                        "featuring": [
+                            "Nivea"
+                        ]
+                    },
+                    {
+                        "title": "Family",
+                        "featuring": [
+                            "Latrelle"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Art & Life",
+                "artist": "Beenie Man",
+                "songs": [
+                    {
+                        "title": "Girls Dem Sugar",
+                        "featuring": [
+                            "Mya"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Shyne",
+                "artist": "Shyne",
+                "songs": [
+                    {
+                        "title": "Niggas Gonna Die",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Jazzmatazz Vol. 3: Streetsoul",
+                "artist": "Guru",
+                "songs": [
+                    {
+                        "title": "All I Said",
+                        "featuring": [
+                            "Macy Gray"
+                        ]
+                    },
+                    {
+                        "title": "Supa Luv",
+                        "featuring": [
+                            "Kelis"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "By Your Side (Single)",
+                "artist": "Sade",
+                "songs": [
+                    {
+                        "title": "By Your Side (The Neptunes Remix)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "How Many Licks (Single)",
+                "artist": "Lil' Kim",
+                "songs": [
+                    {
+                        "title": "How Many Licks (Neptunes Remix)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "May Street Project",
+                "artist": "Sheã Seger",
+                "songs": [
+                    {
+                        "title": "Blind Situation",
+                        "featuring": [
+                            "D.R.U.G.S."
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Get Down Or Lay Down",
+                "artist": "Philly's Most Wanted",
+                "songs": [
+                    {
+                        "title": "Radikal",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Suckas",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Pretty Tony",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Please Don't Mind",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Philly Celebrities",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Ladies Choice",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Cross The Border",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Dream Car",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "Suckas, Pt. 2",
+                        "featuring": [
+                            "Beenie Sigel"
+                        ]
+                    },
+                    {
+                        "title": "Street Tax",
+                        "featuring": [
+                            "Clipse"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Dynasty: Roc La Familia",
+                "artist": "Jay-Z",
+                "songs": [
+                    {
+                        "title": "I Just Wanna Love U (Give It 2 Me)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Black & Blue",
+                "artist": "Backstreet Boys",
+                "songs": [
+                    {
+                        "title": "The Call (Neptunes Remix)",
+                        "featuring": [
+                            "Clipse"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Back For The First Time",
+                "artist": "Ludacris",
+                "songs": [
+                    {
+                        "title": "Southern Hospitality",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
         ],
         "2001": [
+            {
+                "title": "Urban Renewal: The Songs Of Phil Collins",
+                "artist": "Kelis",
+                "songs": [
+                    {
+                        "title": "I Don't Care Anymore",
+                        "featuring": [
+                            "Kelis",
+                            "Pharrell"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Up Close And Personal",
+                "artist": "Angie Martinez",
+                "songs": [
+                    {
+                        "title": "Dem Thangs",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Dr. Dolittle 2 Original Soundtrack",
+                "artist": "Flipmode Squad",
+                "songs": [
+                    {
+                        "title": "What It Is Part II",
+                        "featuring": [
+                            "Busta Rhymes",
+                            "Kelis"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "In Search Of...",
+                "artist": "N.E.R.D.",
+                "songs": [
+                    {
+                        "title": "Lapdance",
+                        "featuring": [
+                            "Lee Harvey",
+                            "Vita"
+                        ]
+                    },
+                    {
+                        "title": "Intro",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Things Are Getting Better",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Brain",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Provider",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Truth Or Dare",
+                        "featuring": [
+                            "Kelis",
+                            "Pusha T"
+                        ]
+                    },
+                    {
+                        "title": "Run To The Sun",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Stay Together",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Baby Doll",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Tape You",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Am I High",
+                        "featuring": [
+                            "Malice"
+                        ]
+                    },
+                    {
+                        "title": "Rock Star",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Bobby James",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "This Ain't A Game",
+                "artist": "Ray J",
+                "songs": [
+                    {
+                        "title": "Wait A Minute",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Formal Invite",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "Out Tha Ghetto",
+                        "featuring": [
+                            "Shorty Mack"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "I'm Serious",
+                "artist": "T.I.",
+                "songs": [
+                    {
+                        "title": "I'm Serious",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "I'm Serious",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Harder, Better, Faster, Stronger (Single)",
+                "artist": "Darft Punk",
+                "songs": [
+                    {
+                        "title": "Harder, Better, Faster, Stronger (The Neptunes Remix)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Saints & Sinners",
+                "artist": "All Saints",
+                "songs": [
+                    {
+                        "title": "Black Coffee (The Neptunes Remix)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Broken Silence",
+                "artist": "Foxy Brown",
+                "songs": [
+                    {
+                        "title": "Candy",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Gangsta Boogie",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Britney",
+                "artist": "Britney Spears",
+                "songs": [
+                    {
+                        "title": "I'm A Slave 4 U",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Boys",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Wanderland",
+                "artist": "Kelis",
+                "songs": [
+                    {
+                        "title": "Intro",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Young, Fresh n' New",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Flashback",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Popular Thug",
+                        "featuring": [
+                            "Pusha T"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Daddy",
+                        "featuring": [
+                            "Malice"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Scared Money",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Shooting Stars",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Digital World",
+                        "featuring": [
+                            "Roscoe P. Coldchain"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Perfect Day",
+                        "featuring": [
+                            "No Doubt"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Easy Come, Easy Go",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Junkie For Your Love",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Get Even",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Mr. U.F.O. Man",
+                        "featuring": [
+                            "John Otsby"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Little Suzie/Star Wars/I Don't Care Anymore",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Fortune Cookie",
+                "artist": "Alana Davis",
+                "songs": [
+                    {
+                        "title": "Bye Bye",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "What's Going On (Single)",
+                "artist": "All Star Tribute",
+                "songs": [
+                    {
+                        "title": "What's Going On (The Neptunes THis One's For You Mix)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Instructions",
+                "artist": "Jermaine Dupri",
+                "songs": [
+                    {
+                        "title": "Let's Talk About I",
+                        "featuring": [
+                            "Clipse",
+                            "Pharrell"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Faithfully",
+                "artist": "Faith Evans",
+                "songs": [
+                    {
+                        "title": "Burnin' Up",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Genesis",
+                "artist": "Busta Rhymes",
+                "songs": [
+                    {
+                        "title": "As I Come Back",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "What It Is",
+                        "featuring": [
+                            "Kelis"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "New Old Songs",
+                "artist": "Limp Bizkit",
+                "songs": [
+                    {
+                        "title": "Nookie",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "N 2 Gether Now",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Greatest Hits",
+                "artist": "Ice Cube",
+                "songs": [
+                    {
+                        "title": "In The Late Night Hour",
+                        "featuring": [
+                            "Clipse"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Better Days",
+                "artist": "Joe",
+                "songs": [
+                    {
+                        "title": "Isn't This The World",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Doggy Bag",
+                "artist": "Lil' Bow Wow",
+                "songs": [
+                    {
+                        "title": "Take Ya Home",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Tarantula",
+                "artist": "Mystikal",
+                "songs": [
+                    {
+                        "title": "Bouncin' Back (Bumpin' Me Against The Wall)",
+                        "featuring": [
+                            "Pharrell"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Go 'Head",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Dirty Girl, Wrong Girl, Bad Girl",
+                "artist": "Latrelle",
+                "songs": [
+                    {
+                        "title": "Infatuated",
+                        "featuring": []
+                    },
+                    {
+                        "title": "I Need You",
+                        "featuring": []
+                    },
+                    {
+                        "title": "My Life",
+                        "featuring": [
+                            "Kelis"
+                        ]
+                    },
+                    {
+                        "title": "Dirty Girl",
+                        "featuring": [
+                            "Lisa \"Left Eye\" Lopez"
+                        ]
+                    },
+                    {
+                        "title": "Long Night",
+                        "featuring": []
+                    },
+                    {
+                        "title": "House Party",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Wrong Girl",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Nothing Else",
+                        "featuring": []
+                    },
+                    {
+                        "title": "I Want U",
+                        "featuring": [
+                            "Pusha T"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Kiss The Game Goodbye",
+                "artist": "Jadakiss",
+                "songs": [
+                    {
+                        "title": "Knock Yourself Out",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Saga Continues",
+                "artist": "Diddy",
+                "songs": [
+                    {
+                        "title": "Diddy",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "X.O. Experience",
+                "artist": "Tha Liks",
+                "songs": [
+                    {
+                        "title": "Best You Can",
+                        "featuring": [
+                            "Pharrell"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Ghetto Fabolous",
+                "artist": "Fabolous",
+                "songs": [
+                    {
+                        "title": "Young'n (Holla Back)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Training Day Original Soundtrack",
+                "artist": "Clipse",
+                "songs": [
+                    {
+                        "title": "Guns N' Roses",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Androgyny (Single)",
+                "artist": "Garbage",
+                "songs": [
+                    {
+                        "title": "Androgyny (The Neptunes Remix)",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "",
+                "artist": "",
+                "songs": [
+                    {
+                        "title": "",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "8701",
+                "artist": "Usher",
+                "songs": [
+                    {
+                        "title": "I Don't Know",
+                        "featuring": [
+                            "Pharrell",
+                            "P. Diddy"
+                        ]
+                    },
+                    {
+                        "title": "U Don't Have To Call",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Thug On Da Line",
+                "artist": "Krayzie Bone",
+                "songs": [
+                    {
+                        "title": "I Don't Know What",
+                        "featuring": [
+                            "Kelis"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "No More Drama",
+                "artist": "Mary J. Blige",
+                "songs": [
+                    {
+                        "title": "Steal Away",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Thugmania (Rock Wit Us)",
+                "artist": "Musaliny-N-M.a.z.a",
+                "songs": [
+                    {
+                        "title": "Thugmania (Rock Wit Us)",
+                        "featuring": [
+                            "Capone-N-Noreaga"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Face2Face",
+                "artist": "Babyface",
+                "songs": [
+                    {
+                        "title": "There She Goes",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Stressed Out",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Celebrity",
+                "artist": "NSYNC",
+                "songs": [
+                    {
+                        "title": "Girlfriend",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Girlfriend (Remix)",
+                        "featuring": [
+                            "Nelly"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Rush Hour 2 Original Soundtrack",
+                "artist": "Hikaru Utada",
+                "songs": [
+                    {
+                        "title": "Blow My Whistle",
+                        "featuring": [
+                            "Foxy Brown"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
         ],
         "2002": [
+            {
+                "title": "Everybody Hertz",
+                "artist": "Air",
+                "songs": [
+                    {
+                        "title": "Don't Be Light (Neptunes Remix)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Pass The Courvoisier Part II (Single)",
+                "artist": "Busta Rhymes",
+                "songs": [
+                    {
+                        "title": "Pass the Courvoisier Part II",
+                        "featuring": [
+                            "Pharrell",
+                            "P. Diddy"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "This Is The Remix",
+                "artist": "Destiny's Child",
+                "songs": [
+                    {
+                        "title": "Emotion (The Neptunes Remix)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Nellyville",
+                "artist": "Nelly",
+                "songs": [
+                    {
+                        "title": "Hot In Herre",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "God's Favourite",
+                "artist": "N.O.R.E.",
+                "songs": [
+                    {
+                        "title": "Nothin'",
+                        "featuring": [
+                            "Pharrell"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Grimey",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Full Mode",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Head Bussa",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Consider This",
+                        "featuring": [
+                            "Kelis"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Lord Willin'",
+                "artist": "Clipse",
+                "songs": [
+                    {
+                        "title": "Intro",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Young Boy",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "Grindin",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "Cot Damn",
+                        "featuring": [
+                            "Pharrell",
+                            "Ab-Liva",
+                            "Roscoe P. Coldchain"
+                        ]
+                    },
+                    {
+                        "title": "Ma, I Don't Love Her",
+                        "featuring": [
+                            "Pharrell",
+                            "Faith Evans"
+                        ]
+                    },
+                    {
+                        "title": "Fam-Lay (Freestyle)",
+                        "featuring": [
+                            "Fam-Lay"
+                        ]
+                    },
+                    {
+                        "title": "When The Last Time",
+                        "featuring": [
+                            "Pharrell",
+                            "Kelis"
+                        ]
+                    },
+                    {
+                        "title": "Ego",
+                        "featuring": [
+                            "Pharrell",
+                            "Kelis"
+                        ]
+                    },
+                    {
+                        "title": "Comedy Central",
+                        "featuring": [
+                            "Fabolous"
+                        ]
+                    },
+                    {
+                        "title": "Let's Talk About It",
+                        "featuring": [
+                            "Pharrell",
+                            "Jermaine Dupri"
+                        ]
+                    },
+                    {
+                        "title": "Gangsta Lean",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "I'm Not You",
+                        "featuring": [
+                            "Jadakiss",
+                            "Styles P",
+                            "Roscoe P. Coldchain"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Nivea",
+                "artist": "Nivea",
+                "songs": [
+                    {
+                        "title": "Run Away (I Wanna Be With U)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Austin Powers In Goldmember Original Soundtrack",
+                "artist": "Beyoncé",
+                "songs": [
+                    {
+                        "title": "Work It Out",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Fix",
+                "artist": "Scarface",
+                "songs": [
+                    {
+                        "title": "Someday",
+                        "featuring": [
+                            "Faith Evans"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "3D",
+                "artist": "TLC",
+                "songs": [
+                    {
+                        "title": "In Your Arms Tonight",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "",
+                "artist": "",
+                "songs": [
+                    {
+                        "title": "Feel It Boy",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "10",
+                "artist": "LL Cool J",
+                "songs": [
+                    {
+                        "title": "Luv U Better",
+                        "featuring": [
+                            "Marc Dorsey"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Niggy Nuts",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Amazin'",
+                        "featuring": [
+                            "Kandice Love"
+                        ]
+                    },
+                    {
+                        "title": "Clockin' G's",
+                        "featuring": []
+                    },
+                    {
+                        "title": "U Should",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Remixed & Unplugged In A Minor",
+                "artist": "Alicia Keys",
+                "songs": [
+                    {
+                        "title": "How Come You Don't Call Me (Neptunes Remix)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Justified",
+                "artist": "Justin Timberlake",
+                "songs": [
+                    {
+                        "title": "Señorita",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Like I Love You",
+                        "featuring": [
+                            "Clipse"
+                        ]
+                    },
+                    {
+                        "title": "Take It From Here",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Rock Your Body",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Nothin' Else",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Last Night",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Let's Take A Ride",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Girl Interrupted",
+                "artist": "Ms. Jade",
+                "songs": [
+                    {
+                        "title": "The Come Up",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Blueprint2: The Gift & The Curse",
+                "artist": "Jay-Z",
+                "songs": [
+                    {
+                        "title": "Excuse Me Miss",
+                        "featuring": [
+                            "Pharrell"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Fuck All Night",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Nigga Please",
+                        "featuring": [
+                            "Young Chris"
+                        ]
+                    },
+                    {
+                        "title": "A Ballad For The Fallen Soldier",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Dutty Rock",
+                "artist": "Sean Paul",
+                "songs": [
+                    {
+                        "title": "Bubble",
+                        "featuring": [
+                            "Fahrenheit"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "More Than A Woman",
+                "artist": "Toni Braxton",
+                "songs": [
+                    {
+                        "title": "Hit The Freeway",
+                        "featuring": [
+                            "Loon"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Last Temptation",
+                "artist": "Ja Rule",
+                "songs": [
+                    {
+                        "title": "Pop Niggas",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Birdman",
+                "artist": "Birdman",
+                "songs": [
+                    {
+                        "title": "What Happened To That Boy",
+                        "featuring": [
+                            "Clipse"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "It Ain't Safe No More...",
+                "artist": "Busta Rhymes",
+                "songs": [
+                    {
+                        "title": "Call The Ambulance",
+                        "featuring": [
+                            "Rampage"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Rock City",
+                "artist": "Royce da 5'9\"",
+                "songs": [
+                    {
+                        "title": "Off Parole",
+                        "featuring": [
+                            "Tre Little"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Mr. Baller",
+                        "featuring": [
+                            "Clipse",
+                            "Pharrell",
+                            "Tre Little"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Paid tha Cost to Be da Bo$$",
+                "artist": "Snoop Dogg",
+                "songs": [
+                    {
+                        "title": "From Tha Chuuuch To Da Palace",
+                        "featuring": [
+                            "Pharrell"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Beautiful",
+                        "featuring": [
+                            "Pharrell",
+                            "Charlie Wilson"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Electric Circus",
+                "artist": "Common",
+                "songs": [
+                    {
+                        "title": "Come Close",
+                        "featuring": [
+                            "Mary J. Blige"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "I Got A Right Tha",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Solo Star",
+                "artist": "Solange",
+                "songs": [
+                    {
+                        "title": "Crush",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
         ],
         "2003": [
         ],
@@ -355,22 +2269,1008 @@
         "2008": [
         ],
         "2009": [
+            {
+                "title": "Serious Japanese",
+                "artist": "Teriyaki Boyz",
+                "songs": [
+                    {
+                        "title": "Work That!",
+                        "featuring": [
+                            "Pharrell",
+                            "Chris Brown"
+                        ]
+                    },
+                    {
+                        "title": "Zock On!",
+                        "featuring": [
+                            "Pharrell",
+                            "Busta Rhymes"
+                        ]
+                    },
+                    {
+                        "title": "Tokyo Drift (Remix)",
+                        "featuring": [
+                            "Pusha T",
+                            "Fam-Lay"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Fast & Furious 4 Original Soundtrack",
+                "artist": "Various",
+                "songs": [
+                    {
+                        "title": "G-Stro",
+                        "featuring": [
+                            "Busta Rhymes"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Blanco",
+                        "featuring": [
+                            "Pitbull",
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "You Slip, She Grip",
+                        "featuring": [
+                            "Tego Calderón",
+                            "Pitbull"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Last Kiss",
+                "artist": "Jadakiss",
+                "songs": [
+                    {
+                        "title": "",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Ecstatic",
+                "artist": "Mos Def",
+                "songs": [
+                    {
+                        "title": "",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Persona",
+                "artist": "Queen Latifah",
+                "songs": [
+                    {
+                        "title": "",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Blueprint 3",
+                "artist": "Jay-Z",
+                "songs": [
+                    {
+                        "title": "",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "She Wolf",
+                "artist": "Shakira",
+                "songs": [
+                    {
+                        "title": "",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Fresh Out The Oven",
+                "artist": "Jennifer Lopez",
+                "songs": [
+                    {
+                        "title": "",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "90210 Original Soundtrack",
+                "artist": "N.E.R.D.",
+                "songs": [
+                    {
+                        "title": "",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Remix Suite",
+                "artist": "Michael Jackson",
+                "songs": [
+                    {
+                        "title": "",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Attention Deficit",
+                "artist": "Wale",
+                "songs": [
+                    {
+                        "title": "",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Til The Casket Drops",
+                "artist": "Clipse",
+                "songs": [
+                    {
+                        "title": "",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Malice In Wonderland",
+                "artist": "Snoop Dogg",
+                "songs": [
+                    {
+                        "title": "Special",
+                        "featuring": [
+                            "Brandy",
+                            "Pharrell"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
         ]
     },
     "2010": {
         "2010": [
+            {
+                "title": "Battle Of The Sexes",
+                "artist": "Ludacris",
+                "songs": [
+                    {
+                        "title": "Sexting",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Nothing",
+                "artist": "N.E.R.D.",
+                "songs": [
+                    {
+                        "title": "Party People",
+                        "featuring": [
+                            "T.I."
+                        ]
+                    },
+                    {
+                        "title": "Hypnotize U",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Help Me",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Victory",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Perfect Defect",
+                        "featuring": []
+                    },
+                    {
+                        "title": "I've Seen The Light/Inside of Clouds",
+                        "featuring": []
+                    },
+                    {
+                        "title": "God Bless Us All",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Life As A Fish",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Nothing On You",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Hot-N-Fun",
+                        "featuring": [
+                            "Nelly Furtado"
+                        ]
+                    },
+                    {
+                        "title": "It's In The Air",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Sacred Temple",
+                        "featuring": []
+                    },
+                    {
+                        "title": "I Wanna Jam",
+                        "featuring": []
+                    },
+                    {
+                        "title": "The Man",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Fuego",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Ride That Thang",
+                        "featuring": [
+                            "Fam-Lay"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "No Mercy",
+                "artist": "T.I.",
+                "songs": [
+                    {
+                        "title": "Get Back Up",
+                        "featuring": [
+                            "Chris Brown"
+                        ]
+                    },
+                    {
+                        "title": "Amazing",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "It's OK",
+                "artist": "Cee-Lo Green",
+                "songs": [
+                    {
+                        "title": "Bridges",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
         ],
         "2011": [
+            {
+                "title": "Lasers",
+                "artist": "Lupe Fiasco",
+                "songs": [
+                    {
+                        "title": "I'm Beamin'",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Give the Drummer Some",
+                "artist": "Travis Barker",
+                "songs": [
+                    {
+                        "title": "If You Want To",
+                        "featuring": [
+                            "Pharrell",
+                            "Lupe Fiasco"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Finally Famous",
+                "artist": "Big Sean",
+                "songs": [
+                    {
+                        "title": "Get It (DT)",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "When Fish Ride Bicycles",
+                "artist": "The Cool Kids",
+                "songs": [
+                    {
+                        "title": "Get Right",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Summer Jam",
+                        "featuring": [
+                            "Maxine Ashley"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Watch The Throne",
+                "artist": "Jay-Z & Kanye West",
+                "songs": [
+                    {
+                        "title": "Gotta Have It",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Fear Of God II: Let Us Pray",
+                "artist": "Pusha T",
+                "songs": [
+                    {
+                        "title": "Trouble On My Mind",
+                        "featuring": [
+                            "Tyler, The Creator"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Raid",
+                        "featuring": [
+                            "50 Cent",
+                            "Pharrell"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
         ],
         "2012": [
+            {
+                "title": "Glory (Single)",
+                "artist": "Jay-Z",
+                "songs": [
+                    {
+                        "title": "Glory",
+                        "featuring": [
+                            "B.I.C."
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Go! Pop! Bang!",
+                "artist": "Rye Rye",
+                "songs": [
+                    {
+                        "title": "Shake, Twist, Drop",
+                        "featuring": [
+                            "Tyga"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "The Stoned Immaculate",
+                "artist": "Curren$y",
+                "songs": [
+                    {
+                        "title": "Chasin' Paper",
+                        "featuring": [
+                            "Pharrell"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "California Republic",
+                "artist": "Game",
+                "songs": [
+                    {
+                        "title": "When My Niggas Come Home",
+                        "featuring": [
+                            "Snoop Dogg",
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "It Must Be Tough",
+                        "featuring": [
+                            "Pharrell",
+                            "Mysonne"
+                        ]
+                    },
+                    {
+                        "title": "They Don't Want None",
+                        "featuring": [
+                            "Shyne",
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "Roll My Shit",
+                        "featuring": [
+                            "Snoop Dogg"
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "D.O.P.E.",
+                "artist": "D.O.P.E.",
+                "songs": [
+                    {
+                        "title": "Block Blazer",
+                        "featuring": [
+                            "T.I."
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
+        ],
+        "2013": [
+            {
+                "title": "Doris",
+                "artist": "Earl Sweatshirt",
+                "songs": [
+                    {
+                        "title": "Burgundy",
+                        "featuring": [
+                            "Vince Staples"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Wrath Of Caine",
+                "artist": "Pusha T",
+                "songs": [
+                    {
+                        "title": "Revolution",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
         ],
         "2015": [
+            {
+                "title": "The SpongeBob Movie 2: Sponge Out Of Water Original Soundtrack",
+                "artist": "N.E.R.D.",
+                "songs": [
+                    {
+                        "title": "Squeeze Me",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Sandy Squirrel",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Patrick Star",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Bush",
+                "artist": "Snoop Dogg",
+                "songs": [
+                    {
+                        "title": "California Roll",
+                        "featuring": [
+                            "Stevie Wonder"
+                        ]
+                    },
+                    {
+                        "title": "This City",
+                        "featuring": []
+                    },
+                    {
+                        "title": "R U A Freak",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Awake",
+                        "featuring": []
+                    },
+                    {
+                        "title": "So Many Pros",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Edibles",
+                        "featuring": [
+                            "T.I."
+                        ]
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
+        ],
+        "2016": [
+            {
+                "title": "Wanderlust",
+                "artist": "Little Big Town",
+                "songs": [
+                    {
+                        "title": "Miracle",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
+        ],
+        "2017": [
+            {
+                "title": "NO ONE EVER REALLY DIES",
+                "artist": "N.E.R.D.",
+                "songs": [
+                    {
+                        "title": "ESP",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
         ],
         "2018": [
+            {
+                "title": "Man Of The Woods",
+                "artist": "Justin Timberlake",
+                "songs": [
+                    {
+                        "title": "Midnight Summer Jam",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Man Of The Woods",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Higher, Higher",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Wave",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Supplies",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Flannel",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Montana",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Breeze Off The Pond",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Living Off The Land",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
+        ],
+        "2019": [
+            {
+                "title": "Case Study 01",
+                "artist": "Daniel Caesar",
+                "songs": [
+                    {
+                        "title": "Frontal Lobe Muzik",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Music From The Black Godfather",
+                "artist": "Pharrell Williams",
+                "songs": [
+                    {
+                        "title": "Letter To My Godfather",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
         ]
     },
     "2020": {
         "2020": [
+            {
+                "title": "Suga",
+                "artist": "Megan Thee Stallion",
+                "songs": [
+                    {
+                        "title": "Stop Playing",
+                        "featuring": [
+                            "Gunna"
+                        ],
+                        "links": {}
+                    },
+                    {
+                        "title": "Crying in the Car",
+                        "featuring": []
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "deafmau5 & The Neptunes",
+                "artist": "Pomegranate (Single)",
+                "songs": [
+                    {
+                        "title": "Pomegranate",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Ipside Down 2020",
+                "artist": "Buju Banton",
+                "songs": [
+                    {
+                        "title": "Cherry Pie",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Entrepreneur (Single)",
+                "artist": "Pharrell",
+                "songs": [
+                    {
+                        "title": "Entrepreneur",
+                        "featuring": [
+                            "Jay-Z"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Threnches (Single)",
+                "artist": "Monica",
+                "songs": [
+                    {
+                        "title": "Trenches",
+                        "featuring": [
+                            "Lil Baby"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            },
+            {
+                "title": "Hit Different (Single)",
+                "artist": "SZA",
+                "songs": [
+                    {
+                        "title": "Hit Different",
+                        "featuring": [
+                            "Ty Dolla Sign"
+                        ],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "",
+                    "amazon": "",
+                    "spotify": ""
+                },
+                "artwork": ""
+            }
         ]
-    }
+    },
+    "template": [
+        {
+            "title": "",
+            "artist": "",
+            "songs": [
+                {
+                    "title": "",
+                    "featuring": [],
+                    "links": {}
+                }
+            ],
+            "links": {
+                "apple": "",
+                "amazon": "",
+                "spotify": ""
+            },
+            "artwork": ""
+        }
+    ]
 }

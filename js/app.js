@@ -92,7 +92,7 @@ function getSongs(decade) {
 		// add loading text first
 		content.innerHTML = '<p>Loading</p>';
 		// fetch the songs
-	    fetch('./data.json?v=1011')
+	    fetch('./data.json?v=1012')
 			// then process the response
 	        .then((response) => {
 				return response.json();
