@@ -1,9 +1,8 @@
 :root {
-  --bg-color: #F5F5F5;
-  --bg-color2: #F0F0F0;
-  --text-color: #1F1F1F;
-  --grey: #E5E5E5;
-  --glass: rgba(245, 245, 245, 0.7);
+  --black: #1F1F1F;
+  --white: rgba(255, 255, 255, 0.9);
+  --border: #474747;
+  --maxWidth: 800px;
 }
 
 html {
@@ -12,25 +11,33 @@ html {
 }
 
 body {
-  background-attachment: fixed;
-  background-color: var(--bg-color);
-  background-size: 800px 600px;
-  color: var(--text-color);
+  background-color: var(--black);
+  color: var(--white);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   margin: 0;
   padding: 0 24px 24px;
   position: relative;
 }
 
+main {
+  margin: 0 auto;
+  max-width: var(--maxWidth);
+}
+
 header {
-  background: rgba(31, 31, 31, 0.95);
-  box-shadow: 0 0 10px 10px rgba(31, 31, 31, 0.95);
-  margin-left: -24px;
-  padding: 16px;
+  background-color: var(--black);
+  box-shadow: 0 20px 20px -10px var(--black);
+  box-sizing: border-box;
+  padding: 24px 16px;
+  margin: 0 0 24px -24px;
   position: sticky;
   top: 0;
-  width: calc(100% + 16px);
   z-index: 5;
+  width: calc(100% + 48px);
+}
+header > div {
+  margin: 0 auto;
+  max-width: var(--maxWidth);
 }
 header h1 {
   font-size: 24px;
@@ -40,12 +47,21 @@ header h1 {
   text-align: center;
   text-transform: uppercase;
 }
-header nav {
-  margin: 0 auto;
-  max-width: 800px;
+header nav form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
-header nav label {
-  color: #F5F5F5;
+header nav form > label,
+header nav form > input {
+  width: calc(50% - 8px);
+}
+header nav form > label {
+  color: var(--white);
+  padding: 8px 0;
+}
+header nav form > input[type=text] {
+  font-size: 16px;
 }
 header ul {
   display: flex;
@@ -60,7 +76,7 @@ header ul li {
   width: 25%;
 }
 header ul li.selected a {
-  background-color: rgba(245, 245, 245, 0.2);
+  background-color: rgba(255, 255, 255, 0.2);
   border-radius: 8px;
   text-decoration: underline;
 }
@@ -82,27 +98,59 @@ header a:hover {
   text-decoration: underline;
 }
 
-footer {
-  margin: 0 auto;
-  max-width: 800px;
-}
-
 article {
   padding: 16px 0;
 }
-
+article section {
+  display: grid;
+  grid-gap: 16px;
+  grid-template-columns: min(20%, 200px) min(calc(80% - 16px), 800px);
+  margin: 0;
+  padding: 0 0 24px;
+}
+article section > h2,
+article section > h3 {
+  color: var(--white);
+  text-align: right;
+}
+article section h2 {
+  font-size: 32px;
+  font-weight: 500;
+  grid-column: 1/2;
+  margin: 0;
+  padding: 0;
+}
+article section > h3 {
+  font-size: 24px;
+  font-weight: 300;
+  grid-column: 1/2;
+  margin: 0;
+  padding: 0 8px 0 0;
+  position: relative;
+}
+article section > h3:before {
+  background-color: var(--border);
+  content: "";
+  display: block;
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 4px;
+}
 dl {
-  background-color: var(--glass);
+  border: 1px solid var(--border);
   border-radius: 16px;
-  box-shadow: 0 0 20px -10px rgba(31, 31, 31, 0.5);
+  box-shadow: 0 0 16px #000;
+  color: var(--black);
   margin: 16px auto 0;
-  max-width: 800px;
 }
 dl:first-child {
   margin: 0 auto;
 }
 dl dt {
-  background: rgba(0, 0, 0, 0.1);
+  background-color: var(--black);
+  color: var(--white);
   border-radius: 16px 16px 0 0;
   display: flex;
   padding: 16px;
@@ -127,6 +175,7 @@ dl dt em {
   font-style: normal;
 }
 dl dd {
+  background-color: var(--white);
   border-radius: 0 0 16px 16px;
   margin: 0;
   padding: 16px;
@@ -141,10 +190,14 @@ dl dd ol li {
   padding: 0;
 }
 
-@media (prefers-color-scheme: dark) {
-  /*    :root{
-          --bg-color:     #1F1F1F;
-          --text-color:   #F5F5F5;
-          --grey:         #353535;
-      }*/
+footer {
+  margin: 0 auto;
+}
+footer section {
+  border-color: var(--white);
+  border-style: solid;
+  border-width: 1px 0;
+}
+footer a {
+  color: var(--white);
 }

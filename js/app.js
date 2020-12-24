@@ -42,7 +42,7 @@ function _generateSongs(data, decadeFilter){
     // foreach decade
     decades.forEach(decade => {
 		// write out the decade
-        html += `<h2 id="${decade}s">${decade}s</h2>`;
+        html += `<section><h2 id="${decade}s">${decade}s</h2>`;
         // set the year to the current decade
         let year = decade,
 			// set initial decade end (depends on reversing)
@@ -57,11 +57,13 @@ function _generateSongs(data, decadeFilter){
 	        while(year < decadeEnd) {
 	            // check if the year is supported
 	            if(data[decade][year] !== undefined && data[decade][year].length > 0) {
-					html += `<h3 id="year=${year}">${year}</h3>`;
+					html += `<h3 id="year=${year}">${year}</h3>
+					<div>`;
 	                // for each song mentioned
 	                data[decade][year].forEach((album) => {
 						html += _template(album);
 	            	});
+					html += '</div>';
 	            }
 				// increment the year
 	            year++;
@@ -73,18 +75,21 @@ function _generateSongs(data, decadeFilter){
 			while(year >= decadeEnd) {
 	            // check if the year is supported
 	            if(data[decade][year] !== undefined && data[decade][year].length > 0) {
-					html += `<h3 id="year=${year}">${year}</h3>`;
+					html += `<h3 id="year=${year}">${year}</h3>
+					<div>`;
 					// copy the songs
 					let reversedSongs = data[decade][year].map((x) => x);
 	                // reverse songs, then for each of them
 	                reversedSongs.reverse().forEach((album) => {
 						html += _template(album);
 	            	});
+					html += '</div>';
 	            }
 				// de-increment the year
 	            year--;
 	        }
 		}
+		html += '</section>';
     });
 	return html;
 }
@@ -163,6 +168,7 @@ function getSongs(decade) {
 function searchSongs(filter) {
 	// empty list of filtered songs
 	let filteredSongs = {};
+	const searchTerm = filter.toLowerCase().trim();
 	// for each valid decade
 	validDecades.forEach(decade => {
 		// refer to getSongs logic...
@@ -176,10 +182,38 @@ function searchSongs(filter) {
 				if(filteredSongs[decade] === undefined) {
 					filteredSongs[decade] = {};
 				}
-				// filter the list of songs based on the album title...
-				filteredSongs[decade][year] = songs[decade][year].filter(
-					album => album.title.toLowerCase().includes(filter.toLowerCase().trim())
-				);
+				// filter the list of songs based on...
+				filteredSongs[decade][year] = songs[decade][year].filter(function(album) {
+					// the album title
+					if(album.title.toLowerCase().includes(searchTerm)) {
+						return album;
+					}
+					// the primary artist
+					if(album.artist.toLowerCase().includes(searchTerm)) {
+						return album;
+					}
+					// temp variable to say no matches found based on title or artist, so now going to check a few more things
+					let matched = false;
+					album.songs.forEach(song => {
+						// if any song title matches
+						if(song.title.toLowerCase().includes(searchTerm)) {
+							// change mathced to true
+							matched = true;
+						}
+						// or any featured artist matches
+						song.featuring.forEach(featured => {
+							if(featured.toLowerCase().includes(searchTerm)) {
+								// change mathced to true
+								matched = true;
+							}
+						})
+					});
+					// if a song or featured artist matches
+					if(matched) {
+						// return the album!
+						return album;
+					}
+				});
 			}
 			year++;
 		}

@@ -4,13 +4,13 @@
 <meta charset="utf-8">
     <title>The Neptunes</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="/css/style.css?v=1013" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css?v=1015" />
 </head>
 <body>
 
-<main id="app">
+<header>
 
-    <header>
+    <div>
 
         <h1><a href="/">The Neptunes</a></h1>
         <nav>
@@ -21,14 +21,18 @@
                 <li class="songs-2020"><a class="filter-decade" href="#2020s">2020s</a></li>
             </ul>
             <div>
-                <label for="reverseResults">Reverse results? <input type="checkbox" id="reverseResults" /></label>
-                <form>
-                    <input type="text" id="searchBox" />
+                <form onsubmit="return false;">
+                    <label for="reverseResults">Reverse results? <input type="checkbox" id="reverseResults" /></label>
+                    <input type="text" id="searchBox" placeholder="Filter by song, title or artist" />
                 </form>
             </div>
         </nav>
 
-    </header>
+    </div>
+
+</header>
+
+<main id="app">
 
     <article>
 
@@ -43,13 +47,13 @@
             <p>This piece is a work in progress, if you spot an error in the data please submit a <a href="https://github.com/cchana/neptunes">pull request</a> to get it updated.</p>
         </section>
 
-        <p>This project was built by <a href="https://charanj.it">Charanjit Chana</a> and was an entry to the <a href="https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k">#dohackathon</a>, hosted on the <a href="https://m.do.co/c/04b9e2582817" rel="nofollow">DigitalOcean</a> platform.</p>
+        <p>This project was built with ❤️ by <a href="https://charanj.it">Charanjit Chana</a> as an entry to the <a href="https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k">#dohackathon</a> and is hosted on the <a href="https://m.do.co/c/04b9e2582817" rel="nofollow">DigitalOcean</a> platform.</p>
 
     </footer>
 
 </main>
 
-<script type="module" src="/js/app.js?v=1014"></script>
+<script type="module" src="/js/app.js?v=1015"></script>
 
 <script>
 if(allowedToTrack()) {
