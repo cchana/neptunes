@@ -146,6 +146,10 @@ article {
                 top: 0;
                 width: $base/2;
             }
+            span {
+                position: sticky;
+                top: 200px;
+            }
         }
         > div {
 
@@ -171,16 +175,15 @@ dl {
         img {
             border-radius: $borderRadius/2;
             box-shadow: 0 0 10px -3px rgba($black, .5);
-            height: 64px;
+            height: $base*5;
             margin-right: $base*2;
-            width: 64px;
+            width: $base*5;
         }
         h3 {
+            font-size: $base*2;
+            font-weight: 500;
             margin: 0;
             padding: 0;
-        }
-        h3 {
-            font-weight: 500;
         }
         em {
             display: block;
@@ -214,6 +217,13 @@ footer {
     margin: 0 auto;
     a {
         color: var(--white);
+    }
+}
+
+@media screen and (min-width: 800px) {
+    dl dt img {
+        height: $base*6;
+        width: $base*6
     }
 }
 

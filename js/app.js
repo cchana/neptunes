@@ -57,7 +57,7 @@ function _generateSongs(data, decadeFilter){
 	        while(year < decadeEnd) {
 	            // check if the year is supported
 	            if(data[decade][year] !== undefined && data[decade][year].length > 0) {
-					html += `<h3 id="year=${year}">${year}</h3>
+					html += `<h3 id="year=${year}"><span>${year}</span></h3>
 					<div>`;
 	                // for each song mentioned
 	                data[decade][year].forEach((album) => {

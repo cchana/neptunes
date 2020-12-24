@@ -138,6 +138,10 @@ article section > h3:before {
   top: 0;
   width: 4px;
 }
+article section > h3 span {
+  position: sticky;
+  top: 200px;
+}
 dl {
   border: 1px solid var(--border);
   border-radius: 16px;
@@ -158,16 +162,15 @@ dl dt {
 dl dt img {
   border-radius: 8px;
   box-shadow: 0 0 10px -3px rgba(31, 31, 31, 0.5);
-  height: 64px;
+  height: 40px;
   margin-right: 16px;
-  width: 64px;
+  width: 40px;
 }
 dl dt h3 {
+  font-size: 16px;
+  font-weight: 500;
   margin: 0;
   padding: 0;
-}
-dl dt h3 {
-  font-weight: 500;
 }
 dl dt em {
   display: block;
@@ -200,4 +203,11 @@ footer section {
 }
 footer a {
   color: var(--white);
+}
+
+@media screen and (min-width: 800px) {
+  dl dt img {
+    height: 48px;
+    width: 48px;
+  }
 }
