@@ -37,16 +37,16 @@ header {
     background-color: var(--black);
     box-shadow: 0 20px 20px -10px var(--black);
     box-sizing: border-box;
-    padding: $base*3 $base*2;
-    margin: 0 0 $base*3 (-$base*3);
+    display: flex;
+    flex-wrap: wrap;
+    padding: $base*3 0;
+    margin: 0 0 $base*3 $base*-3;
+    max-width: var(--maxWidth);
+    padding: $base*3 $base*3 0;
     position: sticky;
     top: 0;
-    z-index: 5;
     width: calc(100% + #{$base*6});
-    > div {
-        margin: 0 auto;
-        max-width: var(--maxWidth);
-    }
+    z-index: 5;
     h1 {
         font-size: $base*3;
         font-weight: 400;
@@ -54,35 +54,23 @@ header {
         padding: 0;
         text-align: center;
         text-transform: uppercase;
+        a {
+            padding: $base;
+        }
     }
     nav {
-        form {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            > label,
-            > input {
-                width: calc(50% - #{$base});
-            }
-            > label {
-                color: var(--white);
-                padding: $base 0;
-            }
-            >input[type="text"] {
-                font-size: $base*2;
-            }
-        }
+        flex: 1;
     }
     ul {
         display: flex;
-        justify-content: space-between;
+        justify-content: flex-end;
         margin: 0;
         padding: 0;
         li {
             list-style-type: none;
             margin: 0;
             padding: 0;
-            width: 25%;
+            width: 22.5%;
             &.selected a {
                 background-color: rgba($white,0.2);
                 border-radius: $base;
@@ -97,6 +85,32 @@ header {
             }
             img {
                 height: 32px;
+            }
+        }
+    }
+    form {
+        border-top: 1px solid var(--white);
+        display: flex;
+        padding: $base*2 0 0;
+        width: 100%;
+        justify-content: space-between;
+        > label,
+        > input {
+            width: calc(50% - #{$base});
+        }
+        > label {
+            color: var(--white);
+            padding: $base 0;
+        }
+        input[type="text"] {
+            background-color: rgba(255,255,255,0.25);
+            border: 0;
+            border-radius: $base*2;
+            color: var(--white);
+            font-size: $base*2;
+            padding: $base;
+            &:focus {
+                outline: 0;
             }
         }
     }
@@ -148,7 +162,7 @@ article {
             }
             span {
                 position: sticky;
-                top: 200px;
+                top: 180px;
             }
         }
         > div {

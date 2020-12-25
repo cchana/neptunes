@@ -28,16 +28,16 @@ header {
   background-color: var(--black);
   box-shadow: 0 20px 20px -10px var(--black);
   box-sizing: border-box;
-  padding: 24px 16px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 24px 0;
   margin: 0 0 24px -24px;
+  max-width: var(--maxWidth);
+  padding: 24px 24px 0;
   position: sticky;
   top: 0;
-  z-index: 5;
   width: calc(100% + 48px);
-}
-header > div {
-  margin: 0 auto;
-  max-width: var(--maxWidth);
+  z-index: 5;
 }
 header h1 {
   font-size: 24px;
@@ -47,25 +47,15 @@ header h1 {
   text-align: center;
   text-transform: uppercase;
 }
-header nav form {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+header h1 a {
+  padding: 8px;
 }
-header nav form > label,
-header nav form > input {
-  width: calc(50% - 8px);
-}
-header nav form > label {
-  color: var(--white);
-  padding: 8px 0;
-}
-header nav form > input[type=text] {
-  font-size: 16px;
+header nav {
+  flex: 1;
 }
 header ul {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   margin: 0;
   padding: 0;
 }
@@ -73,7 +63,7 @@ header ul li {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 25%;
+  width: 22.5%;
 }
 header ul li.selected a {
   background-color: rgba(255, 255, 255, 0.2);
@@ -89,6 +79,32 @@ header ul li a {
 }
 header ul li img {
   height: 32px;
+}
+header form {
+  border-top: 1px solid var(--white);
+  display: flex;
+  padding: 16px 0 0;
+  width: 100%;
+  justify-content: space-between;
+}
+header form > label,
+header form > input {
+  width: calc(50% - 8px);
+}
+header form > label {
+  color: var(--white);
+  padding: 8px 0;
+}
+header form input[type=text] {
+  background-color: rgba(255, 255, 255, 0.25);
+  border: 0;
+  border-radius: 16px;
+  color: var(--white);
+  font-size: 16px;
+  padding: 8px;
+}
+header form input[type=text]:focus {
+  outline: 0;
 }
 header a {
   color: #FFF;
@@ -140,7 +156,7 @@ article section > h3:before {
 }
 article section > h3 span {
   position: sticky;
-  top: 200px;
+  top: 180px;
 }
 dl {
   border: 1px solid var(--border);

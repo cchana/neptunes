@@ -2,33 +2,27 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-    <title>The Neptunes</title>
+    <title>The Neptunes Archive</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="/css/style.css?v=1016" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css?v=1017" />
 </head>
 <body>
 
 <header>
 
-    <div>
-
-        <h1><a href="/">The Neptunes</a></h1>
-        <nav>
-            <ul>
-                <li class="songs-1990"><a class="filter-decade" href="#1990s">1990s</a></li>
-                <li class="songs-2000"><a class="filter-decade" href="#2000s">2000s</a></li>
-                <li class="songs-2010"><a class="filter-decade" href="#2010s">2010s</a></li>
-                <li class="songs-2020"><a class="filter-decade" href="#2020s">2020s</a></li>
-            </ul>
-            <div>
-                <form onsubmit="return false;">
-                    <label for="reverseResults">Reverse results? <input type="checkbox" id="reverseResults" /></label>
-                    <input type="text" id="searchBox" placeholder="Filter by song, title or artist" />
-                </form>
-            </div>
-        </nav>
-
-    </div>
+    <h1><a href="/"><img src="/images/neptunes.svg" alt="The Neptunes Archive" /></a></h1>
+    <nav>
+        <ul>
+            <li class="songs-1990"><a class="filter-decade" href="#1990s">1990s</a></li>
+            <li class="songs-2000"><a class="filter-decade" href="#2000s">2000s</a></li>
+            <li class="songs-2010"><a class="filter-decade" href="#2010s">2010s</a></li>
+            <li class="songs-2020"><a class="filter-decade" href="#2020s">2020s</a></li>
+        </ul>
+    </nav>
+    <form onsubmit="return false;">
+        <label for="reverseResults">Reverse results? <input type="checkbox" id="reverseResults" /></label>
+        <input type="text" id="searchBox" placeholder="Filter by song, title or artist" />
+    </form>
 
 </header>
 
@@ -44,7 +38,7 @@
     <footer>
 
         <section>
-            <p>This piece is a work in progress, if you spot an error in the data please submit a <a href="https://github.com/cchana/neptunes">pull request</a> to get it updated.</p>
+            <p>If you spot an error in the data please submit a <a href="https://github.com/cchana/neptunes">pull request</a> to get it updated.</p>
         </section>
 
         <p>This project was built with ❤️ by <a href="https://charanj.it">Charanjit Chana</a> as an entry to the <a href="https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k">#dohackathon</a> and is hosted on the <a href="https://m.do.co/c/04b9e2582817" rel="nofollow">DigitalOcean</a> platform.</p>
