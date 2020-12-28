@@ -222,6 +222,10 @@ footer a {
 }
 
 @media screen and (min-width: 800px) {
+  header {
+    margin: 0 auto 24px;
+  }
+
   dl dt img {
     height: 48px;
     width: 48px;

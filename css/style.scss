@@ -235,6 +235,9 @@ footer {
 }
 
 @media screen and (min-width: 800px) {
+    header {
+        margin: 0 auto $base*3;
+    }
     dl dt img {
         height: $base*6;
         width: $base*6
