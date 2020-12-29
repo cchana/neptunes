@@ -1,5 +1,4 @@
-//TODO: Reverse Border
-//TODO: Search
+//TODO: Random track
 
 // store the loaded songs so that they don't need to be fetched constantly, can be read from memory instead
 let songs,
