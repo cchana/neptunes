@@ -144,7 +144,7 @@ function getSongs(decade) {
 		// add loading text first
 		content.innerHTML = '<p>Loading</p>';
 		// fetch the songs
-	    fetch('./data.json?v=1014')
+	    fetch('./data-min.json?v=1015')
 			// then process the response
 	        .then((response) => {
 				return response.json();
