@@ -34,7 +34,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/d5\/77\/ec\/mzi.kgmrjsen.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/harlem-world\/315230682",
           "amazon" : "",
           "spotify" : ""
         },
@@ -57,7 +57,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/75\/f9\/70\/75f970f6-2617-8219-128c-22d053312bca\/603497920600.png\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/n-o-r-e\/1288113551",
           "amazon" : "",
           "spotify" : ""
         },
@@ -119,7 +119,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/3d\/27\/b1\/3d27b18d-c365-6c32-0238-4e2a12bdde67\/603497927555.jpg\/128x128.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/total\/578516369",
           "amazon" : "",
           "spotify" : ""
         },
@@ -140,7 +140,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/d4\/0a\/78\/mzi.igvesjep.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/new-beginning\/258618441",
           "amazon" : "",
           "spotify" : ""
         },

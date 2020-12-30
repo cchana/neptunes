@@ -1,5 +1,4 @@
 //TODO: Random track
-//TODO: Cache breaker for data.json call (required?)
 
 // store the loaded songs so that they don't need to be fetched constantly, can be read from memory instead
 let songs,
@@ -104,8 +103,11 @@ function _template(album) {
 	html += `<h3>
 				${album.title}
 				<em>${album.artist}</em>
-			</h3>
-		</dt>
+			</h3>`;
+	if(album.links.apple !== '') {
+		html += `<a href="${album.links.apple}">Apple Music</a>`;
+	}
+	html += `</dt>
 		<dd>
 			<ol>`;
 	album.songs.forEach(song => {
@@ -116,9 +118,6 @@ function _template(album) {
 		html += `</li>`;
 	});
 	html += `</ol>
-			<!--div>
-				<p>Listen: <a href="#">Apple Music</a>, <a href="#">Spotify</a>, <a href="#">Amazon Music</a></p>
-			</div-->
 		</dd>
 	</dl>`;
 	return html

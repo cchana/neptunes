@@ -200,6 +200,7 @@ dl {
             width: $base*5;
         }
         h3 {
+            flex: 1;
             font-size: $base*2;
             font-weight: 500;
             margin: 0;
@@ -209,6 +210,10 @@ dl {
             display: block;
             font-weight: 300;
             font-style: normal;
+        }
+        a {
+            color: var(--white);
+            text-align: right;
         }
     }
     dd {
