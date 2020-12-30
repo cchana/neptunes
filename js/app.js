@@ -1,4 +1,5 @@
 //TODO: Random track
+//TODO: Cache breaker for data.json call (required?)
 
 // store the loaded songs so that they don't need to be fetched constantly, can be read from memory instead
 let songs,
