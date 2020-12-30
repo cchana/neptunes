@@ -2526,12 +2526,15 @@
                 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/98/a8/30/98a83072-e8b1-619d-202b-77d44bdef531/828765129527.jpg/128x128bb.jpeg"
             },
             {
-                "title": "",
-                "artist": "",
+                "title": "Chicken-n-Beer",
+                "artist": "Ludacris",
                 "songs": [
                     {
-                        "title": "",
-                        "featuring": [],
+                        "title": "P-Poppin",
+                        "featuring": [
+                            "Shawnna",
+                            "Lil Fate"
+                        ],
                         "links": {}
                     }
                 ],
@@ -2543,13 +2546,17 @@
                 "artwork": ""
             },
             {
-                "title": "",
-                "artist": "",
+                "title": "The Black Album",
+                "artist": "Jay-Z",
                 "songs": [
                     {
-                        "title": "",
+                        "title": "Change Clothes",
                         "featuring": [],
                         "links": {}
+                    },
+                    {
+                        "title": "Allure",
+                        "featuring": []
                     }
                 ],
                 "links": {
@@ -2560,13 +2567,28 @@
                 "artwork": ""
             },
             {
-                "title": "",
-                "artist": "",
+                "title": "Tasty",
+                "artist": "Kelis",
                 "songs": [
                     {
-                        "title": "",
-                        "featuring": [],
-                        "links": {}
+                        "title": "Milkshake",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Flashback",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Protect My Heart",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Sugar Honey Iced Tea",
+                        "featuring": []
+                    },
+                    {
+                        "title": "Rolling Through The Hood",
+                        "featuring": []
                     }
                 ],
                 "links": {
@@ -2577,12 +2599,14 @@
                 "artwork": ""
             },
             {
-                "title": "",
-                "artist": "",
+                "title": "Delinquent (Single)",
+                "artist": "Roscoe P. Coldchain",
                 "songs": [
                     {
-                        "title": "",
-                        "featuring": [],
+                        "title": "Delinquent",
+                        "featuring": [
+                            "Pharrell"
+                        ],
                         "links": {}
                     }
                 ],

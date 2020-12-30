@@ -3986,19 +3986,20 @@
           "amazon" : "",
           "spotify" : ""
         },
-        "title" : "",
+        "title" : "Chicken-n-Beer",
         "songs" : [
           {
-            "title" : "",
+            "title" : "P-Poppin",
             "featuring" : [
-
+              "Shawnna",
+              "Lil Fate"
             ],
             "links" : {
 
             }
           }
         ],
-        "artist" : ""
+        "artist" : "Ludacris"
       },
       {
         "artwork" : "",
@@ -4007,19 +4008,25 @@
           "amazon" : "",
           "spotify" : ""
         },
-        "title" : "",
+        "title" : "The Black Album",
         "songs" : [
           {
-            "title" : "",
+            "title" : "Change Clothes",
             "featuring" : [
 
             ],
             "links" : {
 
             }
+          },
+          {
+            "title" : "Allure",
+            "featuring" : [
+
+            ]
           }
         ],
-        "artist" : ""
+        "artist" : "Jay-Z"
       },
       {
         "artwork" : "",
@@ -4028,19 +4035,40 @@
           "amazon" : "",
           "spotify" : ""
         },
-        "title" : "",
+        "title" : "Tasty",
         "songs" : [
           {
-            "title" : "",
+            "title" : "Milkshake",
             "featuring" : [
 
-            ],
-            "links" : {
+            ]
+          },
+          {
+            "title" : "Flashback",
+            "featuring" : [
 
-            }
+            ]
+          },
+          {
+            "title" : "Protect My Heart",
+            "featuring" : [
+
+            ]
+          },
+          {
+            "title" : "Sugar Honey Iced Tea",
+            "featuring" : [
+
+            ]
+          },
+          {
+            "title" : "Rolling Through The Hood",
+            "featuring" : [
+
+            ]
           }
         ],
-        "artist" : ""
+        "artist" : "Kelis"
       },
       {
         "artwork" : "",
@@ -4049,19 +4077,19 @@
           "amazon" : "",
           "spotify" : ""
         },
-        "title" : "",
+        "title" : "Delinquent (Single)",
         "songs" : [
           {
-            "title" : "",
+            "title" : "Delinquent",
             "featuring" : [
-
+              "Pharrell"
             ],
             "links" : {
 
             }
           }
         ],
-        "artist" : ""
+        "artist" : "Roscoe P. Coldchain"
       }
     ],
     "2000" : [
