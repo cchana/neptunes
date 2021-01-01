@@ -41,7 +41,7 @@ function _generateSongs(data, decadeFilter){
     // foreach decade
     decades.forEach(decade => {
 		// write out the decade
-        html += `<section><h2 id="${decade}s">${decade}s</h2>`;
+		let tracks = '';
         // set the year to the current decade
         let year = decade,
 			// set initial decade end (depends on reversing)
@@ -56,13 +56,10 @@ function _generateSongs(data, decadeFilter){
 	        while(year < decadeEnd) {
 	            // check if the year is supported
 	            if(data[decade][year] !== undefined && data[decade][year].length > 0) {
-					html += `<h3 id="year=${year}"><span>${year}</span></h3>
-					<div>`;
 	                // for each song mentioned
 	                data[decade][year].forEach((album) => {
-						html += _template(album);
+						tracks += _template(album);
 	            	});
-					html += '</div>';
 	            }
 				// increment the year
 	            year++;
@@ -74,21 +71,20 @@ function _generateSongs(data, decadeFilter){
 			while(year >= decadeEnd) {
 	            // check if the year is supported
 	            if(data[decade][year] !== undefined && data[decade][year].length > 0) {
-					html += `<h3 id="year=${year}">${year}</h3>
-					<div>`;
 					// copy the songs
 					let reversedSongs = data[decade][year].map((x) => x);
 	                // reverse songs, then for each of them
 	                reversedSongs.reverse().forEach((album) => {
-						html += _template(album);
+						tracks += _template(album);
 	            	});
-					html += '</div>';
 	            }
 				// de-increment the year
 	            year--;
 	        }
 		}
-		html += '</section>';
+		if(tracks !== '') {
+			html += `<section><h2 id="${decade}s">${decade}s</h2><h3 id="year=${year}"><span>${year}</span></h3><div>${tracks}</div></section>`;
+		}
     });
 	return html;
 }
@@ -217,8 +213,14 @@ function searchSongs(filter) {
 			year++;
 		}
 	});
-	// populate the UI
-	document.querySelector('#songs').innerHTML = _generateSongs(filteredSongs);
+	let songResults = _generateSongs(filteredSongs),
+		container = document.querySelector('#songs');
+	if(songResults !== '') {
+		// populate the UI
+		container.innerHTML = songResults;
+	} else {
+		container.innerHTML = `<p>There were no results matching your search</p>`;
+	}
 }
 
 // when the page has loaded, start doing stuff

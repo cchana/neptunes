@@ -898,9 +898,9 @@
                 "links": {
                     "apple": "https://music.apple.com/us/album/in-search-of/1475690530?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
-                    "spotify": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/40/cd/7b/40cd7b93-c3b4-da25-f8fb-1ac3f39ab66b/19UMGIM71848.rgb.jpg/128x128bb.jpeg"
+                    "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/40/cd/7b/40cd7b93-c3b4-da25-f8fb-1ac3f39ab66b/19UMGIM71848.rgb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "This Ain't A Game",
