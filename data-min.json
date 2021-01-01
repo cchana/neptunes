@@ -34,7 +34,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/d5\/77\/ec\/mzi.kgmrjsen.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/harlem-world\/315230682",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/harlem-world\/315230682?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -57,7 +57,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/75\/f9\/70\/75f970f6-2617-8219-128c-22d053312bca\/603497920600.png\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/n-o-r-e\/1288113551",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/n-o-r-e\/1288113551?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -78,7 +78,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/b4\/93\/fd\/mzi.mevzlgxq.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/seven-seven\/265606947?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -119,7 +119,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/3d\/27\/b1\/3d27b18d-c365-6c32-0238-4e2a12bdde67\/603497927555.jpg\/128x128.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/total\/578516369",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/total\/578516369?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -140,7 +140,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/d4\/0a\/78\/mzi.igvesjep.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/new-beginning\/258618441",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/new-beginning\/258618441?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -367,7 +367,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/f6\/22\/bd\/f622bdb4-46e6-fdad-e936-9aadfeacdb84\/886448547792.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/whatcha-wanna-do-remixes-single\/1518073430",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/whatcha-wanna-do-remixes-single\/1518073430?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -390,7 +390,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/39\/29\/75\/392975d3-6e5e-28c0-11c7-c1200ca8ba1f\/cover.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-movement\/1499276156",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-movement\/1499276156?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -415,9 +415,9 @@
         "artist" : "Harlem World"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/8a\/49\/6c\/8a496c0a-3b3a-45f8-972c-b9df3bc45c69\/603497920594.png\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/melvyn-flynt-da-hustler\/1288136916?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -444,7 +444,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/0b\/90\/4a\/0b904a04-cbc8-6f71-9a13-0b43bc62f285\/603497849086.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/n-a-please-20th-anniversary-edition\/1480244624",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/n-a-please-20th-anniversary-edition\/1480244624?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -469,9 +469,9 @@
         "artist" : "Ol' Dirty Bastard"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/28\/5b\/9a\/285b9a71-055a-4c4a-f4d8-97574b6c3ea6\/886447598672.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/the-greatest-romance-ever-sold-remixes-single\/1458929811?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -492,7 +492,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/64\/1a\/fc\/641afc5b-8cfe-6163-d9c0-b9ca12d4fba2\/13ULAIM50611.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/kaleidoscope\/1021623048",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/kaleidoscope\/1021623048?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -635,7 +635,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music\/88\/b7\/3b\/mzi.ndnebvmf.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/lasers\/418674062",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/lasers\/418674062?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -656,7 +656,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/c8\/d7\/60\/c8d7605b-a012-c90b-00ad-a4e8fe01593c\/00602527670195.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/give-the-drummer-some-deluxe-version\/1440735102",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/give-the-drummer-some-deluxe-version\/1440735102?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -678,7 +678,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/c6\/85\/f9\/c685f9f0-1b10-7759-b082-0c07e5768025\/11UMGIM15764.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/finally-famous\/1440714925",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/finally-famous\/1440714925?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -699,7 +699,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/21\/2e\/b2\/212eb23b-3569-1d75-2510-c4c6435ce6e1\/810762030708_cover.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/when-fish-ride-bicycles\/1326433517",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/when-fish-ride-bicycles\/1326433517?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -723,7 +723,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/6d\/a1\/1f\/6da11f03-7ab8-ef17-0bb6-7261d0f2f510\/00602547790200.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/watch-the-throne\/1440848092",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/watch-the-throne\/1440848092?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -744,7 +744,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/ca\/13\/2f\/ca132f91-50d3-f421-737d-ba3109206874\/00812814020750.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/fear-of-god-ii-let-us-pray\/1401534975",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/fear-of-god-ii-let-us-pray\/1401534975?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -774,7 +774,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/12\/af\/1e\/12af1e59-fa09-47ed-8cbe-3a3029e3668e\/886446900759.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/man-of-the-woods\/1330759954",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/man-of-the-woods\/1330759954?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -840,9 +840,9 @@
     ],
     "2015" : [
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music3\/v4\/67\/ad\/85\/67ad856d-1595-e7fb-2fde-18d2d129f4af\/886445040067.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/music-from-the-spongebob-movie-sponge-out-of-water-ep\/958706609?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -872,7 +872,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music1\/v4\/ab\/8a\/0d\/ab8a0dce-f563-5b8c-9d60-d95938aa56a3\/dj.ufmcpiyg.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/bush\/961256177",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/bush\/961256177?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -920,13 +920,13 @@
     ],
     "2012" : [
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/0b\/e9\/cd\/mzi.nrhqqbji.tif\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/show-you-how-to-do-this-pt-1\/502281214?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
-        "title" : "Glory (Single)",
+        "title" : "Show You How To Do This Pt. 1",
         "songs" : [
           {
             "title" : "Glory",
@@ -943,7 +943,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/b1\/b1\/84\/b1b18461-de91-6f9f-2a59-742404332edd\/00602537065813.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/go-pop-bang-deluxe-version\/1444078954",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/go-pop-bang-deluxe-version\/1444078954?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -964,7 +964,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/1e\/83\/27\/1e83276b-b04d-d555-1400-06bf95a7f46e\/093624950165.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-stoned-immaculate-deluxe-version\/521023002",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-stoned-immaculate-deluxe-version\/521023002?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1024,7 +1024,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/y2005\/m07\/d18\/h08\/s05.giggcqcl.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/american-apathy\/75481800",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/american-apathy\/75481800?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1047,7 +1047,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/c8\/36\/02\/c836022a-de39-7468-c74d-ef35794b1f10\/193483999333.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/case-study-01\/1469319232",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/case-study-01\/1469319232?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1068,7 +1068,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/31\/54\/13\/31541335-04f3-411e-8e36-d1d1c6725498\/886447779910.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/letter-to-my-godfather-from-the-black-godfather-single\/1467003878",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/letter-to-my-godfather-from-the-black-godfather-single\/1467003878?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1091,7 +1091,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/3d\/1a\/d3\/3d1ad3a0-b012-a4ac-b605-84a830394f79\/00602547951724.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/wanderlust\/1440839831",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/wanderlust\/1440839831?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1114,7 +1114,7 @@
       {
         "artwork" : "",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/doris\/669700847",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/doris\/669700847?&at=10lIXX&ct=theneptunes",
           "amazon" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music4\/v4\/3c\/8d\/1c\/3c8d1c6a-44d8-059c-6b58-a20634fb49d9\/886444045094.jpg\/128x128bb.jpeg",
           "spotify" : ""
         },
@@ -1135,7 +1135,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/0b\/b7\/5c\/0bb75c1e-3106-f4cc-34fa-0b8bc078684d\/195410429739.png\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/wrath-of-a-outlaw-wrathofdeborahs-son-single\/1525286195",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/wrath-of-a-outlaw-wrathofdeborahs-son-single\/1525286195?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1158,7 +1158,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/d4\/4f\/d0\/d44fd056-bcf2-fac2-5311-04732dffc51d\/10UMGIM04917.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/battle-of-the-sexes-deluxe\/1472495201",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/battle-of-the-sexes-deluxe\/1472495201?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1177,9 +1177,9 @@
         "artist" : "Ludacris"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/82\/3b\/ee\/823bee16-13f8-04b7-704d-45f6938c52e4\/00602527557731.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/nothing-deluxe-version\/1443231164?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1287,7 +1287,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/21\/07\/a8\/2107a8b7-58bd-87dc-7d80-00afca23cf49\/050742335366_art.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/no-mercy-deluxe-version\/1260881243",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/no-mercy-deluxe-version\/1260881243?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1311,7 +1311,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/81\/b4\/a7\/mzi.lrcgtnao.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-lady-killer-deluxe-version\/400593412",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-lady-killer-deluxe-version\/400593412?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1334,7 +1334,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/4c\/96\/1e\/4c961ee0-4ad0-9c7d-56d6-fd8a1a332a5b\/886446856896.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/no-one-ever-really-dies\/1311935265",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/no-one-ever-really-dies\/1311935265?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1356,7 +1356,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/96\/c3\/43\/96c343c6-c6b3-cce8-6cc9-47b098959f19\/810043680462.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/suga\/1501734515",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/suga\/1501734515?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1381,9 +1381,9 @@
         "artist" : "Megan Thee Stallion"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/c6\/4d\/af\/c64daf6e-c3d2-9fac-95ea-48f371584531\/5056167123798_1.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/pomegranate-single\/1511541149?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1404,7 +1404,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/98\/80\/56\/988056a1-3963-af90-dc3c-b247b7f94b18\/20UMGIM41951.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/upside-down-2020\/1516043415",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/upside-down-2020\/1516043415?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1425,7 +1425,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/16\/e7\/75\/16e77543-25d3-f708-d6a4-517ba77dd57a\/886448698418.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/entrepreneur-feat-jay-z-single\/1526750923",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/entrepreneur-feat-jay-z-single\/1526750923?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1444,9 +1444,9 @@
         "artist" : "Pharrell"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/5a\/c4\/3b\/5ac43bb9-f94d-f182-6d7f-86dae31375d4\/812315037752_cover.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/trenches-feat-lil-baby-single\/1529886651?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1467,7 +1467,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/af\/dd\/65\/afdd6592-95d3-1e5e-e722-b90de96080db\/886448745594.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/hit-different-feat-ty-dolla-%24ign-single\/1530112355",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/hit-different-feat-ty-dolla-%24ign-single\/1530112355?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1515,7 +1515,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/6f\/ec\/78\/6fec785c-5f0f-3c2b-232b-82b290f97816\/00602517636460.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/ego-trippin\/1442951699",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/ego-trippin\/1442951699?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1533,7 +1533,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music\/e6\/f2\/0f\/mzi.rvjcvcvm.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/hard-candy-deluxe-version\/278674439",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/hard-candy-deluxe-version\/278674439?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1611,7 +1611,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/a0\/d0\/fc\/a0d0fc61-842d-5c2b-a9ee-95026b20db94\/00602517751057.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/seeing-sounds\/1440770822",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/seeing-sounds\/1440770822?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1704,7 +1704,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/f3\/a3\/10\/f3a31050-3345-216e-fe1a-b1988426e853\/889326371519_Cover.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/sol-angel-the-hadley-st-dreams-deluxe\/1040206681",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/sol-angel-the-hadley-st-dreams-deluxe\/1040206681?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1725,7 +1725,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/0e\/4d\/c0\/0e4dc044-610f-912c-2aa5-e18cab48d177\/00602517856257.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/brass-knuckles\/1442904765",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/brass-knuckles\/1442904765?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1744,9 +1744,9 @@
         "artist" : "Nelly"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/b5\/e7\/53\/b5e7539b-5561-d1f8-5a57-f9e4acc93f13\/00602517930636.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/she-loves-everybody-ep\/1445716954?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1767,7 +1767,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/ff\/2d\/14\/ff2d14c6-f9f8-fcc2-4672-0d7cb8981ef5\/00602517934801.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/universal-mind-control\/1444031271",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/universal-mind-control\/1444031271?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1826,7 +1826,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/18\/11\/ec\/mzi.gahnomvx.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/o-bonus-track-version\/187954873",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/o-bonus-track-version\/187954873?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1845,18 +1845,18 @@
         "artist" : "Omarion"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/cd\/89\/78\/cd8978a6-ec66-2bbe-c085-b2338a4d0ba7\/00602547668172.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/the-b-coming\/1440844985?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
         "title" : "The B. Coming",
         "songs" : [
           {
-            "title" : "",
+            "title" : "Don't Stop",
             "featuring" : [
-
+              "Snoop Dogg"
             ],
             "links" : {
 
@@ -1868,7 +1868,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music6\/v4\/c5\/eb\/6a\/c5eb6a65-2049-9573-cda2-e16cc5e09f54\/00724357729758.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-first-lady\/715835653",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-first-lady\/715835653?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1889,7 +1889,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/b3\/24\/25\/b3242551-6f91-c19e-ba19-ce673849400f\/15UMGIM78299.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-emancipation-of-mimi\/1476731879",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-emancipation-of-mimi\/1476731879?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1914,9 +1914,9 @@
         "artist" : "Mariah Carey"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Features\/16\/74\/49\/dj.qzvtnzcj.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/the-cookbook\/73240428?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1937,7 +1937,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/3b\/7b\/e0\/3b7be06d-b293-94c9-df7d-4711493616f2\/00602498635643.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/already-platinum\/1443594477",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/already-platinum\/1443594477?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -1997,7 +1997,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/3b\/7b\/e0\/3b7be06d-b293-94c9-df7d-4711493616f2\/00602498635643.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/sweat\/1443178529",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/sweat\/1443178529?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2018,7 +2018,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/13\/2a\/27\/132a27fc-b87d-c3ec-e849-a9ba8ca262c1\/00602498635698.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/suit\/1440715325",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/suit\/1440715325?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2039,7 +2039,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features\/d4\/c9\/da\/dj.ccmjbrzq.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-day-after\/80809044",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-day-after\/80809044?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2060,7 +2060,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/a8\/5d\/38\/a85d3823-d864-d896-a1ed-dfde07ca2267\/00602498814574.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/for-the-nasty-feat-busta-rhymes-single\/1443497949",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/for-the-nasty-feat-busta-rhymes-single\/1443497949?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2105,7 +2105,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music6\/v4\/96\/42\/00\/9642008a-c257-1192-5c5a-c5b987e564f7\/0724381183359_1404x1404_300dpi.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/everybody-hertz\/696885273",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/everybody-hertz\/696885273?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2124,31 +2124,9 @@
         "artist" : "Air"
       },
       {
-        "artwork" : "",
-        "links" : {
-          "apple" : "",
-          "amazon" : "",
-          "spotify" : ""
-        },
-        "title" : "Pass The Courvoisier Part II (Single)",
-        "songs" : [
-          {
-            "title" : "Pass the Courvoisier Part II",
-            "featuring" : [
-              "Pharrell",
-              "P. Diddy"
-            ],
-            "links" : {
-
-            }
-          }
-        ],
-        "artist" : "Busta Rhymes"
-      },
-      {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music7\/v4\/7e\/1b\/e7\/7e1be775-cc62-7065-c629-b58642df3432\/dj.jlinaqgj.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/this-is-the-remix\/201870962",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/this-is-the-remix\/201870962?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2169,7 +2147,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/53\/2f\/ca\/532fca00-1531-ddef-b4d2-a1f240ba5475\/00044001774720.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/nellyville\/1440769782",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/nellyville\/1440769782?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2190,7 +2168,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/de\/ad\/10\/dead103e-114e-d9f4-7260-3cdf59555b10\/06UMGIM15941.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/gods-favorite\/1443783675",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/gods-favorite\/1443783675?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2235,7 +2213,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/15\/6c\/b1\/mzi.taqbwohf.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/lord-willin\/309071685",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/lord-willin\/309071685?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2327,7 +2305,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Features\/v4\/e2\/2a\/4f\/e22a4f7d-413b-258f-16dc-d1ddebf1fd23\/dj.nepnotkm.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/nivea\/309066757",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/nivea\/309066757?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2369,7 +2347,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/ea\/09\/fe\/ea09fe4e-c88d-315b-5e63-8ae8ff6bd48c\/00602577027840.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-fix\/1450651510",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-fix\/1450651510?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2390,7 +2368,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music1\/v4\/1f\/f7\/78\/1ff77844-61e7-fd1d-b75c-ef8c173338c7\/dj.exdwtdee.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/3d\/268962095",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/3d\/268962095?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2409,13 +2387,13 @@
         "artist" : "TLC"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music4\/v4\/25\/e8\/f5\/25e8f5b2-2126-fcef-fb0e-7432aec37b5e\/00724381313459.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/tropical-storm\/724932684?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
-        "title" : "",
+        "title" : "Tropical Storm",
         "songs" : [
           {
             "title" : "Feel It Boy",
@@ -2427,12 +2405,12 @@
             }
           }
         ],
-        "artist" : ""
+        "artist" : "Beenie Man"
       },
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/ff\/a6\/24\/ffa62424-d481-4454-d442-4a6740ce1884\/06UMGIM24152.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/10\/1443503602",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/10\/1443503602?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2498,7 +2476,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music7\/v4\/da\/0e\/12\/da0e12a9-da3d-056a-e821-b3bc14ab184a\/dj.umvqrvup.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/justified\/252606580",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/justified\/252606580?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2555,7 +2533,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/a7\/6e\/89\/a76e8905-3b07-249f-5fea-c3cf1ce6e284\/00606949344221.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/girl-interrupted\/1443626818",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/girl-interrupted\/1443626818?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2576,7 +2554,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/0c\/8e\/e9\/0c8ee93e-5810-44ae-89c1-80b31ab7c33b\/00857366006999.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-blueprint-2-the-gift-the-curse\/1440935043",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-blueprint-2-the-gift-the-curse\/1440935043?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2615,7 +2593,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music\/y2005\/m08\/d23\/h23\/mzi.jnzxytrs.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/dutty-rock\/79305595",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/dutty-rock\/79305595?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2636,7 +2614,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music\/2c\/66\/ea\/mzi.ieumoqzu.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/more-than-a-woman\/306682410",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/more-than-a-woman\/306682410?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2657,7 +2635,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/af\/c7\/5c\/afc75c2b-a024-7c35-6300-4f8d1c4e1e47\/00044006348728.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-last-temptation\/1443515864",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-last-temptation\/1443515864?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2676,9 +2654,9 @@
         "artist" : "Ja Rule"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/b1\/40\/95\/b140953c-35ba-a5ac-23af-398a0c849465\/06UMGIM11556.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/birdman\/1443074984?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2694,12 +2672,12 @@
             }
           }
         ],
-        "artist" : "Birdman"
+        "artist" : "Baby"
       },
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/18\/3b\/73\/mzi.ksrnnqlw.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/it-aint-safe-no-more\/255357071",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/it-aint-safe-no-more\/255357071?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2749,7 +2727,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/88\/77\/63\/887763e8-b673-7e5a-fe8e-92d69cc7c9dd\/00602557357073.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/paid-tha-cost-to-be-da-bo%24%24\/1443272838",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/paid-tha-cost-to-be-da-bo%24%24\/1443272838?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2777,7 +2755,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/d7\/a6\/c2\/d7a6c2dc-f684-a35f-c960-3aaac5f14ba9\/00008811311421.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/electric-circus\/1444071085",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/electric-circus\/1444071085?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2804,7 +2782,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/ed\/5b\/fd\/ed5bfd37-39fe-3787-b735-9465755acb9c\/192641345845_Cover.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/solo-star\/1474187549",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/solo-star\/1474187549?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2909,7 +2887,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/6a\/60\/f4\/6a60f4be-3fdc-0de6-74f2-c13a6a487375\/00602527045610.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-last-kiss-bonus-track-version\/1443492519",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-last-kiss-bonus-track-version\/1443492519?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2958,7 +2936,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/5d\/b6\/f3\/5db6f3cd-069f-b91b-e0e1-f362669f350d\/00684329999551.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/persona-bonus-track-version\/1442853695",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/persona-bonus-track-version\/1442853695?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -2979,7 +2957,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/4f\/f3\/e9\/4ff3e979-d229-67b2-3a46-9d76cf3c6bc8\/00858786005463.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-blueprint-3\/1440932327",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-blueprint-3\/1440932327?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3000,7 +2978,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/51\/e4\/1a\/mzi.hvpbrkmc.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/she-wolf-deluxe-version\/340234380",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/she-wolf-deluxe-version\/340234380?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3071,9 +3049,9 @@
         "artist" : "Jennifer Lopez"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music7\/v4\/66\/8e\/74\/668e7458-435c-5381-75cd-59196977e4cc\/90210cover.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/90210-soundtrack\/1013660327?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3094,7 +3072,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/0a\/9e\/e4\/0a9ee407-20e9-f351-0efa-4037a6db51e6\/00602537409730.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-complete-remix-suite\/1443813805",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-complete-remix-suite\/1443813805?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3115,7 +3093,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/ed\/cf\/79\/edcf79ed-49f8-81a2-18ae-643de0632df6\/00602527274768.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/attention-deficit-bonus-track-version\/1443221533",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/attention-deficit-bonus-track-version\/1443221533?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3136,7 +3114,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music\/df\/81\/a4\/mzi.gevjxjib.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/til-the-casket-drops\/341698250",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/til-the-casket-drops\/341698250?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3224,9 +3202,9 @@
     ],
     "2006" : [
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/e2\/03\/40\/e2034040-b798-16fb-f79d-c00095afc9ef\/050742335434_art.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/king-deluxe-version\/1260894780?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3248,7 +3226,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/cf\/37\/0f\/cf370fd0-26c9-fa1c-d464-52e0091021cd\/00602537376902.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/todd-smith\/1443763637",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/todd-smith\/1443763637?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3267,9 +3245,9 @@
         "artist" : "LL Cool J"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/ab\/30\/3c\/ab303c10-a8f2-d5c8-70a7-46bf2c0bc363\/00602517052574.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/fast-furious-tokyo-drift-original-motion-picture-soundtrack\/1440773622?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3290,7 +3268,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/f8\/1a\/8d\/mzi.sozuruch.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/bday-deluxe-edition\/261707051",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/bday-deluxe-edition\/261707051?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3315,9 +3293,9 @@
         "artist" : "Beyoncé"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/e8\/8c\/60\/mzi.mbhnbrqv.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/lupe-fiascos-food-liquor\/189225199?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3338,7 +3316,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/4d\/a7\/52\/4da752a7-f689-d048-b8f8-4f4e77d5f538\/06UMGIM19394.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/release-therapy\/1440756826",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/release-therapy\/1440756826?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3365,7 +3343,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/07\/4b\/b1\/074bb1ae-8d24-a9e9-9d90-ab403cd80928\/00602517254855.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-evolution-of-robin-thicke-deluxe-edition\/1440784324",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-evolution-of-robin-thicke-deluxe-edition\/1440784324?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3386,7 +3364,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music6\/v4\/e1\/02\/08\/e10208af-a260-f50a-9cef-4156bcdaaeaf\/00094633558250.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/mr-brown\/712350446",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/mr-brown\/712350446?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3408,7 +3386,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music\/de\/4b\/0f\/mzi.lrcssjcl.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/press-play\/200919438",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/press-play\/200919438?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3429,7 +3407,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/cd\/be\/55\/cdbe55bc-373c-71fe-681b-21a31816b9b5\/00602517180857.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/kingdom-come\/1443074704",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/kingdom-come\/1443074704?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3451,7 +3429,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/1b\/0e\/d4\/1b0ed483-0997-7dd0-eed1-ebc85cf4be74\/00602517133921.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/tha-blue-carpet-treatment\/1440724341",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/tha-blue-carpet-treatment\/1440724341?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3478,7 +3456,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Features\/9b\/dd\/61\/dj.avjfsbkd.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/hell-hath-no-fury\/204865737",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/hell-hath-no-fury\/204865737?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3566,7 +3544,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/2f\/07\/4c\/2f074cc7-b6b9-4f41-33f8-8188aa973162\/00602577591419.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-sweet-escape\/1455389985",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-sweet-escape\/1455389985?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3605,7 +3583,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/a1\/d3\/05\/mzi.nzfmzboj.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-evolution-bonus-track-edition\/220195031",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-evolution-bonus-track-edition\/220195031?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3632,7 +3610,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/18\/78\/8d\/18788d8a-35e3-4bdd-cf94-64a40170df04\/00602498813683.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/sunday-love-full-length\/1443873127",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/sunday-love-full-length\/1443873127?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3653,7 +3631,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/2a\/b6\/d8\/2ab6d8fb-9833-8110-603c-e3ab58234622\/884977960587.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/21\/1308555924",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/21\/1308555924?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3669,9 +3647,9 @@
         "artist" : "Omarion"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/fd\/04\/28\/fd042883-84e1-bda3-357d-64f1752d4f2b\/00602517060579.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/true-magic\/1443202804?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3687,7 +3665,7 @@
             }
           }
         ],
-        "artist" : "Mos Dev"
+        "artist" : "Mos Def"
       }
     ],
     "2003" : [
@@ -3715,7 +3693,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/4f\/92\/10\/4f921094-733d-b8a7-4a39-8d9037f7b41d\/00044006613024.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/star\/1443202653",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/star\/1443202653?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3758,13 +3736,13 @@
         "artist" : "Kardinal Offishall"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/0c\/21\/72\/mzi.wyzpmyqb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/charlies-angels-full-throttle-music-from-motion-picture\/388136308?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
-        "title" : "Charlies Angels 2 - Full Throttle Original Soundtrack",
+        "title" : "Charlies Angels Full Throttle Original Soundtrack",
         "songs" : [
           {
             "title" : "Nas' Angels... The Flyest",
@@ -3779,9 +3757,9 @@
         "artist" : "Nas"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/y2005\/m09\/d21\/h12\/mzi.rjrjqctr.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/bad-boys-ii-soundtrack-2\/80967525?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3811,7 +3789,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/58\/80\/0e\/mzi.lzcelcmc.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/unleashed\/264098389",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/unleashed\/264098389?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3844,7 +3822,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music6\/v4\/98\/a8\/30\/98a83072-e8b1-619d-202b-77d44bdef531\/828765129527.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-neptunes-present-clones\/819130514",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-neptunes-present-clones\/819130514?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -3980,9 +3958,9 @@
         "artist" : "The Neptunes"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/ab\/be\/4a\/abbe4a06-d579-b276-117f-0fc5759058d2\/06UMGIM15857.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/chicken-n-beer\/1440760796?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4002,9 +3980,9 @@
         "artist" : "Ludacris"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/11\/06\/d5\/1106d5ff-34dc-0529-4300-bf1112afcbbc\/00602527361956.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-black-album\/1440785433?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4029,9 +4007,9 @@
         "artist" : "Jay-Z"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/1a\/79\/76\/mzi.pzuzolyw.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/tasty\/303084807?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4117,7 +4095,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/94\/40\/b2\/9440b2ee-cee7-4a08-81f7-5f9c1ec08c68\/cover.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/goodfellas\/1492460077",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/goodfellas\/1492460077?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4139,7 +4117,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music7\/v4\/14\/69\/9f\/14699faa-1fd4-4457-3917-c8eb3815dea4\/dj.eeshqfcl.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/lets-get-ready\/303175043",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/lets-get-ready\/303175043?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4176,9 +4154,9 @@
         "artist" : "Mystikal"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music4\/v4\/97\/13\/e1\/9713e136-c1a8-1627-8444-8f0daf7cef7f\/00724384909352.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/art-and-life\/723518371?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4199,7 +4177,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/y2005\/m09\/d21\/h14\/mzi.kwedisns.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/shyne\/80981316",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/shyne\/80981316?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4286,7 +4264,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features\/cb\/89\/3a\/dj.tscwvrcy.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-may-street-project\/299545731",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-may-street-project\/299545731?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4307,7 +4285,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/a2\/ea\/fe\/mzi.ffbcijjl.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/get-down-or-lay-down\/357841231",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/get-down-or-lay-down\/357841231?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4382,7 +4360,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/2f\/6f\/0b\/2f6f0ba5-1444-929c-3863-11d0b674cdc6\/00731454820325.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-dynasty-roc-la-familia-2000\/1440924901",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-dynasty-roc-la-familia-2000\/1440924901?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4424,7 +4402,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/84\/4b\/e2\/844be25a-a2fe-cca3-cee8-ad0f8e3f2dbd\/06UMGIM18713.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/back-for-the-first-time\/1440912680",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/back-for-the-first-time\/1440912680?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4447,7 +4425,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/6a\/9d\/c7\/mzi.esldcckh.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/hustlenomics\/262075228",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/hustlenomics\/262075228?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4474,7 +4452,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music\/85\/1a\/f1\/mzi.iwmpsyjg.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/adrenaline-rush-2007\/264085943",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/adrenaline-rush-2007\/264085943?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4495,7 +4473,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/2e\/65\/8f\/2e658ff7-441d-e910-a6a9-7fe1da95fc44\/05099950236558.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/its-my-time\/714465765",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/its-my-time\/714465765?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4516,7 +4494,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/04\/55\/f2\/0455f207-dae4-94c1-c587-e02dfefde7f4\/884977724936.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/blackout\/521738882",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/blackout\/521738882?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4537,7 +4515,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/71\/66\/58\/71665811-d4a1-3cc3-a3a3-76ce837d29e2\/15UMGIM77662.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/american-gangster\/1440835945",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/american-gangster\/1440835945?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4564,7 +4542,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/a4\/d7\/a9\/a4d7a91a-86a9-b16b-2ca2-92ad46e3d6a0\/886447415658.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/go\/1440634761",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/go\/1440634761?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4585,7 +4563,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/51\/1e\/29\/511e2963-ac8f-3003-8963-fd986ac4d8d6\/15UMGIM00470.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/growing-pains-deluxe\/1440828448",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/growing-pains-deluxe\/1440828448?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4627,9 +4605,9 @@
         "artist" : "Re-Up Gang"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/d0\/df\/b2\/d0dfb277-a5f1-6a95-2a08-e35631087679\/00602498616987.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/barbershop-2-back-in-business-soundtrack-from-motion\/1443197041?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4650,7 +4628,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music\/e3\/e9\/68\/mzi.lfskilky.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/cee-lo-green-is-the-soul-machine\/304765336",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/cee-lo-green-is-the-soul-machine\/304765336?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4674,7 +4652,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/bf\/11\/94\/bf1194ad-d6a2-64b2-0b30-e9b1d8ca2971\/00724359145754.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/fly-or-die\/723643660",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/fly-or-die\/723643660?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4762,7 +4740,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/7c\/93\/c2\/7c93c200-2d5a-873f-2d32-6ea29b3ea090\/00602498626610.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/kiss-of-death\/1440745394",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/kiss-of-death\/1440745394?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4783,7 +4761,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/64\/d4\/43\/64d443b8-a185-7c82-3e6a-c0edd3ca9c38\/00602498637050.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-beautiful-struggle\/1443600373",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-beautiful-struggle\/1443600373?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4804,7 +4782,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/y2004\/m11\/d04\/h10\/s06.pcpvkatw.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/real-talk\/28518205",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/real-talk\/28518205?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4832,7 +4810,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/7f\/b7\/dc\/7fb7dca6-e9fc-8838-59ee-8868399981fb\/00602498867532.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/love-angel-music-baby-deluxe-international-version\/1452869898",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/love-angel-music-baby-deluxe-international-version\/1452869898?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4853,7 +4831,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/02\/29\/1c\/02291ce9-6ce0-a61b-20bd-2777c68de31f\/dj.aomwaeef.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/crunk-juice\/425298628",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/crunk-juice\/425298628?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4873,9 +4851,9 @@
         "artist" : "Lil' Jon & The Eastside Boyz"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/3b\/bc\/2e\/3bbc2ec3-4ac0-9bf1-aa66-1d514c5738f4\/00075021034518.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/r-g-rhythm-gangsta-the-masterpiece\/1443395920?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -4921,7 +4899,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/55\/99\/7d\/55997d4c-7045-fc8a-90d4-797f7792bff1\/075678379666_cover.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/urban-legend\/1258975633",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/urban-legend\/1258975633?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5008,7 +4986,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/cf\/48\/81\/mzi.zwvwwzmk.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/dr-dolittle-2-original-soundtrack\/255428594",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/dr-dolittle-2-original-soundtrack\/255428594?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5030,7 +5008,7 @@
       {
         "artwork" : "",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/in-search-of\/1475690530",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/in-search-of\/1475690530?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/40\/cd\/7b\/40cd7b93-c3b4-da25-f8fb-1ac3f39ab66b\/19UMGIM71848.rgb.jpg\/128x128bb.jpeg"
         },
@@ -5122,7 +5100,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music127\/v4\/fb\/0a\/db\/fb0adb61-c483-35bb-e925-c3d855f8daf1\/075678343926.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/this-aint-a-game\/1234336554",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/this-aint-a-game\/1234336554?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5155,7 +5133,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/41\/f7\/42\/mzi.vqcbihgt.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/im-serious\/255376337",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/im-serious\/255376337?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5180,9 +5158,9 @@
         "artist" : "T.I."
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/e1\/32\/c1\/e132c17e-6125-b9d5-d112-3931073a8265\/contsched.tjiuqveo.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/harder-better-faster-stronger-ep\/696783048?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5224,7 +5202,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/90\/d4\/b0\/90d4b003-7bb7-5e0d-c4a7-5dce7c1f1f08\/06UMGIM05033.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/broken-silence\/1443779349",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/broken-silence\/1443779349?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5249,9 +5227,9 @@
         "artist" : "Foxy Brown"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music62\/v4\/c7\/4d\/7e\/c74d7ea2-56cb-f5e4-1909-741be6b71ecc\/888880447609.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/britney-deluxe-version\/273143821?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5281,7 +5259,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/72\/9a\/3d\/729a3d02-49d8-20d5-0206-26d047a9165d\/886447923054.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/wanderland\/1511198247",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/wanderland\/1511198247?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5419,7 +5397,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/72\/62\/42\/mzi.ujsnucjs.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/fortune-cookie\/396470012",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/fortune-cookie\/396470012?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5438,9 +5416,9 @@
         "artist" : "Alana Davis"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/ee\/fc\/aa\/mzi.ptjopkwz.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/whats-going-on\/400068343?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5461,7 +5439,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/18\/43\/fc\/mzi.fhrcqyux.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/instructions\/190799106",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/instructions\/190799106?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5483,7 +5461,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music\/y2005\/m09\/d21\/h14\/mzi.itiuyprk.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/faithfully\/80983125",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/faithfully\/80983125?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5504,7 +5482,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/8a\/dd\/f9\/8addf9ae-32c5-77a7-c935-6908cde85d2d\/886448385905.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/genesis\/1506982209",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/genesis\/1506982209?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5524,6 +5502,16 @@
             "featuring" : [
               "Kelis"
             ]
+          },
+          {
+            "title" : "Pass the Courvoisier Part II",
+            "featuring" : [
+              "Pharrell",
+              "P. Diddy"
+            ],
+            "links" : {
+
+            }
           }
         ],
         "artist" : "Busta Rhymes"
@@ -5531,7 +5519,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/33\/09\/3f\/33093f3b-c602-2267-2d9b-c03ef1fa7bb6\/00606949319229.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/new-old-songs\/1443739076",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/new-old-songs\/1443739076?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5558,7 +5546,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/76\/cf\/cf\/76cfcf86-c076-220d-1cbd-1f7693e6ffac\/00724352909155.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/greatest-hits\/725863059",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/greatest-hits\/725863059?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5579,7 +5567,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/8e\/18\/a8\/mzi.sivraonm.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/better-days\/267954948",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/better-days\/267954948?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5598,9 +5586,9 @@
         "artist" : "Joe"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music60\/v4\/0e\/2b\/64\/0e2b64c0-2352-ce56-551a-dfd4b6b73d94\/886445925050.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/doggy-bag\/1116982670?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5621,7 +5609,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/2a\/56\/ba\/mzi.dwcqlmts.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/tarantula\/304790322",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/tarantula\/304790322?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5714,7 +5702,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/7e\/cd\/42\/7ecd42da-081a-919b-5a74-16abfdfbf3ca\/00606949301125.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/kiss-tha-game-goodbye\/1440898467",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/kiss-tha-game-goodbye\/1440898467?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5735,7 +5723,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/y2005\/m08\/d18\/h02\/mzi.wmmnpfqg.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/the-saga-continues\/78989520",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/the-saga-continues\/78989520?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5756,7 +5744,7 @@
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/d4\/f9\/fe\/mzi.wyqpdgzo.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/x-o-experience\/192965533",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/x-o-experience\/192965533?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5777,7 +5765,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music\/a7\/46\/bc\/mzi.psbsnhyy.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/ghetto-fabolous\/343469021",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/ghetto-fabolous\/343469021?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5835,30 +5823,9 @@
         "artist" : "Garbage"
       },
       {
-        "artwork" : "",
-        "links" : {
-          "apple" : "",
-          "amazon" : "",
-          "spotify" : ""
-        },
-        "title" : "",
-        "songs" : [
-          {
-            "title" : "",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          }
-        ],
-        "artist" : ""
-      },
-      {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/3e\/4c\/13\/3e4c13fd-ed55-bc8b-a1cd-307c9d576083\/078221471527.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/8701\/268532446",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/8701\/268532446?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5886,7 +5853,7 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/43\/fe\/0a\/mzi.ugrggnxo.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/thug-on-da-line\/270629692",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/thug-on-da-line\/270629692?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5907,7 +5874,7 @@
       {
         "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/32\/8a\/97\/328a977f-8deb-9264-7786-daded9b55b1d\/00602547209337.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/no-more-drama-deluxe\/1442964062",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/no-more-drama-deluxe\/1442964062?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5949,7 +5916,7 @@
       {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music\/1e\/13\/4c\/mzi.bnkwnbbo.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/face-2-face\/282798801",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/face-2-face\/282798801?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5973,7 +5940,7 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music\/96\/c9\/86\/mzi.siscajhr.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/celebrity\/303178981",
+          "apple" : "https:\/\/music.apple.com\/us\/album\/celebrity\/303178981?&at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },
@@ -5998,9 +5965,9 @@
         "artist" : "NSYNC"
       },
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/56\/15\/33\/561533be-d616-d4ae-151e-6f324ddbad01\/00731458621621.rgb.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "",
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/rush-hour-ii-soundtrack-from-the-motion-picture\/1446861782?at=10lIXX&ct=theneptunes",
           "amazon" : "",
           "spotify" : ""
         },

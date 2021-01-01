@@ -12,7 +12,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/total/578516369",
+                    "apple": "https://music.apple.com/us/album/total/578516369?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -29,7 +29,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/new-beginning/258618441",
+                    "apple": "https://music.apple.com/us/album/new-beginning/258618441?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -72,7 +72,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/harlem-world/315230682",
+                    "apple": "https://music.apple.com/us/album/harlem-world/315230682?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -91,7 +91,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/n-o-r-e/1288113551",
+                    "apple": "https://music.apple.com/us/album/n-o-r-e/1288113551?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -122,7 +122,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/seven-seven/265606947?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -286,7 +286,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/whatcha-wanna-do-remixes-single/1518073430",
+                    "apple": "https://music.apple.com/us/album/whatcha-wanna-do-remixes-single/1518073430?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -312,7 +312,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-movement/1499276156",
+                    "apple": "https://music.apple.com/us/album/the-movement/1499276156?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -335,11 +335,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/melvyn-flynt-da-hustler/1288136916?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/8a/49/6c/8a496c0a-3b3a-45f8-972c-b9df3bc45c69/603497920594.png/128x128bb.jpeg"
             },
             {
                 "title": "Nigga Please",
@@ -356,7 +356,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/n-a-please-20th-anniversary-edition/1480244624",
+                    "apple": "https://music.apple.com/us/album/n-a-please-20th-anniversary-edition/1480244624?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -375,11 +375,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/the-greatest-romance-ever-sold-remixes-single/1458929811?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/28/5b/9a/285b9a71-055a-4c4a-f4d8-97574b6c3ea6/886447598672.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Kaleidoscope",
@@ -466,7 +466,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/kaleidoscope/1021623048",
+                    "apple": "https://music.apple.com/us/album/kaleidoscope/1021623048?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -507,7 +507,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/goodfellas/1492460077",
+                    "apple": "https://music.apple.com/us/album/goodfellas/1492460077?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -540,7 +540,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/lets-get-ready/303175043",
+                    "apple": "https://music.apple.com/us/album/lets-get-ready/303175043?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -559,11 +559,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/art-and-life/723518371?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music4/v4/97/13/e1/9713e136-c1a8-1627-8444-8f0daf7cef7f/00724384909352.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Shyne",
@@ -576,7 +576,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/shyne/80981316",
+                    "apple": "https://music.apple.com/us/album/shyne/80981316?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -653,7 +653,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-may-street-project/299545731",
+                    "apple": "https://music.apple.com/us/album/the-may-street-project/299545731?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -712,7 +712,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/get-down-or-lay-down/357841231",
+                    "apple": "https://music.apple.com/us/album/get-down-or-lay-down/357841231?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -729,7 +729,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-dynasty-roc-la-familia-2000/1440924901",
+                    "apple": "https://music.apple.com/us/album/the-dynasty-roc-la-familia-2000/1440924901?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -765,7 +765,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/back-for-the-first-time/1440912680",
+                    "apple": "https://music.apple.com/us/album/back-for-the-first-time/1440912680?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -824,7 +824,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/dr-dolittle-2-original-soundtrack/255428594",
+                    "apple": "https://music.apple.com/us/album/dr-dolittle-2-original-soundtrack/255428594?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -896,7 +896,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/in-search-of/1475690530",
+                    "apple": "https://music.apple.com/us/album/in-search-of/1475690530?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/40/cd/7b/40cd7b93-c3b4-da25-f8fb-1ac3f39ab66b/19UMGIM71848.rgb.jpg/128x128bb.jpeg"
                 },
@@ -925,7 +925,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/this-aint-a-game/1234336554",
+                    "apple": "https://music.apple.com/us/album/this-aint-a-game/1234336554?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -948,7 +948,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/im-serious/255376337",
+                    "apple": "https://music.apple.com/us/album/im-serious/255376337?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -965,11 +965,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/harder-better-faster-stronger-ep/696783048?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e1/32/c1/e132c17e-6125-b9d5-d112-3931073a8265/contsched.tjiuqveo.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Saints & Sinners",
@@ -1003,7 +1003,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/broken-silence/1443779349",
+                    "apple": "https://music.apple.com/us/album/broken-silence/1443779349?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1025,11 +1025,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/britney-deluxe-version/273143821?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music62/v4/c7/4d/7e/c74d7ea2-56cb-f5e4-1909-741be6b71ecc/888880447609.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Wanderland",
@@ -1117,7 +1117,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/wanderland/1511198247",
+                    "apple": "https://music.apple.com/us/album/wanderland/1511198247?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1134,7 +1134,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/fortune-cookie/396470012",
+                    "apple": "https://music.apple.com/us/album/fortune-cookie/396470012?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1151,11 +1151,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/whats-going-on/400068343?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music/ee/fc/aa/mzi.ptjopkwz.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Instructions",
@@ -1171,7 +1171,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/instructions/190799106",
+                    "apple": "https://music.apple.com/us/album/instructions/190799106?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1188,7 +1188,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/faithfully/80983125",
+                    "apple": "https://music.apple.com/us/album/faithfully/80983125?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1208,10 +1208,18 @@
                         "featuring": [
                             "Kelis"
                         ]
+                    },
+                    {
+                        "title": "Pass the Courvoisier Part II",
+                        "featuring": [
+                            "Pharrell",
+                            "P. Diddy"
+                        ],
+                        "links": {}
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/genesis/1506982209",
+                    "apple": "https://music.apple.com/us/album/genesis/1506982209?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1232,7 +1240,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/new-old-songs/1443739076",
+                    "apple": "https://music.apple.com/us/album/new-old-songs/1443739076?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1251,7 +1259,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/greatest-hits/725863059",
+                    "apple": "https://music.apple.com/us/album/greatest-hits/725863059?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1268,7 +1276,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/better-days/267954948",
+                    "apple": "https://music.apple.com/us/album/better-days/267954948?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1285,11 +1293,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/doggy-bag/1116982670?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/0e/2b/64/0e2b64c0-2352-ce56-551a-dfd4b6b73d94/886445925050.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Tarantula",
@@ -1310,7 +1318,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/tarantula/304790322",
+                    "apple": "https://music.apple.com/us/album/tarantula/304790322?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1381,7 +1389,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/kiss-tha-game-goodbye/1440898467",
+                    "apple": "https://music.apple.com/us/album/kiss-tha-game-goodbye/1440898467?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1398,7 +1406,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-saga-continues/78989520",
+                    "apple": "https://music.apple.com/us/album/the-saga-continues/78989520?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1417,7 +1425,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/x-o-experience/192965533",
+                    "apple": "https://music.apple.com/us/album/x-o-experience/192965533?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1434,7 +1442,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/ghetto-fabolous/343469021",
+                    "apple": "https://music.apple.com/us/album/ghetto-fabolous/343469021?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1474,23 +1482,6 @@
                 "artwork": ""
             },
             {
-                "title": "",
-                "artist": "",
-                "songs": [
-                    {
-                        "title": "",
-                        "featuring": [],
-                        "links": {}
-                    }
-                ],
-                "links": {
-                    "apple": "",
-                    "amazon": "",
-                    "spotify": ""
-                },
-                "artwork": ""
-            },
-            {
                 "title": "8701",
                 "artist": "Usher",
                 "songs": [
@@ -1508,7 +1499,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/8701/268532446",
+                    "apple": "https://music.apple.com/us/album/8701/268532446?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1527,7 +1518,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/thug-on-da-line/270629692",
+                    "apple": "https://music.apple.com/us/album/thug-on-da-line/270629692?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1544,7 +1535,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/no-more-drama-deluxe/1442964062",
+                    "apple": "https://music.apple.com/us/album/no-more-drama-deluxe/1442964062?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1585,7 +1576,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/face-2-face/282798801",
+                    "apple": "https://music.apple.com/us/album/face-2-face/282798801?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1608,7 +1599,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/celebrity/303178981",
+                    "apple": "https://music.apple.com/us/album/celebrity/303178981?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1627,11 +1618,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/rush-hour-ii-soundtrack-from-the-motion-picture/1446861782?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/56/15/33/561533be-d616-d4ae-151e-6f324ddbad01/00731458621621.rgb.jpg/128x128bb.jpeg"
             }
         ],
         "2002": [
@@ -1646,31 +1637,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/everybody-hertz/696885273",
+                    "apple": "https://music.apple.com/us/album/everybody-hertz/696885273?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
                 "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/96/42/00/9642008a-c257-1192-5c5a-c5b987e564f7/0724381183359_1404x1404_300dpi.jpg/128x128bb.jpeg"
-            },
-            {
-                "title": "Pass The Courvoisier Part II (Single)",
-                "artist": "Busta Rhymes",
-                "songs": [
-                    {
-                        "title": "Pass the Courvoisier Part II",
-                        "featuring": [
-                            "Pharrell",
-                            "P. Diddy"
-                        ],
-                        "links": {}
-                    }
-                ],
-                "links": {
-                    "apple": "",
-                    "amazon": "",
-                    "spotify": ""
-                },
-                "artwork": ""
             },
             {
                 "title": "This Is The Remix",
@@ -1683,7 +1654,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/this-is-the-remix/201870962",
+                    "apple": "https://music.apple.com/us/album/this-is-the-remix/201870962?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1700,7 +1671,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/nellyville/1440769782",
+                    "apple": "https://music.apple.com/us/album/nellyville/1440769782?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1737,7 +1708,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/gods-favorite/1443783675",
+                    "apple": "https://music.apple.com/us/album/gods-favorite/1443783675?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1827,7 +1798,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/lord-willin/309071685",
+                    "apple": "https://music.apple.com/us/album/lord-willin/309071685?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1844,7 +1815,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/nivea/309066757",
+                    "apple": "https://music.apple.com/us/album/nivea/309066757?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1880,7 +1851,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-fix/1450651510",
+                    "apple": "https://music.apple.com/us/album/the-fix/1450651510?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -1897,15 +1868,15 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/3d/268962095",
+                    "apple": "https://music.apple.com/us/album/3d/268962095?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
                 "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music1/v4/1f/f7/78/1ff77844-61e7-fd1d-b75c-ef8c173338c7/dj.exdwtdee.jpg/128x128bb.jpeg"
             },
             {
-                "title": "",
-                "artist": "",
+                "title": "Tropical Storm",
+                "artist": "Beenie Man",
                 "songs": [
                     {
                         "title": "Feel It Boy",
@@ -1914,11 +1885,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/tropical-storm/724932684?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/25/e8/f5/25e8f5b2-2126-fcef-fb0e-7432aec37b5e/00724381313459.jpg/128x128bb.jpeg"
             },
             {
                 "title": "10",
@@ -1951,7 +1922,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/10/1443503602",
+                    "apple": "https://music.apple.com/us/album/10/1443503602?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2011,7 +1982,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/justified/252606580",
+                    "apple": "https://music.apple.com/us/album/justified/252606580?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2028,7 +1999,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/girl-interrupted/1443626818",
+                    "apple": "https://music.apple.com/us/album/girl-interrupted/1443626818?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2061,7 +2032,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-blueprint-2-the-gift-the-curse/1440935043",
+                    "apple": "https://music.apple.com/us/album/the-blueprint-2-the-gift-the-curse/1440935043?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2080,7 +2051,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/dutty-rock/79305595",
+                    "apple": "https://music.apple.com/us/album/dutty-rock/79305595?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2099,7 +2070,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/more-than-a-woman/306682410",
+                    "apple": "https://music.apple.com/us/album/more-than-a-woman/306682410?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2116,7 +2087,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-last-temptation/1443515864",
+                    "apple": "https://music.apple.com/us/album/the-last-temptation/1443515864?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2124,7 +2095,7 @@
             },
             {
                 "title": "Birdman",
-                "artist": "Birdman",
+                "artist": "Baby",
                 "songs": [
                     {
                         "title": "What Happened To That Boy",
@@ -2135,11 +2106,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/birdman/1443074984?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/b1/40/95/b140953c-35ba-a5ac-23af-398a0c849465/06UMGIM11556.rgb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "It Ain't Safe No More...",
@@ -2154,7 +2125,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/it-aint-safe-no-more/255357071",
+                    "apple": "https://music.apple.com/us/album/it-aint-safe-no-more/255357071?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2207,7 +2178,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/paid-tha-cost-to-be-da-bo%24%24/1443272838",
+                    "apple": "https://music.apple.com/us/album/paid-tha-cost-to-be-da-bo%24%24/1443272838?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2232,7 +2203,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/electric-circus/1444071085",
+                    "apple": "https://music.apple.com/us/album/electric-circus/1444071085?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2249,7 +2220,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/solo-star/1474187549",
+                    "apple": "https://music.apple.com/us/album/solo-star/1474187549?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2294,7 +2265,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/star/1443202653",
+                    "apple": "https://music.apple.com/us/album/star/1443202653?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2318,7 +2289,7 @@
                 "artwork": ""
             },
             {
-                "title": "Charlies Angels 2 - Full Throttle Original Soundtrack",
+                "title": "Charlies Angels Full Throttle Original Soundtrack",
                 "artist": "Nas",
                 "songs": [
                     {
@@ -2330,11 +2301,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/charlies-angels-full-throttle-music-from-motion-picture/388136308?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/0c/21/72/mzi.wyzpmyqb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Bady Boys 2 Original Soundtrack",
@@ -2358,11 +2329,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/bad-boys-ii-soundtrack-2/80967525?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music/y2005/m09/d21/h12/mzi.rjrjqctr.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Unleashed",
@@ -2385,7 +2356,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/unleashed/264098389",
+                    "apple": "https://music.apple.com/us/album/unleashed/264098389?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2519,7 +2490,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-neptunes-present-clones/819130514",
+                    "apple": "https://music.apple.com/us/album/the-neptunes-present-clones/819130514?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2539,11 +2510,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://music.apple.com/us/album/chicken-n-beer/1440760796?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/ab/be/4a/abbe4a06-d579-b276-117f-0fc5759058d2/06UMGIM15857.rgb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "The Black Album",
@@ -2560,11 +2531,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://music.apple.com/us/album/the-black-album/1440785433?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/11/06/d5/1106d5ff-34dc-0529-4300-bf1112afcbbc/00602527361956.rgb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Tasty",
@@ -2592,11 +2563,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://music.apple.com/us/album/tasty/303084807?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/1a/79/76/mzi.pzuzolyw.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Delinquent (Single)",
@@ -2649,11 +2620,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/barbershop-2-back-in-business-soundtrack-from-motion/1443197041?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/d0/df/b2/d0dfb277-a5f1-6a95-2a08-e35631087679/00602498616987.rgb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Cee-Lo Green... Is The Soul Machine",
@@ -2673,7 +2644,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/cee-lo-green-is-the-soul-machine/304765336",
+                    "apple": "https://music.apple.com/us/album/cee-lo-green-is-the-soul-machine/304765336?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2737,7 +2708,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/fly-or-die/723643660",
+                    "apple": "https://music.apple.com/us/album/fly-or-die/723643660?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2756,7 +2727,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/kiss-of-death/1440745394",
+                    "apple": "https://music.apple.com/us/album/kiss-of-death/1440745394?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2773,7 +2744,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-beautiful-struggle/1443600373",
+                    "apple": "https://music.apple.com/us/album/the-beautiful-struggle/1443600373?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2799,7 +2770,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/real-talk/28518205",
+                    "apple": "https://music.apple.com/us/album/real-talk/28518205?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2816,7 +2787,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/love-angel-music-baby-deluxe-international-version/1452869898",
+                    "apple": "https://music.apple.com/us/album/love-angel-music-baby-deluxe-international-version/1452869898?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2836,7 +2807,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/crunk-juice/425298628",
+                    "apple": "https://music.apple.com/us/album/crunk-juice/425298628?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2878,11 +2849,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/r-g-rhythm-gangsta-the-masterpiece/1443395920?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3b/bc/2e/3bbc2ec3-4ac0-9bf1-aa66-1d514c5738f4/00075021034518.rgb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Urban Legend",
@@ -2897,7 +2868,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/urban-legend/1258975633",
+                    "apple": "https://music.apple.com/us/album/urban-legend/1258975633?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2935,7 +2906,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/o-bonus-track-version/187954873",
+                    "apple": "https://music.apple.com/us/album/o-bonus-track-version/187954873?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2946,17 +2917,19 @@
                 "artist": "Beenie Sigel",
                 "songs": [
                     {
-                        "title": "",
-                        "featuring": [],
+                        "title": "Don't Stop",
+                        "featuring": [
+                            "Snoop Dogg"
+                        ],
                         "links": {}
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/the-b-coming/1440844985?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/cd/89/78/cd8978a6-ec66-2bbe-c085-b2338a4d0ba7/00602547668172.rgb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "The First Lady",
@@ -2971,7 +2944,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-first-lady/715835653",
+                    "apple": "https://music.apple.com/us/album/the-first-lady/715835653?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -2996,7 +2969,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-emancipation-of-mimi/1476731879",
+                    "apple": "https://music.apple.com/us/album/the-emancipation-of-mimi/1476731879?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3013,11 +2986,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/the-cookbook/73240428?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Features/16/74/49/dj.qzvtnzcj.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Already Platinum",
@@ -3063,7 +3036,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/already-platinum/1443594477",
+                    "apple": "https://music.apple.com/us/album/already-platinum/1443594477?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3080,7 +3053,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/sweat/1443178529",
+                    "apple": "https://music.apple.com/us/album/sweat/1443178529?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3099,7 +3072,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/suit/1440715325",
+                    "apple": "https://music.apple.com/us/album/suit/1440715325?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3118,7 +3091,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-day-after/80809044",
+                    "apple": "https://music.apple.com/us/album/the-day-after/80809044?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3138,7 +3111,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/for-the-nasty-feat-busta-rhymes-single/1443497949",
+                    "apple": "https://music.apple.com/us/album/for-the-nasty-feat-busta-rhymes-single/1443497949?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3179,11 +3152,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/king-deluxe-version/1260894780?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e2/03/40/e2034040-b798-16fb-f79d-c00095afc9ef/050742335434_art.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Todd Smith",
@@ -3198,7 +3171,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/todd-smith/1443763637",
+                    "apple": "https://music.apple.com/us/album/todd-smith/1443763637?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3215,11 +3188,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/fast-furious-tokyo-drift-original-motion-picture-soundtrack/1440773622?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/ab/30/3c/ab303c10-a8f2-d5c8-70a7-46bf2c0bc363/00602517052574.rgb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "B'Day",
@@ -3236,7 +3209,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/bday-deluxe-edition/261707051",
+                    "apple": "https://music.apple.com/us/album/bday-deluxe-edition/261707051?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3253,11 +3226,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/lupe-fiascos-food-liquor/189225199?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music/e8/8c/60/mzi.mbhnbrqv.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Release Therapy",
@@ -3274,7 +3247,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/release-therapy/1440756826",
+                    "apple": "https://music.apple.com/us/album/release-therapy/1440756826?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3293,7 +3266,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-evolution-of-robin-thicke-deluxe-edition/1440784324",
+                    "apple": "https://music.apple.com/us/album/the-evolution-of-robin-thicke-deluxe-edition/1440784324?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3313,7 +3286,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/mr-brown/712350446",
+                    "apple": "https://music.apple.com/us/album/mr-brown/712350446?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3332,7 +3305,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/press-play/200919438",
+                    "apple": "https://music.apple.com/us/album/press-play/200919438?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3352,7 +3325,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/kingdom-come/1443074704",
+                    "apple": "https://music.apple.com/us/album/kingdom-come/1443074704?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3375,7 +3348,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/tha-blue-carpet-treatment/1440724341",
+                    "apple": "https://music.apple.com/us/album/tha-blue-carpet-treatment/1440724341?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3449,7 +3422,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/hell-hath-no-fury/204865737",
+                    "apple": "https://music.apple.com/us/album/hell-hath-no-fury/204865737?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3480,7 +3453,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-sweet-escape/1455389985",
+                    "apple": "https://music.apple.com/us/album/the-sweet-escape/1455389985?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3503,7 +3476,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-evolution-bonus-track-edition/220195031",
+                    "apple": "https://music.apple.com/us/album/the-evolution-bonus-track-edition/220195031?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3520,7 +3493,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/sunday-love-full-length/1443873127",
+                    "apple": "https://music.apple.com/us/album/sunday-love-full-length/1443873127?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3535,7 +3508,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/21/1308555924",
+                    "apple": "https://music.apple.com/us/album/21/1308555924?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3543,7 +3516,7 @@
             },
             {
                 "title": "True Magic",
-                "artist": "Mos Dev",
+                "artist": "Mos Def",
                 "songs": [
                     {
                         "title": "Murder Of A Teenage Life",
@@ -3552,11 +3525,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/true-magic/1443202804?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/fd/04/28/fd042883-84e1-bda3-357d-64f1752d4f2b/00602517060579.rgb.jpg/128x128bb.jpeg"
             }
         ],
         "2007": [
@@ -3577,7 +3550,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/hustlenomics/262075228",
+                    "apple": "https://music.apple.com/us/album/hustlenomics/262075228?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3596,7 +3569,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/adrenaline-rush-2007/264085943",
+                    "apple": "https://music.apple.com/us/album/adrenaline-rush-2007/264085943?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3615,7 +3588,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/its-my-time/714465765",
+                    "apple": "https://music.apple.com/us/album/its-my-time/714465765?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3632,7 +3605,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/blackout/521738882",
+                    "apple": "https://music.apple.com/us/album/blackout/521738882?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3657,7 +3630,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/american-gangster/1440835945",
+                    "apple": "https://music.apple.com/us/album/american-gangster/1440835945?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3674,7 +3647,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/go/1440634761",
+                    "apple": "https://music.apple.com/us/album/go/1440634761?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3691,7 +3664,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/growing-pains-deluxe/1440828448",
+                    "apple": "https://music.apple.com/us/album/growing-pains-deluxe/1440828448?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3711,7 +3684,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/ego-trippin/1442951699",
+                    "apple": "https://music.apple.com/us/album/ego-trippin/1442951699?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3754,7 +3727,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/hard-candy-deluxe-version/278674439",
+                    "apple": "https://music.apple.com/us/album/hard-candy-deluxe-version/278674439?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3836,7 +3809,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/seeing-sounds/1440770822",
+                    "apple": "https://music.apple.com/us/album/seeing-sounds/1440770822?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3853,7 +3826,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/sol-angel-the-hadley-st-dreams-deluxe/1040206681",
+                    "apple": "https://music.apple.com/us/album/sol-angel-the-hadley-st-dreams-deluxe/1040206681?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3872,7 +3845,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/brass-knuckles/1442904765",
+                    "apple": "https://music.apple.com/us/album/brass-knuckles/1442904765?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -3889,11 +3862,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/she-loves-everybody-ep/1445716954?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/b5/e7/53/b5e7539b-5561-d1f8-5a57-f9e4acc93f13/00602517930636.rgb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Universal Mind Control",
@@ -3939,7 +3912,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/universal-mind-control/1444031271",
+                    "apple": "https://music.apple.com/us/album/universal-mind-control/1444031271?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4047,7 +4020,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-last-kiss-bonus-track-version/1443492519",
+                    "apple": "https://music.apple.com/us/album/the-last-kiss-bonus-track-version/1443492519?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4081,7 +4054,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/persona-bonus-track-version/1442853695",
+                    "apple": "https://music.apple.com/us/album/persona-bonus-track-version/1442853695?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4100,7 +4073,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-blueprint-3/1440932327",
+                    "apple": "https://music.apple.com/us/album/the-blueprint-3/1440932327?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4137,7 +4110,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/she-wolf-deluxe-version/340234380",
+                    "apple": "https://music.apple.com/us/album/she-wolf-deluxe-version/340234380?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4176,11 +4149,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/90210-soundtrack/1013660327?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music7/v4/66/8e/74/668e7458-435c-5381-75cd-59196977e4cc/90210cover.jpg/128x128bb.jpeg"
             },
             {
                 "title": "The Remix Suite",
@@ -4193,7 +4166,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-complete-remix-suite/1443813805",
+                    "apple": "https://music.apple.com/us/album/the-complete-remix-suite/1443813805?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4212,7 +4185,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/attention-deficit-bonus-track-version/1443221533",
+                    "apple": "https://music.apple.com/us/album/attention-deficit-bonus-track-version/1443221533?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4274,7 +4247,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/til-the-casket-drops/341698250",
+                    "apple": "https://music.apple.com/us/album/til-the-casket-drops/341698250?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4315,7 +4288,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/battle-of-the-sexes-deluxe/1472495201",
+                    "apple": "https://music.apple.com/us/album/battle-of-the-sexes-deluxe/1472495201?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4397,11 +4370,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/nothing-deluxe-version/1443231164?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/82/3b/ee/823bee16-13f8-04b7-704d-45f6938c52e4/00602527557731.rgb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "No Mercy",
@@ -4421,7 +4394,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/no-mercy-deluxe-version/1260881243",
+                    "apple": "https://music.apple.com/us/album/no-mercy-deluxe-version/1260881243?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4438,7 +4411,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-lady-killer-deluxe-version/400593412",
+                    "apple": "https://music.apple.com/us/album/the-lady-killer-deluxe-version/400593412?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4457,7 +4430,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/lasers/418674062",
+                    "apple": "https://music.apple.com/us/album/lasers/418674062?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4477,7 +4450,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/give-the-drummer-some-deluxe-version/1440735102",
+                    "apple": "https://music.apple.com/us/album/give-the-drummer-some-deluxe-version/1440735102?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4494,7 +4467,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/finally-famous/1440714925",
+                    "apple": "https://music.apple.com/us/album/finally-famous/1440714925?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4516,7 +4489,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/when-fish-ride-bicycles/1326433517",
+                    "apple": "https://music.apple.com/us/album/when-fish-ride-bicycles/1326433517?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4533,7 +4506,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/watch-the-throne/1440848092",
+                    "apple": "https://music.apple.com/us/album/watch-the-throne/1440848092?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4559,7 +4532,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/fear-of-god-ii-let-us-pray/1401534975",
+                    "apple": "https://music.apple.com/us/album/fear-of-god-ii-let-us-pray/1401534975?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4568,7 +4541,7 @@
         ],
         "2012": [
             {
-                "title": "Glory (Single)",
+                "title": "Show You How To Do This Pt. 1",
                 "artist": "Jay-Z",
                 "songs": [
                     {
@@ -4580,11 +4553,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/show-you-how-to-do-this-pt-1/502281214?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music/0b/e9/cd/mzi.nrhqqbji.tif/128x128bb.jpeg"
             },
             {
                 "title": "Go! Pop! Bang!",
@@ -4599,7 +4572,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/go-pop-bang-deluxe-version/1444078954",
+                    "apple": "https://music.apple.com/us/album/go-pop-bang-deluxe-version/1444078954?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4618,7 +4591,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-stoned-immaculate-deluxe-version/521023002",
+                    "apple": "https://music.apple.com/us/album/the-stoned-immaculate-deluxe-version/521023002?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4676,7 +4649,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/american-apathy/75481800",
+                    "apple": "https://music.apple.com/us/album/american-apathy/75481800?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4697,7 +4670,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/doris/669700847",
+                    "apple": "https://music.apple.com/us/album/doris/669700847?&at=10lIXX&ct=theneptunes",
                     "amazon": "https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/3c/8d/1c/3c8d1c6a-44d8-059c-6b58-a20634fb49d9/886444045094.jpg/128x128bb.jpeg",
                     "spotify": ""
                 },
@@ -4714,7 +4687,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/wrath-of-a-outlaw-wrathofdeborahs-son-single/1525286195",
+                    "apple": "https://music.apple.com/us/album/wrath-of-a-outlaw-wrathofdeborahs-son-single/1525286195?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4740,11 +4713,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/music-from-the-spongebob-movie-sponge-out-of-water-ep/958706609?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/67/ad/85/67ad856d-1595-e7fb-2fde-18d2d129f4af/886445040067.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Bush",
@@ -4780,7 +4753,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/bush/961256177",
+                    "apple": "https://music.apple.com/us/album/bush/961256177?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4799,7 +4772,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/wanderlust/1440839831",
+                    "apple": "https://music.apple.com/us/album/wanderlust/1440839831?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4817,7 +4790,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/no-one-ever-really-dies/1311935265",
+                    "apple": "https://music.apple.com/us/album/no-one-ever-really-dies/1311935265?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4867,7 +4840,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/man-of-the-woods/1330759954",
+                    "apple": "https://music.apple.com/us/album/man-of-the-woods/1330759954?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4886,7 +4859,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/case-study-01/1469319232",
+                    "apple": "https://music.apple.com/us/album/case-study-01/1469319232?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4903,7 +4876,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/letter-to-my-godfather-from-the-black-godfather-single/1467003878",
+                    "apple": "https://music.apple.com/us/album/letter-to-my-godfather-from-the-black-godfather-single/1467003878?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4930,7 +4903,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/suga/1501734515",
+                    "apple": "https://music.apple.com/us/album/suga/1501734515?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4947,11 +4920,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/pomegranate-single/1511541149?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/c6/4d/af/c64daf6e-c3d2-9fac-95ea-48f371584531/5056167123798_1.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Upside Down 2020",
@@ -4964,7 +4937,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/upside-down-2020/1516043415",
+                    "apple": "https://music.apple.com/us/album/upside-down-2020/1516043415?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -4983,7 +4956,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/entrepreneur-feat-jay-z-single/1526750923",
+                    "apple": "https://music.apple.com/us/album/entrepreneur-feat-jay-z-single/1526750923?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
@@ -5002,11 +4975,11 @@
                     }
                 ],
                 "links": {
-                    "apple": "",
+                    "apple": "https://geo.music.apple.com/us/album/trenches-feat-lil-baby-single/1529886651?at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
-                "artwork": ""
+                "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/5a/c4/3b/5ac43bb9-f94d-f182-6d7f-86dae31375d4/812315037752_cover.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Hit Different (Single)",
@@ -5021,7 +4994,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/hit-different-feat-ty-dolla-%24ign-single/1530112355",
+                    "apple": "https://music.apple.com/us/album/hit-different-feat-ty-dolla-%24ign-single/1530112355?&at=10lIXX&ct=theneptunes",
                     "amazon": "",
                     "spotify": ""
                 },
