@@ -57,9 +57,13 @@ function _generateSongs(data, decadeFilter){
 	            // check if the year is supported
 	            if(data[decade][year] !== undefined && data[decade][year].length > 0) {
 	                // for each song mentioned
+					let trackOutput = '';
 	                data[decade][year].forEach((album) => {
-						tracks += _template(album);
+						trackOutput += _template(album);
 	            	});
+					if(trackOutput !== '') {
+						tracks += `<h3 id="year=${year}"><span>${year}</span></h3><div>${trackOutput}</div>`;
+					}
 	            }
 				// increment the year
 	            year++;
@@ -72,18 +76,22 @@ function _generateSongs(data, decadeFilter){
 	            // check if the year is supported
 	            if(data[decade][year] !== undefined && data[decade][year].length > 0) {
 					// copy the songs
-					let reversedSongs = data[decade][year].map((x) => x);
+					let reversedSongs = data[decade][year].map((x) => x),
+						trackOutput = '';
 	                // reverse songs, then for each of them
 	                reversedSongs.reverse().forEach((album) => {
-						tracks += _template(album);
+						trackOutput += _template(album);
 	            	});
+					if(trackOutput !== '') {
+						tracks += `<h3 id="year=${year}"><span>${year}</span></h3><div>${trackOutput}</div>`;
+					}
 	            }
 				// de-increment the year
 	            year--;
 	        }
 		}
 		if(tracks !== '') {
-			html += `<section><h2 id="${decade}s">${decade}s</h2><h3 id="year=${year}"><span>${year}</span></h3><div>${tracks}</div></section>`;
+			html += `<section><h2 id="${decade}s">${decade}s</h2>${tracks}</section>`;
 		}
     });
 	return html;
