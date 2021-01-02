@@ -36,17 +36,24 @@ header {
   background-image: url("/images/stars_bg.jpg");
   background-attachment: fixed;
   background-position: top center;
-  box-shadow: 0 20px 20px -10px #000;
   box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
-  margin: 0 0 24px -24px;
   max-width: var(--maxWidth);
-  padding: 24px 24px 0;
+  padding: 24px 0 0;
   position: sticky;
   top: 0;
-  width: calc(100% + 48px);
+  width: 100%;
   z-index: 5;
+}
+header:after {
+  background-image: linear-gradient(to bottom, black, rgba(0, 0, 0, 0));
+  bottom: -24px;
+  content: "";
+  display: block;
+  height: 24px;
+  position: absolute;
+  width: 100%;
 }
 header h1 {
   font-size: 24px;
@@ -95,14 +102,6 @@ header form {
   padding: 16px 0;
   width: 100%;
   justify-content: space-between;
-  /*> label,
-  > input {
-      width: calc(50% - 8px);
-  }
-  > label {
-      color: var(--white);
-      padding: $base 0;
-  }*/
 }
 header form input[type=search] {
   background-color: rgba(255, 255, 255, 0.75);
@@ -134,7 +133,7 @@ article aside {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 8px 24px 24px;
+  margin: 8px 0 24px;
   padding: 16px;
 }
 article aside h2 {
@@ -148,7 +147,8 @@ article aside img {
   width: 128px;
 }
 article aside blockquote {
-  margin: 0;
+  flex: 1;
+  margin: 0 24px 0 0;
   max-width: 45ch;
 }
 article aside blockquote p {
@@ -162,7 +162,7 @@ article aside blockquote cite {
 }
 article > h2 {
   border-bottom: 1px solid var(--white);
-  margin: 24px 40px;
+  margin: 24px 0;
   padding: 0 0 8px;
 }
 
@@ -224,7 +224,7 @@ dl dd details {
   background-color: rgba(0, 0, 0, 0.1);
   border-radius: 5.3333333333px;
   font-size: 12px;
-  margin: 8px 0 0;
+  margin: 16px 0 0;
 }
 dl dd details summary,
 dl dd details p {
@@ -251,7 +251,7 @@ footer section {
   border-color: var(--white);
   border-style: solid;
   border-width: 1px 0 0;
-  margin: 0 24px;
+  margin: 0;
 }
 footer section p {
   margin: 16px;
@@ -302,7 +302,7 @@ footer a {
   top: 180px;
 }
 #songs section > div {
-  margin: 0 24px 0 0;
+  margin: 0;
 }
 
 @media screen and (min-width: 800px) {
@@ -313,5 +313,10 @@ footer a {
   dl dt img {
     height: 48px;
     width: 48px;
+  }
+
+  article aside img {
+    height: 128px;
+    width: 128px;
   }
 }
