@@ -232,7 +232,7 @@ function searchSongs(filter) {
 		// populate the UI
 		container.innerHTML = songResults;
 	} else {
-		container.innerHTML = `<p>There were no results matching your search</p>`;
+		container.innerHTML = `<p class="error">There were no results matching your search</p>`;
 	}
 	calculateOffset();
 }
