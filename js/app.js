@@ -108,9 +108,6 @@ function _template(album) {
 				${album.title}
 				<em>${album.artist}</em>
 			</h3>`;
-	if(album.links.apple !== '') {
-		html += `<a href="${album.links.apple}">Apple Music</a>`;
-	}
 	html += `</dt>
 		<dd>
 			<ol>`;
@@ -121,8 +118,16 @@ function _template(album) {
 		}
 		html += `</li>`;
 	});
-	html += `</ol>
-		</dd>
+	html += `</ol>`;
+	if(album.links.apple !== '') {
+		html += `<details>
+			<summary>More Information</summary>
+
+			<p>Find this album on <a href="${album.links.apple}" rel="sponsor">Apple Music</a>.</p>
+
+		</details>`;
+	}
+		html += `</dd>
 	</dl>`;
 	return html
 }

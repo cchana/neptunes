@@ -27,6 +27,10 @@ main {
   max-width: var(--maxWidth);
 }
 
+p {
+  line-height: 24px;
+}
+
 header {
   background-color: var(--black);
   background-image: url("/images/stars_bg.jpg");
@@ -36,10 +40,9 @@ header {
   box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
-  padding: 24px 0;
   margin: 0 0 24px -24px;
   max-width: var(--maxWidth);
-  padding: 24px 24px;
+  padding: 24px 24px 0;
   position: sticky;
   top: 0;
   width: calc(100% + 48px);
@@ -89,27 +92,29 @@ header ul li img {
 header form {
   border-top: 1px solid var(--white);
   display: flex;
-  padding: 16px 0 0;
+  padding: 16px 0;
   width: 100%;
   justify-content: space-between;
+  /*> label,
+  > input {
+      width: calc(50% - 8px);
+  }
+  > label {
+      color: var(--white);
+      padding: $base 0;
+  }*/
 }
-header form > label,
-header form > input {
-  width: calc(50% - 8px);
-}
-header form > label {
-  color: var(--white);
-  padding: 8px 0;
-}
-header form input[type=text] {
-  background-color: rgba(255, 255, 255, 0.25);
+header form input[type=search] {
+  background-color: rgba(255, 255, 255, 0.75);
   border: 0;
   border-radius: 16px;
-  color: var(--white);
+  color: var(--black);
   font-size: 16px;
+  font-weight: 500;
   padding: 8px;
+  width: 100%;
 }
-header form input[type=text]:focus {
+header form input[type=search]:focus {
   outline: 0;
 }
 header a {
@@ -123,53 +128,50 @@ header a:hover {
 article {
   padding: 16px 0;
 }
-article section {
-  display: grid;
-  grid-gap: 16px;
-  grid-template-columns: min(20%, 200px) min(calc(80% - 16px), 800px);
+article aside {
+  background-color: rgba(255, 255, 255, 0.25);
+  border-radius: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 8px 24px 24px;
+  padding: 16px;
+}
+article aside h2 {
+  margin: 0 0 16px;
+  width: 100%;
+}
+article aside img {
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(31, 31, 31, 0.5);
+  height: 128px;
+  width: 128px;
+}
+article aside blockquote {
   margin: 0;
-  padding: 0 0 24px;
+  max-width: 45ch;
 }
-article section > h2,
-article section > h3 {
-  color: var(--white);
-  text-align: right;
-}
-article section h2 {
-  font-size: 32px;
-  font-weight: 500;
-  grid-column: 1/2;
+article aside blockquote p {
+  font-style: italic;
   margin: 0;
   padding: 0;
 }
-article section > h3 {
-  font-size: 24px;
-  font-weight: 300;
-  grid-column: 1/2;
-  margin: 0;
-  padding: 0 16px 0 0;
-  position: relative;
-}
-article section > h3:before {
-  background-color: var(--border);
-  content: "";
+article aside blockquote cite {
   display: block;
-  height: 100%;
-  position: absolute;
-  right: 0;
-  top: 0;
-  width: 4px;
+  text-align: right;
 }
-article section > h3 span {
-  position: sticky;
-  top: 180px;
+article > h2 {
+  border-bottom: 1px solid var(--white);
+  margin: 24px 40px;
+  padding: 0 0 8px;
 }
+
 dl {
   border: 1px solid var(--border);
   border-radius: 16px;
   box-shadow: 0 0 16px #000;
   color: var(--black);
-  margin: 16px auto 0;
+  margin: 16px 0 0;
 }
 dl:first-child {
   margin: 0 auto;
@@ -200,10 +202,6 @@ dl dt em {
   font-weight: 300;
   font-style: normal;
 }
-dl dt a {
-  color: var(--white);
-  text-align: right;
-}
 dl dd {
   background-color: var(--white);
   border-radius: 0 0 16px 16px;
@@ -222,6 +220,29 @@ dl dd ol li {
 dl dd ol li:first-child {
   padding: 0;
 }
+dl dd details {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 5.3333333333px;
+  font-size: 12px;
+  margin: 8px 0 0;
+}
+dl dd details summary,
+dl dd details p {
+  color: var(--black);
+  padding: 8px;
+}
+dl dd details summary {
+  cursor: pointer;
+  outline: 0;
+}
+dl dd details p {
+  background-color: rgba(255, 255, 255, 0.25);
+  border-top: 1px solid var(--white);
+  margin: 0;
+}
+dl dd details a {
+  color: var(--black);
+}
 
 footer {
   margin: 0 auto;
@@ -229,15 +250,64 @@ footer {
 footer section {
   border-color: var(--white);
   border-style: solid;
-  border-width: 1px 0;
+  border-width: 1px 0 0;
+  margin: 0 24px;
+}
+footer section p {
+  margin: 16px;
 }
 footer a {
   color: var(--white);
 }
 
+#songs section {
+  display: grid;
+  grid-gap: 16px;
+  grid-template-columns: min(20%, 200px) min(calc(80% - 16px), 800px);
+  margin: 0;
+  padding: 0 0 24px;
+}
+#songs section > h2,
+#songs section > h3 {
+  color: var(--white);
+  text-align: right;
+}
+#songs section h2 {
+  font-size: 32px;
+  font-weight: 500;
+  grid-column: 1/2;
+  margin: 0;
+  padding: 0;
+}
+#songs section > h3 {
+  font-size: 24px;
+  font-weight: 300;
+  grid-column: 1/2;
+  margin: 0;
+  padding: 0 16px 0 0;
+  position: relative;
+}
+#songs section > h3:before {
+  background-color: var(--border);
+  content: "";
+  display: block;
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 4px;
+}
+#songs section > h3 span {
+  position: sticky;
+  top: 180px;
+}
+#songs section > div {
+  margin: 0 24px 0 0;
+}
+
 @media screen and (min-width: 800px) {
   header {
-    margin: 0 auto 24px;
+    margin: 0 auto;
   }
 
   dl dt img {

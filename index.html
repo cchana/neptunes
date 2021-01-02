@@ -4,8 +4,7 @@
 <meta charset="utf-8">
     <title>The Neptunes Archive</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="/css/style.css?ckcachebust=e8d954244bb79dae5f71ecc7a27aeac9" />
-    <link rel="canonical" href="https://theneptunes.1thingawek.com?ckcachebust=631059272" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css?ckcachebust=fe98c2e5612db45ac83a709635ea5bd0" />
 </head>
 <body>
 
@@ -21,8 +20,8 @@
         </ul>
     </nav>
     <form onsubmit="return false;">
-        <label for="reverseResults">Reverse results? <input type="checkbox" id="reverseResults" /></label>
-        <input type="text" id="searchBox" placeholder="Filter by song, title or artist" />
+        <!--label for="reverseResults">Reverse results? <input type="checkbox" id="reverseResults" /></label-->
+        <input type="search" id="searchBox" placeholder="Filter by album title, song, or artist" />
     </form>
 
 </header>
@@ -30,6 +29,25 @@
 <main id="app">
 
     <article>
+
+        <aside>
+
+            <h2>The Neptunes Archive</h2>
+
+            <blockquote>
+                <p>The Neptunes are an American production duo composed of Pharrell Williams and Chad Hugo, formed in Virginia Beach, Virginia in 1990. Williams often provides additional vocals on records and appears in the duo's music videos while Hugo tends to stay behind the scenes.</p>
+                <footer>
+                    <cite>
+                        <a href="https://en.wikipedia.org/wiki/The_Neptunes">Wikipedia</a>
+                    </cite>
+                </footer>
+            </blockquote>
+
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/98/a8/30/98a83072-e8b1-619d-202b-77d44bdef531/828765129527.jpg/256x256bb.jpeg" alt="The Neptunes" />
+
+        </aside>
+
+        <h2>The Archive</h2>
 
         <div id="songs">
         </div>
@@ -39,18 +57,29 @@
     <footer>
 
         <section>
-            <p>Spotted an error? Submit a <a href="https://github.com/cchana/neptunes">pull request</a> to get it updated.</p>
+            <p>Spotted an error? Submit a <a href="https://github.com/cchana/neptunes">pull request</a> to get it updated. This project began as an entry to the <a href="https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k">#dohackathon</a> and is hosted on the <a href="https://m.do.co/c/04b9e2582817" rel="nofollow">DigitalOcean</a> platform.</p>
+
         </section>
 
-        <p>This project began as an entry to the <a href="https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k">#dohackathon</a> and is hosted on the <a href="https://m.do.co/c/04b9e2582817" rel="nofollow">DigitalOcean</a> platform.</p>
+        <!--section>
 
-        <p>Built with ❤️ by <a href="https://charanj.it">Charanjit Chana</a></p>
+            <a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/cchana/neptunes/tree/main">
+                <img src="https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg" alt="Deploy to DO">
+            </a>
+
+        </section-->
+
+        <section>
+
+            <p>Built with ❤️ by <a href="https://charanj.it">Charanjit Chana</a></p>
+
+        </section>
 
     </footer>
 
 </main>
 
-<script type="module" src="/js/app.js?ckcachebust=89472aeb5a8ee4d8c5a7d20744cb97ae"></script>
+<script type="module" src="/js/app.js?ckcachebust=973d2a612a6ae414dd3b43d6086986aa"></script>
 
 <script>
 if(allowedToTrack()) {

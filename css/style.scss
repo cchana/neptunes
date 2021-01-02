@@ -36,6 +36,10 @@ main {
     max-width: var(--maxWidth);
 }
 
+p {
+    line-height: $base*3;
+}
+
 header {
     background-color: var(--black);
     background-image: url('/images/stars_bg.jpg'); // STAR TRAK
@@ -45,10 +49,9 @@ header {
     box-sizing: border-box;
     display: flex;
     flex-wrap: wrap;
-    padding: $base*3 0;
     margin: 0 0 $base*3 $base*-3;
     max-width: var(--maxWidth);
-    padding: $base*3 $base*3;
+    padding: $base*3 $base*3 0;
     position: sticky;
     top: 0;
     width: calc(100% + #{$base*6});
@@ -97,24 +100,26 @@ header {
     form {
         border-top: 1px solid var(--white);
         display: flex;
-        padding: $base*2 0 0;
+        padding: $base*2 0;
         width: 100%;
         justify-content: space-between;
-        > label,
+        /*> label,
         > input {
             width: calc(50% - #{$base});
         }
         > label {
             color: var(--white);
             padding: $base 0;
-        }
-        input[type="text"] {
-            background-color: rgba(255,255,255,0.25);
+        }*/
+        input[type="search"] {
+            background-color: rgba(255,255,255,0.75);
             border: 0;
             border-radius: $base*2;
-            color: var(--white);
+            color: var(--black);
             font-size: $base*2;
+            font-weight: 500;
             padding: $base;
+            width: 100%;
             &:focus {
                 outline: 0;
             }
@@ -131,6 +136,140 @@ header {
 
 article {
     padding: $base*2 0;
+    aside {
+        background-color: rgba(#FFF, 0.25);
+        border-radius: $borderRadius/2;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: $base $base*3 $base*3;
+        padding: $base*2;
+        h2 {
+            margin: 0 0 $base*2;
+            width: 100%;
+        }
+        img {
+            border-radius: $borderRadius/2;
+            box-shadow: 0 0 20px rgba($black, .5);
+            height: 128px;
+            width: 128px;
+        }
+        blockquote {
+            margin: 0;
+            max-width: 45ch;
+            p {
+                font-style: italic;
+                margin: 0;
+                padding: 0;
+            }
+            cite {
+                display: block;
+                text-align: right;
+            }
+        }
+    }
+    > h2 {
+        border-bottom: 1px solid var(--white);
+        margin: $base*3 $base*5;
+        padding: 0 0 $base;
+    }
+}
+
+dl {
+    border: 1px solid var(--border);
+    border-radius: $borderRadius;
+    box-shadow: 0 0 $base*3 -$base #000;
+    color: var(--black);
+    margin: $base*2 0 0;
+    &:first-child {
+        margin: 0 auto;
+    }
+    dt {
+        background-color: var(--black);
+        color: var(--white);
+        border-radius: $borderRadius $borderRadius 0 0;
+        display: flex;
+        padding: $base*2;
+        img {
+            border-radius: $borderRadius/2;
+            box-shadow: 0 0 10px -3px rgba($black, .5);
+            height: $base*5;
+            margin-right: $base*2;
+            width: $base*5;
+        }
+        h3 {
+            flex: 1;
+            font-size: $base*2;
+            font-weight: 500;
+            margin: 0;
+            padding: 0;
+        }
+        em {
+            display: block;
+            font-weight: 300;
+            font-style: normal;
+        }
+    }
+    dd {
+        background-color: var(--white);
+        border-radius: 0 0 $borderRadius $borderRadius;
+        margin: 0;
+        padding: $base*2;
+        ol {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            li {
+                margin: 0;
+                padding: $base 0 0;
+                &:first-child {
+                    padding: 0;
+                }
+            }
+        }
+        details {
+            background-color: rgba(#000, 0.1);
+            border-radius: $borderRadius/3;
+            font-size: $base*1.5;
+            margin: $base 0 0;
+            summary,
+            p {
+                color: var(--black);
+                padding: $base;
+            }
+            summary {
+                cursor: pointer;
+                outline: 0;
+            }
+            p {
+                background-color: rgba(#FFF, 0.25);
+                border-top: 1px solid var(--white);
+                margin: 0;
+            }
+            a {
+                color: var(--black);
+            }
+        }
+    }
+}
+
+footer {
+    margin: 0 auto;
+    section {
+        border-color: var(--white);
+        border-style: solid;
+        border-width: 1px 0 0;
+        margin: 0 $base*3;
+        p {
+            margin: $base*2;
+        }
+    }
+    a {
+        color: var(--white);
+    }
+}
+
+#songs {
     section {
         display: grid;
         grid-gap: $base*2;
@@ -172,85 +311,14 @@ article {
             }
         }
         > div {
-
+            margin: 0 $base*3 0 0;
         }
-    }
-}
-
-dl {
-    border: 1px solid var(--border);
-    border-radius: $borderRadius;
-    box-shadow: 0 0 $base*3 -$base #000;
-    color: var(--black);
-    margin: $base*2 auto 0;
-    &:first-child {
-        margin: 0 auto;
-    }
-    dt {
-        background-color: var(--black);
-        color: var(--white);
-        border-radius: $borderRadius $borderRadius 0 0;
-        display: flex;
-        padding: $base*2;
-        img {
-            border-radius: $borderRadius/2;
-            box-shadow: 0 0 10px -3px rgba($black, .5);
-            height: $base*5;
-            margin-right: $base*2;
-            width: $base*5;
-        }
-        h3 {
-            flex: 1;
-            font-size: $base*2;
-            font-weight: 500;
-            margin: 0;
-            padding: 0;
-        }
-        em {
-            display: block;
-            font-weight: 300;
-            font-style: normal;
-        }
-        a {
-            color: var(--white);
-            text-align: right;
-        }
-    }
-    dd {
-        background-color: var(--white);
-        border-radius: 0 0 $borderRadius $borderRadius;
-        margin: 0;
-        padding: $base*2;
-        ol {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            li {
-                margin: 0;
-                padding: $base 0 0;
-                &:first-child {
-                    padding: 0;
-                }
-            }
-        }
-    }
-}
-
-footer {
-    section {
-        border-color: var(--white);
-        border-style: solid;
-        border-width: 1px 0;
-    }
-    margin: 0 auto;
-    a {
-        color: var(--white);
     }
 }
 
 @media screen and (min-width: 800px) {
     header {
-        margin: 0 auto $base*3;
+        margin: 0 auto;
     }
     dl dt img {
         height: $base*6;
