@@ -234,6 +234,13 @@ function searchSongs(filter) {
 	} else {
 		container.innerHTML = `<p>There were no results matching your search</p>`;
 	}
+	calculateOffset();
+}
+
+function calculateOffset() {
+	const top = document.getElementById('songs').offsetTop,
+		  headerOffset = document.getElementsByTagName('header')[0].offsetHeight; //Getting Y of target element
+	window.scrollTo(0, top-headerOffset-24);
 }
 
 // when the page has loaded, start doing stuff
@@ -288,7 +295,7 @@ window.onload = function() {
 				getSongs();
 			}
 			// and scroll to the top
-			window.scroll(0,0);
+			calculateOffset();
 		});
 	});
 
