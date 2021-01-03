@@ -110,30 +110,32 @@ header {
         padding: 0 0 $base*2;
         width: 100%;
         justify-content: space-between;
-        input[type="search"] {
-            background-color: rgba(255,255,255,0.75);
-            border: 0;
-            border-radius: $base*2 0 0 $base*2;
-            color: var(--black);
-            flex: 1;
-            font-size: $base*2;
-            font-weight: 500;
-            margin: 0;
-            padding: $base;
-            &:focus {
-                outline: 0;
-            }
-        }
-        input[type="submit"] {
-            background-color: var(--white);
-            border: 0;
-            border-radius: 0 $base*2 $base*2 0;
-            font-size: $base*2;
-            font-weight: 500;
-            margin: 0;
-            padding: $base $base*2;
-            text-transform: uppercase;
+        input{
             -webkit-appearance: none;
+            &[type="search"] {
+                background-color: rgba(255,255,255,0.75);
+                border: 0;
+                border-radius: $base*2 0 0 $base*2;
+                color: var(--black);
+                flex: 1;
+                font-size: $base*2;
+                font-weight: 500;
+                margin: 0;
+                padding: $base;
+                &:focus {
+                    outline: 0;
+                }
+            }
+            &[type="submit"] {
+                background-color: var(--white);
+                border: 0;
+                border-radius: 0 $base*2 $base*2 0;
+                font-size: $base*2;
+                font-weight: 500;
+                margin: 0;
+                padding: $base $base*2;
+                text-transform: uppercase;
+            }
         }
     }
     a {

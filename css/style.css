@@ -103,6 +103,9 @@ header form {
   width: 100%;
   justify-content: space-between;
 }
+header form input {
+  -webkit-appearance: none;
+}
 header form input[type=search] {
   background-color: rgba(255, 255, 255, 0.75);
   border: 0;
@@ -126,7 +129,6 @@ header form input[type=submit] {
   margin: 0;
   padding: 8px 16px;
   text-transform: uppercase;
-  -webkit-appearance: none;
 }
 header a {
   color: #FFF;
