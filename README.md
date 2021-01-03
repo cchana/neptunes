@@ -10,9 +10,9 @@ In theory, this project can be used to represent the timeline for any type of ar
 
 To do so, update the data.json file with the information about their projects. The file is broken down in the following way:
 
-- DECADE (eg. 1990)
--- YEAR (eg. 1991)
---- BODY OF WORK (eg. Album title)
----- SPECIFICS (eg. Song title)
+* DECADE (eg. 1990s)
+   * YEAR (eg. 1991)
+      * BODY OF WORK (eg. Album title)
+         * SPECIFICS (eg. Song title)
 
 I'd love to see what others do with this project, get in touch [@cchana](https://twitter.com/cchana).
