@@ -4,15 +4,15 @@
 <meta charset="utf-8">
     <title>The Neptunes Archive</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="/css/style.css?ckcachebust=57a53d8e3da8707702ccae86ab55b884" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css?ckcachebust=38fe1a92a455152080c9bbbfa795143f" />
 </head>
 <body>
 
 <header>
 
-    <h1><a href="/"><img src="/images/neptunes.svg" alt="The Neptunes Archive" /></a></h1>
     <nav>
         <ul>
+            <li><a href="/"><img src="/images/neptunes.svg" alt="The Neptunes Archive" /></a></li>
             <li class="songs-1990"><a class="filter-decade" href="#1990s">1990s</a></li>
             <li class="songs-2000"><a class="filter-decade" href="#2000s">2000s</a></li>
             <li class="songs-2010"><a class="filter-decade" href="#2010s">2010s</a></li>
@@ -21,6 +21,7 @@
     </nav>
     <form onsubmit="return false;">
         <input type="search" id="searchBox" placeholder="Filter by album title, song, or artist" />
+        <input type="submit" id="searchButton" value="Filter" />
     </form>
 
 </header>
@@ -31,7 +32,7 @@
 
         <aside>
 
-            <h2>The Neptunes Archive</h2>
+            <h1>The Neptunes Archive</h1>
 
             <blockquote>
                 <p>The Neptunes are an American production duo composed of Pharrell Williams and Chad Hugo, formed in Virginia Beach, Virginia in 1990. Williams often provides additional vocals on records and appears in the duo's music videos while Hugo tends to stay behind the scenes.</p>
@@ -46,7 +47,7 @@
 
         </aside>
 
-        <h2>The Archive</h2>
+        <h2>Albums</h2>
 
         <div id="songs">
         </div>
@@ -56,7 +57,7 @@
     <footer>
 
         <section>
-            <p>Spotted an error? Submit a <a href="https://github.com/cchana/neptunes">pull request</a> to get it updated. This project began as an entry to the <a href="https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k">#dohackathon</a> and is hosted on the <a href="https://m.do.co/c/04b9e2582817" rel="nofollow">DigitalOcean</a> platform.</p>
+            <p>Spotted an error? Submit a <a href="https://github.com/cchana/neptunes">pull request</a> to get it updated. This project began as an entry to the <a href="https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k">#dohackathon</a> and is hosted on the <a href="https://m.do.co/c/04b9e2582817" rel="sponsor">DigitalOcean</a> platform.</p>
 
         </section>
 
@@ -70,7 +71,7 @@
 
 </main>
 
-<script type="module" src="/js/app.js?ckcachebust=073d62b8e1ea9ecc5f6a1c09e455871b"></script>
+<script type="module" src="/js/app.js?ckcachebust=ac345b63f5a7c613a07d77f525da3be1"></script>
 
 <script>
 if(allowedToTrack()) {

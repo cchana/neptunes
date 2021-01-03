@@ -300,7 +300,9 @@ window.onload = function() {
 	});
 
 	// when typing
-	document.getElementById('searchBox').addEventListener('keyup', function(e) {
+	//document.getElementById('searchBox').addEventListener('keyup', function(e) {
+	document.getElementById('searchButton').addEventListener('click', function(e) {
+		let query = document.getElementById('searchBox');
 		// remove highlighted decade
 		document.querySelectorAll('.filter-decade').forEach(option => {
 			option.parentElement.classList.remove('selected');
@@ -310,7 +312,7 @@ window.onload = function() {
 		// reset the stored decade filter
 		storedDecadeFilter = 0;
 		// search the songs
-		searchSongs(this.value);
+		searchSongs(query.value);
 	});
 
 	// when changing the reverse ordering

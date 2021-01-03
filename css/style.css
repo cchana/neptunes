@@ -40,7 +40,7 @@ header {
   display: flex;
   flex-wrap: wrap;
   max-width: var(--maxWidth);
-  padding: 24px 0 0;
+  padding: 8px 0 0;
   position: sticky;
   top: 0;
   width: 100%;
@@ -70,6 +70,7 @@ header nav {
   flex: 1;
 }
 header ul {
+  align-items: center;
   display: flex;
   justify-content: flex-end;
   margin: 0;
@@ -97,24 +98,34 @@ header ul li img {
   height: 32px;
 }
 header form {
-  border-top: 1px solid var(--white);
   display: flex;
-  padding: 16px 0;
+  padding: 0 0 16px;
   width: 100%;
   justify-content: space-between;
 }
 header form input[type=search] {
   background-color: rgba(255, 255, 255, 0.75);
   border: 0;
-  border-radius: 16px;
+  border-radius: 16px 0 0 16px;
   color: var(--black);
+  flex: 1;
   font-size: 16px;
   font-weight: 500;
+  margin: 0;
   padding: 8px;
-  width: 100%;
 }
 header form input[type=search]:focus {
   outline: 0;
+}
+header form input[type=submit] {
+  background-color: var(--white);
+  border: 0;
+  border-radius: 0 16px 16px 0;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0;
+  padding: 8px 16px;
+  text-transform: uppercase;
 }
 header a {
   color: #FFF;
@@ -136,7 +147,7 @@ article aside {
   margin: 8px 0 24px;
   padding: 16px;
 }
-article aside h2 {
+article aside h1 {
   margin: 0 0 16px;
   width: 100%;
 }
@@ -161,7 +172,8 @@ article aside blockquote cite {
   text-align: right;
 }
 article > h2 {
-  border-bottom: 1px solid var(--white);
+  border-bottom: 1px solid var(--border);
+  font-size: 16px;
   margin: 24px 0;
   padding: 0 0 8px;
 }
@@ -289,6 +301,7 @@ footer a {
 }
 #songs section > h3:before {
   background-color: var(--border);
+  border-radius: 2px;
   content: "";
   display: block;
   height: 100%;
