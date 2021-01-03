@@ -310,6 +310,7 @@ window.onload = function() {
 		searchSongs(query.value);
 	});
 
+	/*
 	// when changing the reverse ordering
 	document.getElementById('reverseResults').addEventListener('change', function() {
 		// set reverse to true or false
@@ -324,5 +325,5 @@ window.onload = function() {
 			// else, search songs with the term
 			searchSongs(searchTerm);
 		}
-	});
+	});*/
 };
