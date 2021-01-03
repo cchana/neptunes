@@ -15,6 +15,41 @@ const validDecades = [
 	2020
 ];
 
+function _template(album) {
+	// append the html
+	let html = `<dl>
+		<dt>`;
+	if(album.artwork !== '') {
+		html += `<img src="${album.artwork}" alt="${album.title + ' by ' + album.artist}" loading="lazy" />`;
+	}
+	html += `<h3>
+				${album.title}
+				<em>${album.artist}</em>
+			</h3>`;
+	html += `</dt>
+		<dd>
+			<ol>`;
+	album.songs.forEach(song => {
+		html += `<li>${song.title}`;
+		if(song.featuring !== undefined && song.featuring.length > 0){
+			html += ` <small>(featuring ${song.featuring.join(', ')})</small>`;
+		}
+		html += `</li>`;
+	});
+	html += `</ol>`;
+	if(album.links.apple !== '') {
+		html += `<details>
+			<summary>Media & Info</summary>
+
+			<p>Find this album on <a href="${album.links.apple}" rel="sponsor">Apple Music</a>.</p>
+
+		</details>`;
+	}
+		html += `</dd>
+	</dl>`;
+	return html;
+}
+
 // Templates with data
 function _generateSongs(data, decadeFilter){
 
@@ -45,9 +80,7 @@ function _generateSongs(data, decadeFilter){
         // set the year to the current decade
         let year = decade,
 			// set initial decade end (depends on reversing)
-			decadeEnd = decade,
-			// left or right orientation
-			left = false;
+			decadeEnd = decade;
 		// if reversing requested
 		if(!reverse) {
             // and the end of the decade comes, as the new one starts
@@ -97,41 +130,6 @@ function _generateSongs(data, decadeFilter){
 	return html;
 }
 
-function _template(album) {
-	// append the html
-	let html = `<dl>
-		<dt>`;
-	if(album.artwork !== '') {
-		html += `<img src="${album.artwork}" alt="${album.title + ' by ' + album.artist}" loading="lazy" />`;
-	}
-	html += `<h3>
-				${album.title}
-				<em>${album.artist}</em>
-			</h3>`;
-	html += `</dt>
-		<dd>
-			<ol>`;
-	album.songs.forEach(song => {
-		html += `<li>${song.title}`;
-		if(song.featuring !== undefined && song.featuring.length > 0){
-			html += ` <small>(featuring ${song.featuring.join(', ')})</small>`;
-		}
-		html += `</li>`;
-	});
-	html += `</ol>`;
-	if(album.links.apple !== '') {
-		html += `<details>
-			<summary>Media & Info</summary>
-
-			<p>Find this album on <a href="${album.links.apple}" rel="sponsor">Apple Music</a>.</p>
-
-		</details>`;
-	}
-		html += `</dd>
-	</dl>`;
-	return html
-}
-
 // function highlight correct year in nav
 function highlightDecade(decade) {
 	// get all the decaces, then for each...
@@ -172,6 +170,12 @@ function getSongs(decade) {
 	}
 }
 
+function calculateOffset() {
+	const top = document.getElementById('songs').offsetTop,
+		  headerOffset = document.getElementsByTagName('header')[0].offsetHeight; //Getting Y of target element
+	window.scrollTo(0, top-headerOffset-24);
+}
+
 // search function
 function searchSongs(filter) {
 	// empty list of filtered songs
@@ -182,8 +186,7 @@ function searchSongs(filter) {
 		// refer to getSongs logic...
 		let year = decade,
             // and the end of the decade comes, as the new one starts
-            decadeEnd = decade + 10,
-			left = false;
+            decadeEnd = decade + 10;
         // for each year that happens before the end of the decade
         while(year < decadeEnd) {
 			if(songs[decade][year] !== undefined) {
@@ -214,7 +217,7 @@ function searchSongs(filter) {
 								// change mathced to true
 								matched = true;
 							}
-						})
+						});
 					});
 					// if a song or featured artist matches
 					if(matched) {
@@ -235,12 +238,6 @@ function searchSongs(filter) {
 		container.innerHTML = `<p class="error">There were no results matching your search</p>`;
 	}
 	calculateOffset();
-}
-
-function calculateOffset() {
-	const top = document.getElementById('songs').offsetTop,
-		  headerOffset = document.getElementsByTagName('header')[0].offsetHeight; //Getting Y of target element
-	window.scrollTo(0, top-headerOffset-24);
 }
 
 // when the page has loaded, start doing stuff
@@ -278,12 +275,11 @@ window.onload = function() {
 			// remove the 'selected' style from existing item
 			document.querySelectorAll('.filter-decade').forEach(option => {
 				option.parentElement.classList.remove('selected');
-			})
+			});
 			// if this is an actual decade link
 			if(e.target.attributes.href !== undefined) {
 				// figure out the decade
-				const decade = e.target.attributes.href.value.substring(1,5)
-				storedDecadeFilter = decade;
+				const decade = e.target.attributes.href.value.substring(1,5);
 				// update the url hash
 				window.location.hash = `#${decade}s`;
 				// get the songs
@@ -300,13 +296,12 @@ window.onload = function() {
 	});
 
 	// when typing
-	//document.getElementById('searchBox').addEventListener('keyup', function(e) {
-	document.getElementById('searchButton').addEventListener('click', function(e) {
+	document.getElementById('searchButton').addEventListener('click', function() {
 		let query = document.getElementById('searchBox');
 		// remove highlighted decade
 		document.querySelectorAll('.filter-decade').forEach(option => {
 			option.parentElement.classList.remove('selected');
-		})
+		});
 		// remove URL hash
 		window.location.hash = '';
 		// reset the stored decade filter
@@ -316,7 +311,7 @@ window.onload = function() {
 	});
 
 	// when changing the reverse ordering
-	document.getElementById('reverseResults').addEventListener('change', function(e) {
+	document.getElementById('reverseResults').addEventListener('change', function() {
 		// set reverse to true or false
 		reverse = this.checked;
 		// get the value from the search term (this can persist)
@@ -330,4 +325,4 @@ window.onload = function() {
 			searchSongs(searchTerm);
 		}
 	});
-}
+};
