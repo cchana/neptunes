@@ -121,7 +121,7 @@ function _template(album) {
 	html += `</ol>`;
 	if(album.links.apple !== '') {
 		html += `<details>
-			<summary>More Information</summary>
+			<summary>Media & Info</summary>
 
 			<p>Find this album on <a href="${album.links.apple}" rel="sponsor">Apple Music</a>.</p>
 
