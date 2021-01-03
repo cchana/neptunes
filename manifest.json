@@ -1,0 +1,14 @@
+{
+  "lang": "en",
+  "name": "The Neptunes Archive",
+  "short_name": "The Neptunes",
+  "icons": [{
+    "src": "/images/favicon.png",
+    "sizes": "192x192"
+  }],
+  "scope": "/",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "#1F1F1F"
+}
