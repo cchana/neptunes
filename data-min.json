@@ -1548,6 +1548,7 @@
           {
             "title" : "Goin' Out",
             "featuring" : [
+              "Pharrell",
               "Pusha T"
             ],
             "links" : {
@@ -1602,7 +1603,7 @@
         "artist" : "Missy Elliott"
       },
       {
-        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/3b\/7b\/e0\/3b7be06d-b293-94c9-df7d-4711493616f2\/00602498635643.rgb.jpg\/128x128bb.jpeg",
+        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/28\/db\/a6\/28dba683-2788-ce49-cad7-6c5edfafa30c\/00602498639603.rgb.jpg\/128x128bb.jpeg",
         "links" : {
           "apple" : "https:\/\/music.apple.com\/us\/album\/already-platinum\/1443594477?&at=10lIXX&ct=theneptunes"
         },
@@ -2910,7 +2911,7 @@
           {
             "title" : "Money Maker",
             "featuring" : [
-
+              "Pharrell"
             ],
             "links" : {
 
@@ -3069,7 +3070,7 @@
             ]
           },
           {
-            "title" : "Diry Money",
+            "title" : "Dirty Money",
             "featuring" : [
 
             ]
@@ -3997,7 +3998,7 @@
         "links" : {
           "apple" : "https:\/\/music.apple.com\/us\/album\/go\/1440634761?&at=10lIXX&ct=theneptunes"
         },
-        "title" : "Go!",
+        "title" : "Go",
         "songs" : [
           {
             "title" : "Go",
@@ -4228,7 +4229,7 @@
         "links" : {
           "apple" : "https:\/\/music.apple.com\/us\/album\/love-angel-music-baby-deluxe-international-version\/1452869898?&at=10lIXX&ct=theneptunes"
         },
-        "title" : "Love.Music.Angel.Baby.",
+        "title" : "Love Angel Music Baby.",
         "songs" : [
           {
             "title" : "Hollaback Girl",

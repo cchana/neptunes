@@ -2375,7 +2375,7 @@
                 "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music/y2004/m11/d04/h10/s06.pcpvkatw.jpg/128x128bb.jpeg"
             },
             {
-                "title": "Love.Music.Angel.Baby.",
+                "title": "Love Angel Music Baby.",
                 "artist": "Gwen Stefani",
                 "songs": [
                     {
@@ -2522,6 +2522,7 @@
                     {
                         "title": "Goin' Out",
                         "featuring": [
+                            "Pharrell",
                             "Pusha T"
                         ],
                         "links": {}
@@ -2616,7 +2617,7 @@
                 "links": {
                     "apple": "https://music.apple.com/us/album/already-platinum/1443594477?&at=10lIXX&ct=theneptunes"
                 },
-                "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/3b/7b/e0/3b7be06d-b293-94c9-df7d-4711493616f2/00602498635643.rgb.jpg/128x128bb.jpeg"
+                "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/28/db/a6/28dba683-2788-ce49-cad7-6c5edfafa30c/00602498639603.rgb.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Sweat",
@@ -2794,7 +2795,9 @@
                 "songs": [
                     {
                         "title": "Money Maker",
-                        "featuring": [],
+                        "featuring": [
+                            "Pharrell"
+                        ],
                         "links": {}
                     },
                     {
@@ -2930,7 +2933,7 @@
                         ]
                     },
                     {
-                        "title": "Diry Money",
+                        "title": "Dirty Money",
                         "featuring": []
                     },
                     {
@@ -3159,7 +3162,7 @@
                 "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/71/66/58/71665811-d4a1-3cc3-a3a3-76ce837d29e2/15UMGIM77662.rgb.jpg/128x128bb.jpeg"
             },
             {
-                "title": "Go!",
+                "title": "Go",
                 "artist": "Mario",
                 "songs": [
                     {
