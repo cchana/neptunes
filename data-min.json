@@ -126,230 +126,9 @@
           }
         ],
         "artist" : "Total"
-      },
-      {
-        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/d4\/0a\/78\/mzi.igvesjep.jpg\/128x128bb.jpeg",
-        "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/new-beginning\/258618441?&at=10lIXX&ct=theneptunes"
-        },
-        "title" : "New Beginning",
-        "songs" : [
-          {
-            "title" : "Use Your Heart",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          }
-        ],
-        "artist" : "SWV"
       }
     ],
     "1999" : [
-      {
-        "artwork" : "",
-        "links" : {
-          "apple" : ""
-        },
-        "title" : "Exclusive Audio Footage",
-        "songs" : [
-          {
-            "title" : "The Prayer (Intro)",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Hear Me Out",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Power",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Interlude 1",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "You Don't Even Know",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Breakfast In Cairo",
-            "featuring" : [
-              "Noreaga",
-              "Kurupt"
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Skit",
-            "featuring" : [
-              "Pharrell"
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Hostage",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Wild Cowboy",
-            "featuring" : [
-              "Markita"
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Got Caught Dealin' Part II",
-            "featuring" : [
-              "Pharrell"
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Interlude 2",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Taiwan To Texas",
-            "featuring" : [
-              "Pharrell"
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Interlude 3",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Stick Girl",
-            "featuring" : [
-              "Pharrell",
-              "Kelis"
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "You Can't Touch Me",
-            "featuring" : [
-              "Lee Harvey",
-              "Nako"
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Feel Like Me",
-            "featuring" : [
-              "Pharrell"
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Bodysnatchers",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Dianna Ross",
-            "featuring" : [
-              "Pharrell"
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Watch Over Me",
-            "featuring" : [
-              "Pharrell"
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "Interlude 4",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          },
-          {
-            "title" : "The Funeral",
-            "featuring" : [
-
-            ],
-            "links" : {
-
-            }
-          }
-        ],
-        "artist" : "Clipse"
-      },
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/f6\/22\/bd\/f622bdb4-46e6-fdad-e936-9aadfeacdb84\/886448547792.jpg\/128x128bb.jpeg",
         "links" : {
@@ -426,7 +205,7 @@
         "links" : {
           "apple" : "https:\/\/music.apple.com\/us\/album\/n-a-please-20th-anniversary-edition\/1480244624?&at=10lIXX&ct=theneptunes"
         },
-        "title" : "Nigga Please",
+        "title" : "N**** Please",
         "songs" : [
           {
             "title" : "Cold Blooded",
@@ -940,7 +719,7 @@
         "title" : "California Republic",
         "songs" : [
           {
-            "title" : "When My Niggas Come Home",
+            "title" : "When My N****s Come Home",
             "featuring" : [
               "Snoop Dogg",
               "Pharrell"
@@ -2422,7 +2201,7 @@
             ]
           },
           {
-            "title" : "Nigga Please",
+            "title" : "N**** Please",
             "featuring" : [
               "Young Chris"
             ]
@@ -2482,7 +2261,7 @@
         "title" : "The Last Temptation",
         "songs" : [
           {
-            "title" : "Pop Niggas",
+            "title" : "Pop N****s",
             "featuring" : [
 
             ],
@@ -3920,7 +3699,7 @@
         "title" : "Shyne",
         "songs" : [
           {
-            "title" : "Niggas Gonna Die",
+            "title" : "N****s Gonna Die",
             "featuring" : [
 
             ],

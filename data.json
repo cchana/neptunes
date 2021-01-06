@@ -15,21 +15,6 @@
                     "apple": "https://music.apple.com/us/album/total/578516369?&at=10lIXX&ct=theneptunes"
                 },
                 "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/3d/27/b1/3d27b18d-c365-6c32-0238-4e2a12bdde67/603497927555.jpg/128x128.jpeg"
-            },
-            {
-                "title": "New Beginning",
-                "artist": "SWV",
-                "songs": [
-                    {
-                        "title": "Use Your Heart",
-                        "featuring": [],
-                        "links": {}
-                    }
-                ],
-                "links": {
-                    "apple": "https://music.apple.com/us/album/new-beginning/258618441?&at=10lIXX&ct=theneptunes"
-                },
-                "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music/d4/0a/78/mzi.igvesjep.jpg/128x128bb.jpeg"
             }
         ],
         "1997": [
@@ -119,144 +104,6 @@
         ],
         "1999": [
             {
-                "title": "Exclusive Audio Footage",
-                "artist": "Clipse",
-                "songs": [
-                    {
-                        "title": "The Prayer (Intro)",
-                        "featuring": [],
-                        "links": {}
-                    },
-                    {
-                        "title": "Hear Me Out",
-                        "featuring": [],
-                        "links": {}
-                    },
-                    {
-                        "title": "Power",
-                        "featuring": [],
-                        "links": {}
-                    },
-                    {
-                        "title": "Interlude 1",
-                        "featuring": [],
-                        "links": {}
-                    },
-                    {
-                        "title": "You Don't Even Know",
-                        "featuring": [],
-                        "links": {}
-                    },
-                    {
-                        "title": "Breakfast In Cairo",
-                        "featuring": [
-                            "Noreaga",
-                            "Kurupt"
-                        ],
-                        "links": {}
-                    },
-                    {
-                        "title": "Skit",
-                        "featuring": [
-                            "Pharrell"
-                        ],
-                        "links": {}
-                    },
-                    {
-                        "title": "Hostage",
-                        "featuring": [],
-                        "links": {}
-                    },
-                    {
-                        "title": "Wild Cowboy",
-                        "featuring": [
-                            "Markita"
-                        ],
-                        "links": {}
-                    },
-                    {
-                        "title": "Got Caught Dealin' Part II",
-                        "featuring": [
-                            "Pharrell"
-                        ],
-                        "links": {}
-                    },
-                    {
-                        "title": "Interlude 2",
-                        "featuring": [],
-                        "links": {}
-                    },
-                    {
-                        "title": "Taiwan To Texas",
-                        "featuring": [
-                            "Pharrell"
-                        ],
-                        "links": {}
-                    },
-                    {
-                        "title": "Interlude 3",
-                        "featuring": [],
-                        "links": {}
-                    },
-                    {
-                        "title": "Stick Girl",
-                        "featuring": [
-                            "Pharrell",
-                            "Kelis"
-                        ],
-                        "links": {}
-                    },
-                    {
-                        "title": "You Can't Touch Me",
-                        "featuring": [
-                            "Lee Harvey",
-                            "Nako"
-                        ],
-                        "links": {}
-                    },
-                    {
-                        "title": "Feel Like Me",
-                        "featuring": [
-                            "Pharrell"
-                        ],
-                        "links": {}
-                    },
-                    {
-                        "title": "Bodysnatchers",
-                        "featuring": [],
-                        "links": {}
-                    },
-                    {
-                        "title": "Dianna Ross",
-                        "featuring": [
-                            "Pharrell"
-                        ],
-                        "links": {}
-                    },
-                    {
-                        "title": "Watch Over Me",
-                        "featuring": [
-                            "Pharrell"
-                        ],
-                        "links": {}
-                    },
-                    {
-                        "title": "Interlude 4",
-                        "featuring": [],
-                        "links": {}
-                    },
-                    {
-                        "title": "The Funeral",
-                        "featuring": [],
-                        "links": {}
-                    }
-                ],
-                "links": {
-                    "apple": ""
-                },
-                "artwork": ""
-            },
-            {
                 "title": "Wat'cha Wanna Do (Single)",
                 "artist": "Pras",
                 "songs": [
@@ -322,7 +169,7 @@
                 "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/8a/49/6c/8a496c0a-3b3a-45f8-972c-b9df3bc45c69/603497920594.png/128x128bb.jpeg"
             },
             {
-                "title": "Nigga Please",
+                "title": "N**** Please",
                 "artist": "Ol' Dirty Bastard",
                 "songs": [
                     {
@@ -536,7 +383,7 @@
                 "artist": "Shyne",
                 "songs": [
                     {
-                        "title": "Niggas Gonna Die",
+                        "title": "N****s Gonna Die",
                         "featuring": [],
                         "links": {}
                     }
@@ -1871,7 +1718,7 @@
                         "featuring": []
                     },
                     {
-                        "title": "Nigga Please",
+                        "title": "N**** Please",
                         "featuring": [
                             "Young Chris"
                         ]
@@ -1925,7 +1772,7 @@
                 "artist": "Ja Rule",
                 "songs": [
                     {
-                        "title": "Pop Niggas",
+                        "title": "Pop N****s",
                         "featuring": [],
                         "links": {}
                     }
@@ -4248,7 +4095,7 @@
                 "artist": "Game",
                 "songs": [
                     {
-                        "title": "When My Niggas Come Home",
+                        "title": "When My N****s Come Home",
                         "featuring": [
                             "Snoop Dogg",
                             "Pharrell"
