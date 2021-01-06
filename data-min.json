@@ -3539,6 +3539,12 @@
         "title" : "Tasty",
         "songs" : [
           {
+            "title" : "Intro",
+            "featuring" : [
+
+            ]
+          },
+          {
             "title" : "Milkshake",
             "featuring" : [
 
@@ -3570,25 +3576,6 @@
           }
         ],
         "artist" : "Kelis"
-      },
-      {
-        "artwork" : "",
-        "links" : {
-          "apple" : ""
-        },
-        "title" : "Delinquent (Single)",
-        "songs" : [
-          {
-            "title" : "Delinquent",
-            "featuring" : [
-              "Pharrell"
-            ],
-            "links" : {
-
-            }
-          }
-        ],
-        "artist" : "Roscoe P. Coldchain"
       }
     ],
     "2000" : [
@@ -4045,25 +4032,6 @@
       }
     ],
     "2004" : [
-      {
-        "artwork" : "",
-        "links" : {
-          "apple" : ""
-        },
-        "title" : "We Got It 4 Cheap Vol. 1",
-        "songs" : [
-          {
-            "title" : "Stuntin' Y'all",
-            "featuring" : [
-              "Pharrell"
-            ],
-            "links" : {
-
-            }
-          }
-        ],
-        "artist" : "Re-Up Gang"
-      },
       {
         "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/d0\/df\/b2\/d0dfb277-a5f1-6a95-2a08-e35631087679\/00602498616987.rgb.jpg\/128x128bb.jpeg",
         "links" : {
