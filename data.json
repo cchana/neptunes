@@ -3380,7 +3380,7 @@
                 "artist": "Common",
                 "songs": [
                     {
-                        "title": "Intro/Universal Mind Control",
+                        "title": "Universal Mind Control",
                         "featuring": [
                             "Pharrell"
                         ],
@@ -3735,7 +3735,7 @@
                 "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music/df/81/a4/mzi.gevjxjib.jpg/128x128bb.jpeg"
             },
             {
-                "title": "Malice In Wonderland",
+                "title": "Malice n Wonderland",
                 "artist": "Snoop Dogg",
                 "songs": [
                     {
@@ -3891,7 +3891,7 @@
         ],
         "2011": [
             {
-                "title": "Lasers",
+                "title": "Lasers (Deluxe Version)",
                 "artist": "Lupe Fiasco",
                 "songs": [
                     {
@@ -3901,7 +3901,7 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/lasers/418674062?&at=10lIXX&ct=theneptunes"
+                    "apple": "https://music.apple.com/us/album/lasers/419432696?&at=10lIXX&ct=theneptunes"
                 },
                 "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music/88/b7/3b/mzi.ndnebvmf.jpg/128x128bb.jpeg"
             },
@@ -4099,10 +4099,8 @@
                         "links": {}
                     }
                 ],
-                "links": {
-                    "apple": "https://music.apple.com/us/album/american-apathy/75481800?&at=10lIXX&ct=theneptunes"
-                },
-                "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m07/d18/h08/s05.giggcqcl.jpg/128x128bb.jpeg"
+                "links": {},
+                "artwork": ""
             }
         ],
         "2013": [
@@ -4119,11 +4117,9 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/doris/669700847?&at=10lIXX&ct=theneptunes",
-                    "amazon": "https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/3c/8d/1c/3c8d1c6a-44d8-059c-6b58-a20634fb49d9/886444045094.jpg/128x128bb.jpeg",
-                    "spotify": ""
+                    "apple": "https://music.apple.com/us/album/doris/669700847?&at=10lIXX&ct=theneptunes"
                 },
-                "artwork": ""
+                "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/3c/8d/1c/3c8d1c6a-44d8-059c-6b58-a20634fb49d9/886444045094.jpg/128x128bb.jpeg"
             },
             {
                 "title": "Wrath Of Caine",
@@ -4142,28 +4138,6 @@
             }
         ],
         "2015": [
-            {
-                "title": "The SpongeBob Movie 2: Sponge Out Of Water Original Soundtrack",
-                "artist": "N.E.R.D.",
-                "songs": [
-                    {
-                        "title": "Squeeze Me",
-                        "featuring": []
-                    },
-                    {
-                        "title": "Sandy Squirrel",
-                        "featuring": []
-                    },
-                    {
-                        "title": "Patrick Star",
-                        "featuring": []
-                    }
-                ],
-                "links": {
-                    "apple": "https://geo.music.apple.com/us/album/music-from-the-spongebob-movie-sponge-out-of-water-ep/958706609?at=10lIXX&ct=theneptunes"
-                },
-                "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/67/ad/85/67ad856d-1595-e7fb-2fde-18d2d129f4af/886445040067.jpg/128x128bb.jpeg"
-            },
             {
                 "title": "Bush",
                 "artist": "Snoop Dogg",
@@ -4290,7 +4264,7 @@
                 "artist": "Daniel Caesar",
                 "songs": [
                     {
-                        "title": "Frontal Lobe Muzik",
+                        "title": "FRONTAL LOBE MUZIK",
                         "featuring": [],
                         "links": {}
                     }
@@ -4301,7 +4275,7 @@
                 "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/c8/36/02/c836022a-de39-7468-c74d-ef35794b1f10/193483999333.jpg/128x128bb.jpeg"
             },
             {
-                "title": "Music From The Black Godfather",
+                "title": "Music from The Black Godfather",
                 "artist": "Pharrell Williams",
                 "songs": [
                     {
@@ -4417,7 +4391,8 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/hit-different-feat-ty-dolla-%24ign-single/1530112355?&at=10lIXX&ct=theneptunes"
+                    "apple": "https://music.apple.com/us/album/hit-different-feat-ty-dolla-%24ign-single/1530112355?&at=10lIXX&ct=theneptunes",
+                    "spotify": "https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db?si=p6KL7GlOSEeoJ24yseusoQ"
                 },
                 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/dd/65/afdd6592-95d3-1e5e-e722-b90de96080db/886448745594.jpg/128x128bb.jpeg"
             }

@@ -388,9 +388,9 @@
       {
         "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music\/88\/b7\/3b\/mzi.ndnebvmf.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/lasers\/418674062?&at=10lIXX&ct=theneptunes"
+          "apple" : "https:\/\/music.apple.com\/us\/album\/lasers\/419432696?&at=10lIXX&ct=theneptunes"
         },
-        "title" : "Lasers",
+        "title" : "Lasers (Deluxe Version)",
         "songs" : [
           {
             "title" : "I'm Beamin'",
@@ -579,34 +579,6 @@
     ],
     "2015" : [
       {
-        "artwork" : "https:\/\/is5-ssl.mzstatic.com\/image\/thumb\/Music3\/v4\/67\/ad\/85\/67ad856d-1595-e7fb-2fde-18d2d129f4af\/886445040067.jpg\/128x128bb.jpeg",
-        "links" : {
-          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/music-from-the-spongebob-movie-sponge-out-of-water-ep\/958706609?at=10lIXX&ct=theneptunes"
-        },
-        "title" : "The SpongeBob Movie 2: Sponge Out Of Water Original Soundtrack",
-        "songs" : [
-          {
-            "title" : "Squeeze Me",
-            "featuring" : [
-
-            ]
-          },
-          {
-            "title" : "Sandy Squirrel",
-            "featuring" : [
-
-            ]
-          },
-          {
-            "title" : "Patrick Star",
-            "featuring" : [
-
-            ]
-          }
-        ],
-        "artist" : "N.E.R.D."
-      },
-      {
         "artwork" : "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Music1\/v4\/ab\/8a\/0d\/ab8a0dce-f563-5b8c-9d60-d95938aa56a3\/dj.ufmcpiyg.jpg\/128x128bb.jpeg",
         "links" : {
           "apple" : "https:\/\/music.apple.com\/us\/album\/bush\/961256177?&at=10lIXX&ct=theneptunes"
@@ -749,9 +721,9 @@
         "artist" : "Game"
       },
       {
-        "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/y2005\/m07\/d18\/h08\/s05.giggcqcl.jpg\/128x128bb.jpeg",
+        "artwork" : "",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/american-apathy\/75481800?&at=10lIXX&ct=theneptunes"
+
         },
         "title" : "D.O.P.E.",
         "songs" : [
@@ -777,7 +749,7 @@
         "title" : "Case Study 01",
         "songs" : [
           {
-            "title" : "Frontal Lobe Muzik",
+            "title" : "FRONTAL LOBE MUZIK",
             "featuring" : [
 
             ],
@@ -793,7 +765,7 @@
         "links" : {
           "apple" : "https:\/\/music.apple.com\/us\/album\/letter-to-my-godfather-from-the-black-godfather-single\/1467003878?&at=10lIXX&ct=theneptunes"
         },
-        "title" : "Music From The Black Godfather",
+        "title" : "Music from The Black Godfather",
         "songs" : [
           {
             "title" : "Letter To My Godfather",
@@ -831,11 +803,9 @@
     ],
     "2013" : [
       {
-        "artwork" : "",
+        "artwork" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music4\/v4\/3c\/8d\/1c\/3c8d1c6a-44d8-059c-6b58-a20634fb49d9\/886444045094.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/doris\/669700847?&at=10lIXX&ct=theneptunes",
-          "amazon" : "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Music4\/v4\/3c\/8d\/1c\/3c8d1c6a-44d8-059c-6b58-a20634fb49d9\/886444045094.jpg\/128x128bb.jpeg",
-          "spotify" : ""
+          "apple" : "https:\/\/music.apple.com\/us\/album\/doris\/669700847?&at=10lIXX&ct=theneptunes"
         },
         "title" : "Doris",
         "songs" : [
@@ -1164,7 +1134,8 @@
       {
         "artwork" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/af\/dd\/65\/afdd6592-95d3-1e5e-e722-b90de96080db\/886448745594.jpg\/128x128bb.jpeg",
         "links" : {
-          "apple" : "https:\/\/music.apple.com\/us\/album\/hit-different-feat-ty-dolla-%24ign-single\/1530112355?&at=10lIXX&ct=theneptunes"
+          "apple" : "https:\/\/music.apple.com\/us\/album\/hit-different-feat-ty-dolla-%24ign-single\/1530112355?&at=10lIXX&ct=theneptunes",
+          "spotify" : "https:\/\/open.spotify.com\/album\/4xmJCh7ct63QvQ5wRc44db?si=p6KL7GlOSEeoJ24yseusoQ"
         },
         "title" : "Hit Different (Single)",
         "songs" : [
@@ -1451,7 +1422,7 @@
         "title" : "Universal Mind Control",
         "songs" : [
           {
-            "title" : "Intro\/Universal Mind Control",
+            "title" : "Universal Mind Control",
             "featuring" : [
               "Pharrell"
             ],
@@ -2782,7 +2753,7 @@
         "links" : {
           "apple" : ""
         },
-        "title" : "Malice In Wonderland",
+        "title" : "Malice n Wonderland",
         "songs" : [
           {
             "title" : "Special",
