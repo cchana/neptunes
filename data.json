@@ -15,6 +15,31 @@
                     "apple": "https://music.apple.com/us/album/total/578516369?&at=10lIXX&ct=theneptunes"
                 },
                 "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/3d/27/b1/3d27b18d-c365-6c32-0238-4e2a12bdde67/603497927555.jpg/128x128.jpeg"
+            },
+            {
+                "title": "New Beginnings",
+                "artist": "SWV",
+                "songs": [
+                    {
+                        "title": "Use Your Heart",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "Use Your Heart (Interlude)",
+                        "featuring": [],
+                        "links": {}
+                    },
+                    {
+                        "title": "When This Feeling",
+                        "featuring": [],
+                        "links": {}
+                    }
+                ],
+                "links": {
+                    "apple": "https://geo.music.apple.com/us/album/new-beginning/258618441?at=10lIXX&ct=theneptunes"
+                },
+                "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music/d4/0a/78/mzi.igvesjep.jpg/128x128bb.jpeg"
             }
         ],
         "1997": [

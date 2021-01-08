@@ -126,6 +126,43 @@
           }
         ],
         "artist" : "Total"
+      },
+      {
+        "artwork" : "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Music\/d4\/0a\/78\/mzi.igvesjep.jpg\/128x128bb.jpeg",
+        "links" : {
+          "apple" : "https:\/\/geo.music.apple.com\/us\/album\/new-beginning\/258618441?at=10lIXX&ct=theneptunes"
+        },
+        "title" : "New Beginnings",
+        "songs" : [
+          {
+            "title" : "Use Your Heart",
+            "featuring" : [
+
+            ],
+            "links" : {
+
+            }
+          },
+          {
+            "title" : "Use Your Heart (Interlude)",
+            "featuring" : [
+
+            ],
+            "links" : {
+
+            }
+          },
+          {
+            "title" : "When This Feeling",
+            "featuring" : [
+
+            ],
+            "links" : {
+
+            }
+          }
+        ],
+        "artist" : "SWV"
       }
     ],
     "1999" : [
