@@ -7,12 +7,12 @@
                 "songs": [
                     {
                         "title": "When Boy Meets Girl",
-                        "featuring": [],
-                        "links": {}
+                        "featuring": []
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/total/578516369?&at=10lIXX&ct=theneptunes"
+                    "apple": "https://music.apple.com/us/album/total/578516369?&at=10lIXX&ct=theneptunes",
+                    "spotify": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb?si=S_nWsx7yT0ubaV20pajESQ"
                 },
                 "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/3d/27/b1/3d27b18d-c365-6c32-0238-4e2a12bdde67/603497927555.jpg/128x128.jpeg"
             },
@@ -22,47 +22,25 @@
                 "songs": [
                     {
                         "title": "Use Your Heart",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Use Your Heart (Interlude)",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "When This Feeling",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
-                    "apple": "https://geo.music.apple.com/us/album/new-beginning/258618441?at=10lIXX&ct=theneptunes"
+                    "apple": "https://geo.music.apple.com/us/album/new-beginning/258618441?at=10lIXX&ct=theneptunes",
+                    "spotify": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4?si=qFWZiwddTbWv1yUnxYEpPg"
                 },
                 "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music/d4/0a/78/mzi.igvesjep.jpg/128x128bb.jpeg"
             }
         ],
         "1997": [
-            {
-                "title": "A Tear Falls In Brooklyn",
-                "artist": "Keystone",
-                "songs": [
-                    {
-                        "title": "If It Ain't Love (The Neptunes Remix)",
-                        "featuring": [],
-                        "links": {}
-                    },
-                    {
-                        "title": "The Day The Earth Stood Still",
-                        "featuring": [],
-                        "links": {}
-                    }
-                ],
-                "links": {
-                    "apple": ""
-                },
-                "artwork": ""
-            },
             {
                 "title": "Harlem World",
                 "artist": "Mase",
@@ -71,12 +49,12 @@
                         "title": "Lookin' At Me",
                         "featuring": [
                             "Puff Daddy"
-                        ],
-                        "links": {}
+                        ]
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/harlem-world/315230682?&at=10lIXX&ct=theneptunes"
+                    "apple": "https://music.apple.com/us/album/harlem-world/315230682?&at=10lIXX&ct=theneptunes",
+                    "spotify": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy?si=VW4BEXyERjqpXSvCexM7iw"
                 },
                 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/d5/77/ec/mzi.kgmrjsen.jpg/128x128bb.jpeg"
             }
@@ -88,12 +66,12 @@
                 "songs": [
                     {
                         "title": "Superthug",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/n-o-r-e/1288113551?&at=10lIXX&ct=theneptunes"
+                    "apple": "https://music.apple.com/us/album/n-o-r-e/1288113551?&at=10lIXX&ct=theneptunes",
+                    "spotify": "https://open.spotify.com/album/4h5Z2bERuSAICA4s66AhA1?si=MBTBXkW3Tq-8FHyRqNbhIg"
                 },
                 "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/75/f9/70/75f970f6-2617-8219-128c-22d053312bca/603497920600.png/128x128bb.jpeg"
             },
@@ -105,29 +83,144 @@
                         "title": "It's All Yours",
                         "featuring": [
                             "Gina Thompson"
-                        ],
-                        "links": {}
+                        ]
                     },
                     {
                         "title": "I Can't Make A Mistake",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Closer",
                         "featuring": [
                             "Space Nine"
-                        ],
-                        "links": {}
+                        ]
                     }
                 ],
                 "links": {
-                    "apple": "https://geo.music.apple.com/us/album/seven-seven/265606947?&at=10lIXX&ct=theneptunes"
+                    "apple": "https://geo.music.apple.com/us/album/seven-seven/265606947?&at=10lIXX&ct=theneptunes",
+                    "spotify": "https://open.spotify.com/album/0BWr3HdIiI92N95KC0IqNz?si=hzGPfGBFSHabnK6fKLsiqQ"
                 },
                 "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/93/fd/mzi.mevzlgxq.jpg/128x128bb.jpeg"
             }
         ],
         "1999": [
+            {
+                "title": "Exclusive Audio Footage (unreleased)",
+                "artist": "Clipse",
+                "songs": [
+                    {
+                        "title": "The Prayer (Intro)",
+                        "featuring": []
+					},
+                    {
+                        "title": "Hear Me Out",
+                        "featuring": []
+					},
+                    {
+                        "title": "Power",
+                        "featuring": []
+					},
+                    {
+                        "title": "Interlude 1",
+                        "featuring": []
+					},
+                    {
+                        "title": "You Don't Even Know",
+                        "featuring": []
+					},
+                    {
+                        "title": "Breakfast In Cairo",
+                        "featuring": [
+                            "Noreaga",
+                            "Kurupt"
+                        ]
+                    },
+                    {
+                        "title": "Skit",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "Hostage",
+                        "featuring": []
+					},
+                    {
+                        "title": "Wild Cowboy",
+                        "featuring": [
+                            "Markita"
+                        ]
+                    },
+                    {
+                        "title": "Got Caught Dealin' Part II",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "Interlude 2",
+                        "featuring": []
+					},
+                    {
+                        "title": "Taiwan To Texas",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "Interlude 3",
+                        "featuring": []
+					},
+                    {
+                        "title": "Stick Girl",
+                        "featuring": [
+                            "Pharrell",
+                            "Kelis"
+                        ]
+                    },
+                    {
+                        "title": "You Can't Touch Me",
+                        "featuring": [
+                            "Lee Harvey",
+                            "Nako"
+                        ]
+                    },
+                    {
+                        "title": "Feel Like Me",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "Bodysnatchers",
+                        "featuring": []
+					},
+                    {
+                        "title": "Dianna Ross",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "Watch Over Me",
+                        "featuring": [
+                            "Pharrell"
+                        ]
+                    },
+                    {
+                        "title": "Interlude 4",
+                        "featuring": []
+					},
+                    {
+                        "title": "The Funeral",
+                        "featuring": []
+					}
+                ],
+                "links": {
+                    "apple": ""
+                },
+                "artwork": ""
+            },
             {
                 "title": "Wat'cha Wanna Do (Single)",
                 "artist": "Pras",
@@ -156,9 +249,7 @@
                         "title": "One Big Fiesta",
                         "featuring": [
                             "Mase"
-                        ],
-                        "links": {
-                        }
+                        ]
                     },
                     {
                         "title": "Not The Kids",
@@ -168,7 +259,8 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/the-movement/1499276156?&at=10lIXX&ct=theneptunes"
+                    "apple": "https://music.apple.com/us/album/the-movement/1499276156?&at=10lIXX&ct=theneptunes",
+                    "spotify": "https://open.spotify.com/album/45NLNiRbnk0F4cWGwZln7M?si=psUGj3UoSsKiobMGjqAGCA"
                 },
                 "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/39/29/75/392975d3-6e5e-28c0-11c7-c1200ca8ba1f/cover.jpg/128x128bb.jpeg"
             },
@@ -178,9 +270,8 @@
                 "songs": [
                     {
                         "title": "Oh No",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Cocain Business (Hysteria)",
                         "featuring": [
@@ -189,7 +280,8 @@
                     }
                 ],
                 "links": {
-                    "apple": "https://geo.music.apple.com/us/album/melvyn-flynt-da-hustler/1288136916?at=10lIXX&ct=theneptunes"
+                    "apple": "https://geo.music.apple.com/us/album/melvyn-flynt-da-hustler/1288136916?at=10lIXX&ct=theneptunes",
+                    "spotify": "https://open.spotify.com/album/0En4fNHtKk1xztHsT5yKWm?si=f3BIdDLpSAqvuOwEpjEQzw"
                 },
                 "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/8a/49/6c/8a496c0a-3b3a-45f8-972c-b9df3bc45c69/603497920594.png/128x128bb.jpeg"
             },
@@ -199,16 +291,16 @@
                 "songs": [
                     {
                         "title": "Cold Blooded",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Got Your Money",
                         "featuring": []
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/n-a-please-20th-anniversary-edition/1480244624?&at=10lIXX&ct=theneptunes"
+                    "apple": "https://music.apple.com/us/album/n-a-please-20th-anniversary-edition/1480244624?&at=10lIXX&ct=theneptunes",
+                    "spotify": "https://open.spotify.com/album/2BbuBfQ4R0Q5ZjIJniJuZQ?si=UPXa46OvSsqIs6LBhowoRA"
                 },
                 "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/0b/90/4a/0b904a04-cbc8-6f71-9a13-0b43bc62f285/603497849086.jpg/128x128bb.jpeg"
             },
@@ -220,12 +312,12 @@
                         "title": "The Greatest Romance Ever Sold (Neptunes Edit)",
                         "featuring": [
                             "Q-Tip"
-                        ],
-                        "links": {}
+                        ]
                     }
                 ],
                 "links": {
-                    "apple": "https://geo.music.apple.com/us/album/the-greatest-romance-ever-sold-remixes-single/1458929811?at=10lIXX&ct=theneptunes"
+                    "apple": "https://geo.music.apple.com/us/album/the-greatest-romance-ever-sold-remixes-single/1458929811?at=10lIXX&ct=theneptunes",
+                    "spotify": "https://open.spotify.com/album/7gGgeql4Cd8QVFuh5gYyJ0?si=ayVWQSqqS3KT6UyhbBzQig"
                 },
                 "artwork": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/28/5b/9a/285b9a71-055a-4c4a-f4d8-97574b6c3ea6/886447598672.jpg/128x128bb.jpeg"
             },
@@ -235,86 +327,73 @@
                 "songs": [
                     {
                         "title": "Intro",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Good Stuff",
                         "featuring": [
                             "Pusha T"
-                        ],
-                        "links": {}
+                        ]
                     },
                     {
                         "title": "Caught Out There",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Get Along With You",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Mafia",
                         "featuring": [
                             "Markita"
-                        ],
-                        "links": {}
+                        ]
                     },
                     {
                         "title": "Game Show",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Suspended",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Mars",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Ghetto Children",
                         "featuring": [
                             "N.E.R.D.",
                             "Marc Dorsey"
-                        ],
-                        "links": {}
+                        ]
                     },
                     {
                         "title": "I Want Your Love",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "No Turning Back",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Roller RInk",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "In The Morning",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Wouldn't You Agree",
                         "featuring": [
                             "Justin Vince"
-                        ],
-                        "links": {}
+                        ]
                     }
                 ],
                 "links": {
-                    "apple": "https://music.apple.com/us/album/kaleidoscope/1021623048?&at=10lIXX&ct=theneptunes"
+                    "apple": "https://music.apple.com/us/album/kaleidoscope/1021623048?&at=10lIXX&ct=theneptunes",
+                    "spotify": "https://open.spotify.com/album/76o841qWVCuHhgFHfmi6bw?si=fpFcPnYdSlycKCjBbEit9Q"
                 },
                 "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/64/1a/fc/641afc5b-8cfe-6163-d9c0-b9ca12d4fba2/13ULAIM50611.rgb.jpg/128x128bb.jpeg"
             }
@@ -328,9 +407,8 @@
                 "songs": [
                     {
                         "title": "Steal My Kisses (The Neptunes Beatbox Mix)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -346,8 +424,7 @@
                         "featuring": [
                             "Pharrell",
                             "Pusha T"
-                        ],
-                        "links": {}
+                        ]
                     }
                 ],
                 "links": {
@@ -361,9 +438,8 @@
                 "songs": [
                     {
                         "title": "Shake Ya Ass",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Jump",
                         "featuring": []
@@ -394,8 +470,7 @@
                         "title": "Girls Dem Sugar",
                         "featuring": [
                             "Mya"
-                        ],
-                        "links": {}
+                        ]
                     }
                 ],
                 "links": {
@@ -409,9 +484,8 @@
                 "songs": [
                     {
                         "title": "N****s Gonna Die",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/shyne/80981316?&at=10lIXX&ct=theneptunes"
@@ -446,9 +520,8 @@
                 "songs": [
                     {
                         "title": "By Your Side (The Neptunes Remix)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -461,9 +534,8 @@
                 "songs": [
                     {
                         "title": "How Many Licks (Neptunes Remix)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -500,9 +572,8 @@
                     },
                     {
                         "title": "Cross The Border",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Dream Car (Do You Wanna Ride)",
                         "featuring": [
@@ -533,9 +604,8 @@
                 "songs": [
                     {
                         "title": "I Just Wanna Love U (Give It 2 Me)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-dynasty-roc-la-familia-2000/1440924901?&at=10lIXX&ct=theneptunes"
@@ -550,8 +620,7 @@
                         "title": "The Call (Neptunes Remix)",
                         "featuring": [
                             "Clipse"
-                        ],
-                        "links": {}
+                        ]
                     }
                 ],
                 "links": {
@@ -565,9 +634,8 @@
                 "songs": [
                     {
                         "title": "Southern Hospitality",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/back-for-the-first-time/1440912680?&at=10lIXX&ct=theneptunes"
@@ -585,8 +653,7 @@
                         "featuring": [
                             "Kelis",
                             "Pharrell"
-                        ],
-                        "links": {}
+                        ]
                     }
                 ],
                 "links": {
@@ -600,9 +667,8 @@
                 "songs": [
                     {
                         "title": "Dem Thangs",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -618,8 +684,7 @@
                         "featuring": [
                             "Busta Rhymes",
                             "Kelis"
-                        ],
-                        "links": {}
+                        ]
                     }
                 ],
                 "links": {
@@ -703,9 +768,8 @@
                 "songs": [
                     {
                         "title": "Wait A Minute",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Formal Invite",
                         "featuring": [
@@ -732,8 +796,7 @@
                         "title": "I'm Serious",
                         "featuring": [
                             "Beenie Man"
-                        ],
-                        "links": {}
+                        ]
                     },
                     {
                         "title": "What's Yo Name",
@@ -753,9 +816,8 @@
                 "songs": [
                     {
                         "title": "Harder, Better, Faster, Stronger (The Neptunes Remix)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/harder-better-faster-stronger-ep/696783048?at=10lIXX&ct=theneptunes"
@@ -768,9 +830,8 @@
                 "songs": [
                     {
                         "title": "Black Coffee (The Neptunes Remix)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -783,9 +844,8 @@
                 "songs": [
                     {
                         "title": "Candy",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Gangsta Boogie",
                         "featuring": []
@@ -802,14 +862,12 @@
                 "songs": [
                     {
                         "title": "I'm A Slave 4 U",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Boys",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/britney-deluxe-version/273143821?at=10lIXX&ct=theneptunes"
@@ -822,84 +880,70 @@
                 "songs": [
                     {
                         "title": "Intro",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Young, Fresh n' New",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Flashback",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Popular Thug",
                         "featuring": [
                             "Pusha T"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Daddy",
                         "featuring": [
                             "Malice"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Scared Money",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Shooting Stars",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Digital World",
                         "featuring": [
                             "Roscoe P. Coldchain"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Perfect Day",
                         "featuring": [
                             "No Doubt"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Easy Come, Easy Go",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Junkie For Your Love",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Get Even",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Mr. U.F.O. Man",
                         "featuring": [
                             "John Otsby"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Little Suzie/Star Wars/I Don't Care Anymore",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/wanderland/1511198247?&at=10lIXX&ct=theneptunes"
@@ -912,9 +956,8 @@
                 "songs": [
                     {
                         "title": "Bye Bye",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/fortune-cookie/396470012?&at=10lIXX&ct=theneptunes"
@@ -927,9 +970,8 @@
                 "songs": [
                     {
                         "title": "What's Going On (The Neptunes THis One's For You Mix)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/whats-going-on/400068343?at=10lIXX&ct=theneptunes"
@@ -944,9 +986,8 @@
                         "title": "Let's Talk About It",
                         "featuring": [
                             "Clipse"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/instructions/190799106?&at=10lIXX&ct=theneptunes"
@@ -961,9 +1002,8 @@
                         "title": "Burnin' Up",
                         "featuring": [
                             "Loon"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/faithfully/80983125?&at=10lIXX&ct=theneptunes"
@@ -976,9 +1016,8 @@
                 "songs": [
                     {
                         "title": "As I Come Back",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "What It Is",
                         "featuring": [
@@ -990,9 +1029,8 @@
                         "featuring": [
                             "Pharrell",
                             "P. Diddy"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/genesis/1506982209?&at=10lIXX&ct=theneptunes"
@@ -1005,9 +1043,8 @@
                 "songs": [
                     {
                         "title": "Nookie",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "N 2gether Now",
                         "featuring": []
@@ -1026,9 +1063,8 @@
                         "title": "In The Late Night Hour",
                         "featuring": [
                             "Clipse"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/greatest-hits/725863059?&at=10lIXX&ct=theneptunes"
@@ -1041,9 +1077,8 @@
                 "songs": [
                     {
                         "title": "Isn't This The World",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/better-days/267954948?&at=10lIXX&ct=theneptunes"
@@ -1056,9 +1091,8 @@
                 "songs": [
                     {
                         "title": "Take Ya Home",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/doggy-bag/1116982670?at=10lIXX&ct=theneptunes"
@@ -1073,9 +1107,8 @@
                         "title": "Bouncin' Back (Bumpin' Me Against The Wall)",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Go 'Head",
                         "featuring": [
@@ -1089,7 +1122,7 @@
                 "artwork": "https://is2-ssl.mzstatic.com/image/thumb/Music/2a/56/ba/mzi.dwcqlmts.jpg/128x128bb.jpeg"
             },
             {
-                "title": "Dirty Girl, Wrong Girl, Bad Girl",
+                "title": "Dirty Girl, Wrong Girl, Bad Girl (unreleased)",
                 "artist": "Latrelle",
                 "songs": [
                     {
@@ -1146,9 +1179,8 @@
                 "songs": [
                     {
                         "title": "Knock Yourself Out",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/kiss-tha-game-goodbye/1440898467?&at=10lIXX&ct=theneptunes"
@@ -1161,9 +1193,8 @@
                 "songs": [
                     {
                         "title": "Diddy",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-saga-continues/78989520?&at=10lIXX&ct=theneptunes"
@@ -1178,9 +1209,8 @@
                         "title": "Best You Can",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/x-o-experience/192965533?&at=10lIXX&ct=theneptunes"
@@ -1193,9 +1223,8 @@
                 "songs": [
                     {
                         "title": "Young'n (Holla Back)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/ghetto-fabolous/343469021?&at=10lIXX&ct=theneptunes"
@@ -1208,9 +1237,8 @@
                 "songs": [
                     {
                         "title": "Guns N' Roses",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -1244,9 +1272,8 @@
                     },
                     {
                         "title": "U Don't Have To Call",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/8701/268532446?&at=10lIXX&ct=theneptunes"
@@ -1261,9 +1288,8 @@
                         "title": "I Don't Know What",
                         "featuring": [
                             "Kelis"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/thug-on-da-line/270629692?&at=10lIXX&ct=theneptunes"
@@ -1279,9 +1305,8 @@
                         "featuring": [
                             "Pharrell",
                             "Malice"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/no-more-drama-deluxe/1442964062?&at=10lIXX&ct=theneptunes"
@@ -1296,9 +1321,8 @@
                         "title": "Thugmania (Rock Wit Us)",
                         "featuring": [
                             "Capone-N-Noreaga"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -1331,9 +1355,8 @@
                 "songs": [
                     {
                         "title": "Girlfriend",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Girlfriend (Remix)",
                         "featuring": [
@@ -1354,9 +1377,8 @@
                         "title": "Blow My Whistle",
                         "featuring": [
                             "Foxy Brown"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/rush-hour-ii-soundtrack-from-the-motion-picture/1446861782?at=10lIXX&ct=theneptunes"
@@ -1371,9 +1393,8 @@
                 "songs": [
                     {
                         "title": "Don't Be Light (Neptunes Remix)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/everybody-hertz/696885273?&at=10lIXX&ct=theneptunes"
@@ -1386,9 +1407,8 @@
                 "songs": [
                     {
                         "title": "Emotion (The Neptunes Remix)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/this-is-the-remix/201870962?&at=10lIXX&ct=theneptunes"
@@ -1401,9 +1421,8 @@
                 "songs": [
                     {
                         "title": "Hot In Herre",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/nellyville/1440769782?&at=10lIXX&ct=theneptunes"
@@ -1418,9 +1437,8 @@
                         "title": "Nothin'",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Grimey",
                         "featuring": []
@@ -1555,9 +1573,8 @@
                 "songs": [
                     {
                         "title": "Run Away (I Wanna Be With U)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/nivea/309066757?&at=10lIXX&ct=theneptunes"
@@ -1570,9 +1587,8 @@
                 "songs": [
                     {
                         "title": "Work It Out",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -1587,9 +1603,8 @@
                         "title": "Someday",
                         "featuring": [
                             "Faith Evans"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-fix/1450651510?&at=10lIXX&ct=theneptunes"
@@ -1602,9 +1617,8 @@
                 "songs": [
                     {
                         "title": "In Your Arms Tonight",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/3d/268962095?&at=10lIXX&ct=theneptunes"
@@ -1617,9 +1631,8 @@
                 "songs": [
                     {
                         "title": "Feel It Boy",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/tropical-storm/724932684?at=10lIXX&ct=theneptunes"
@@ -1634,9 +1647,8 @@
                         "title": "Luv U Better",
                         "featuring": [
                             "Marc Dorsey"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Niggy Nuts",
                         "featuring": []
@@ -1667,9 +1679,8 @@
                 "songs": [
                     {
                         "title": "How Come You Don't Call Me (Neptunes Remix)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -1682,9 +1693,8 @@
                 "songs": [
                     {
                         "title": "Señorita",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Like I Love You",
                         "featuring": [
@@ -1723,9 +1733,8 @@
                 "songs": [
                     {
                         "title": "The Come Up",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/girl-interrupted/1443626818?&at=10lIXX&ct=theneptunes"
@@ -1740,9 +1749,8 @@
                         "title": "Excuse Me Miss",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Fuck All Night",
                         "featuring": []
@@ -1771,9 +1779,8 @@
                         "title": "Bubble",
                         "featuring": [
                             "Fahrenheit"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/dutty-rock/79305595?&at=10lIXX&ct=theneptunes"
@@ -1788,9 +1795,8 @@
                         "title": "Hit The Freeway",
                         "featuring": [
                             "Loon"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/more-than-a-woman/306682410?&at=10lIXX&ct=theneptunes"
@@ -1803,9 +1809,8 @@
                 "songs": [
                     {
                         "title": "Pop N****s",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-last-temptation/1443515864?&at=10lIXX&ct=theneptunes"
@@ -1820,9 +1825,8 @@
                         "title": "What Happened To That Boy",
                         "featuring": [
                             "Clipse"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/birdman/1443074984?at=10lIXX&ct=theneptunes"
@@ -1837,9 +1841,8 @@
                         "title": "Call The Ambulance",
                         "featuring": [
                             "Rampage"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/it-aint-safe-no-more/255357071?&at=10lIXX&ct=theneptunes"
@@ -1854,9 +1857,8 @@
                         "title": "Off Parole",
                         "featuring": [
                             "Tre Little"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Mr. Baller",
                         "featuring": [
@@ -1879,9 +1881,8 @@
                         "title": "From Tha Chuuuch To Da Palace",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Beautiful",
                         "featuring": [
@@ -1903,9 +1904,8 @@
                         "title": "Come Close",
                         "featuring": [
                             "Mary J. Blige"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "I Got A Right Tha",
                         "featuring": [
@@ -1924,9 +1924,8 @@
                 "songs": [
                     {
                         "title": "Crush",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/solo-star/1474187549?&at=10lIXX&ct=theneptunes"
@@ -1943,9 +1942,8 @@
                         "title": "Don't Look Back",
                         "featuring": [
                             "N.E.R.D."
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -1980,9 +1978,8 @@
                 "songs": [
                     {
                         "title": "Belly Dancer",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -1997,9 +1994,8 @@
                         "title": "Nas' Angels... The Flyest",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/charlies-angels-full-throttle-music-from-motion-picture/388136308?at=10lIXX&ct=theneptunes"
@@ -2017,9 +2013,8 @@
                             "Lenny Kravitz",
                             "Pharrell",
                             "Loon"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "La-La-La",
                         "featuring": [
@@ -2038,9 +2033,8 @@
                 "songs": [
                     {
                         "title": "The Don, The Dutch",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "The Movement",
                         "featuring": []
@@ -2063,9 +2057,8 @@
                 "songs": [
                     {
                         "title": "Intro",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Light Your Ass On Fire",
                         "featuring": [
@@ -2195,9 +2188,8 @@
                 "songs": [
                     {
                         "title": "Change Clothes",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Allure",
                         "featuring": []
@@ -2250,9 +2242,8 @@
                 "songs": [
                     {
                         "title": "Pussy",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/barbershop-2-back-in-business-soundtrack-from-motion/1443197041?at=10lIXX&ct=theneptunes"
@@ -2287,9 +2278,8 @@
                 "songs": [
                     {
                         "title": "Don't Worry About It",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Fly Or Die",
                         "featuring": []
@@ -2351,9 +2341,8 @@
                         "title": "Hot Sauce To Go",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/kiss-of-death/1440745394?&at=10lIXX&ct=theneptunes"
@@ -2366,9 +2355,8 @@
                 "songs": [
                     {
                         "title": "Broken Glass",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-beautiful-struggle/1443600373?&at=10lIXX&ct=theneptunes"
@@ -2383,9 +2371,8 @@
                         "title": "Tit 4 Tat",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Young & Sexy",
                         "featuring": [
@@ -2405,9 +2392,8 @@
                 "songs": [
                     {
                         "title": "Hollaback Girl",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/love-angel-music-baby-deluxe-international-version/1452869898?&at=10lIXX&ct=theneptunes"
@@ -2423,9 +2409,8 @@
                         "featuring": [
                             "Pharrell",
                             "Ying Yang Twins"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/crunk-juice/425298628?&at=10lIXX&ct=theneptunes"
@@ -2440,9 +2425,8 @@
                         "title": "Drop It Like It's Hot",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Let's Get Blown",
                         "featuring": [
@@ -2480,9 +2464,8 @@
                         "title": "Freak Though",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/urban-legend/1258975633?&at=10lIXX&ct=theneptunes"
@@ -2497,9 +2480,8 @@
                         "title": "Sweet Lies",
                         "featuring": [
                             "Vanessa Marquez"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -2514,9 +2496,8 @@
                 "songs": [
                     {
                         "title": "Touch",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/o-bonus-track-version/187954873?&at=10lIXX&ct=theneptunes"
@@ -2531,9 +2512,8 @@
                         "title": "Don't Stop",
                         "featuring": [
                             "Snoop Dogg"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/the-b-coming/1440844985?at=10lIXX&ct=theneptunes"
@@ -2549,9 +2529,8 @@
                         "featuring": [
                             "Pharrell",
                             "Pusha T"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-first-lady/715835653?&at=10lIXX&ct=theneptunes"
@@ -2566,9 +2545,8 @@
                         "title": "Say Something'",
                         "featuring": [
                             "Snoop Dogg"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "To The Floor",
                         "featuring": [
@@ -2587,9 +2565,8 @@
                 "songs": [
                     {
                         "title": "On & On",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/the-cookbook/73240428?at=10lIXX&ct=theneptunes"
@@ -2650,9 +2627,8 @@
                 "songs": [
                     {
                         "title": "Flap Your Wings",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/sweat/1443178529?&at=10lIXX&ct=theneptunes"
@@ -2667,9 +2643,8 @@
                         "title": "Play It Off",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/suit/1440715325?&at=10lIXX&ct=theneptunes"
@@ -2684,9 +2659,8 @@
                         "title": "Lavish",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-day-after/80809044?&at=10lIXX&ct=theneptunes"
@@ -2702,9 +2676,8 @@
                         "featuring": [
                             "Pharrell",
                             "Busta Rhymes"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/for-the-nasty-feat-busta-rhymes-single/1443497949?&at=10lIXX&ct=theneptunes"
@@ -2719,9 +2692,8 @@
                         "title": "超 L A R G E",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -2739,9 +2711,8 @@
                         "featuring": [
                             "Pharrell",
                             "Common"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/king-deluxe-version/1260894780?at=10lIXX&ct=theneptunes"
@@ -2756,9 +2727,8 @@
                         "title": "Best Dress",
                         "featuring": [
                             "Jamie Foxx"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/todd-smith/1443763637?&at=10lIXX&ct=theneptunes"
@@ -2771,9 +2741,8 @@
                 "songs": [
                     {
                         "title": "Tokyo Drift",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/fast-furious-tokyo-drift-original-motion-picture-soundtrack/1440773622?at=10lIXX&ct=theneptunes"
@@ -2786,9 +2755,8 @@
                 "songs": [
                     {
                         "title": "Kitty Kat",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Green Light",
                         "featuring": []
@@ -2805,9 +2773,8 @@
                 "songs": [
                     {
                         "title": "I Gotcha",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/lupe-fiascos-food-liquor/189225199?at=10lIXX&ct=theneptunes"
@@ -2822,9 +2789,8 @@
                         "title": "Money Maker",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Girls Gone Wild",
                         "featuring": []
@@ -2843,9 +2809,8 @@
                         "title": "Wanna Love You Girl",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-evolution-of-robin-thicke-deluxe-edition/1440784324?&at=10lIXX&ct=theneptunes"
@@ -2861,9 +2826,8 @@
                         "featuring": [
                             "Pharrell",
                             "Big Boi"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/mr-brown/712350446?&at=10lIXX&ct=theneptunes"
@@ -2878,9 +2842,8 @@
                         "title": "Partners For Life",
                         "featuring": [
                             "Jamie Foxx"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/press-play/200919438?&at=10lIXX&ct=theneptunes"
@@ -2896,9 +2859,8 @@
                         "featuring": [
                             "Pharrell",
                             "Usher"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/kingdom-come/1443074704?&at=10lIXX&ct=theneptunes"
@@ -2913,9 +2875,8 @@
                         "title": "Vato",
                         "featuring": [
                             "B-Real"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "10 Lil' Crips",
                         "featuring": []
@@ -2932,9 +2893,8 @@
                 "songs": [
                     {
                         "title": "We Got It For Cheap (Intro)",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Momma I'm So Sorry",
                         "featuring": []
@@ -3004,9 +2964,8 @@
                 "songs": [
                     {
                         "title": "Wind It Up",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Orange County Girl",
                         "featuring": []
@@ -3033,9 +2992,8 @@
                 "songs": [
                     {
                         "title": "I Proceed",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "I'm Just Me",
                         "featuring": [
@@ -3054,9 +3012,8 @@
                 "songs": [
                     {
                         "title": "In The Kissah",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/sunday-love-full-length/1443873127?&at=10lIXX&ct=theneptunes"
@@ -3082,9 +3039,8 @@
                 "songs": [
                     {
                         "title": "Murder Of A Teenage Life",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/true-magic/1443202804?at=10lIXX&ct=theneptunes"
@@ -3101,9 +3057,8 @@
                         "title": "Hell Yeah",
                         "featuring": [
                             "Diddy"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "BYOB",
                         "featuring": []
@@ -3122,9 +3077,8 @@
                         "title": "Give It Up",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/adrenaline-rush-2007/264085943?&at=10lIXX&ct=theneptunes"
@@ -3139,9 +3093,8 @@
                         "title": "Booty",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/its-my-time/714465765?&at=10lIXX&ct=theneptunes"
@@ -3154,9 +3107,8 @@
                 "songs": [
                     {
                         "title": "Why Should I Be Sad",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/blackout/521738882?&at=10lIXX&ct=theneptunes"
@@ -3171,9 +3123,8 @@
                         "title": "I Know",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Blue Magic",
                         "featuring": [
@@ -3192,9 +3143,8 @@
                 "songs": [
                     {
                         "title": "Go",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/go/1440634761?&at=10lIXX&ct=theneptunes"
@@ -3207,9 +3157,8 @@
                 "songs": [
                     {
                         "title": "Till The Morning",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/growing-pains-deluxe/1440828448?&at=10lIXX&ct=theneptunes"
@@ -3240,9 +3189,8 @@
                 "songs": [
                     {
                         "title": "Candy Shop",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Give It 2 Me",
                         "featuring": []
@@ -3281,9 +3229,8 @@
                 "songs": [
                     {
                         "title": "My Drive Thru",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -3296,9 +3243,8 @@
                 "songs": [
                     {
                         "title": "Time For Some Action (Intro)",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Everyone Nose (All The Girls Standing In The Line For The Bathroom)",
                         "featuring": []
@@ -3359,9 +3305,8 @@
                 "songs": [
                     {
                         "title": "I Decided",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/sol-angel-the-hadley-st-dreams-deluxe/1040206681?&at=10lIXX&ct=theneptunes"
@@ -3376,9 +3321,8 @@
                         "title": "Let It Go (Lil' Mama)",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/brass-knuckles/1442904765?&at=10lIXX&ct=theneptunes"
@@ -3391,9 +3335,8 @@
                 "songs": [
                     {
                         "title": "She Loves Everybody (The Neptunes Remix)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/she-loves-everybody-ep/1445716954?at=10lIXX&ct=theneptunes"
@@ -3408,9 +3351,8 @@
                         "title": "Universal Mind Control",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Punch Drunk Love (The Eye)",
                         "featuring": [
@@ -3489,9 +3431,8 @@
                         "title": "G-Stro",
                         "featuring": [
                             "Busta Rhymes"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Blanco",
                         "featuring": [
@@ -3534,9 +3475,8 @@
                         "title": "Stress Ya",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Rockin' With The Best",
                         "featuring": [
@@ -3556,9 +3496,8 @@
                 "songs": [
                     {
                         "title": "Twilite Speedball",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -3571,9 +3510,8 @@
                 "songs": [
                     {
                         "title": "If He Wanna",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/persona-bonus-track-version/1442853695?&at=10lIXX&ct=theneptunes"
@@ -3588,9 +3526,8 @@
                         "title": "So Ambitious",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-blueprint-3/1440932327?&at=10lIXX&ct=theneptunes"
@@ -3603,9 +3540,8 @@
                 "songs": [
                     {
                         "title": "Dit It Again",
-                        "featuring": [],
-                        "links": {}
-                    },
+                        "featuring": []
+					},
                     {
                         "title": "Long Time",
                         "featuring": []
@@ -3641,9 +3577,8 @@
                         "featuring": [
                             "Pharrell",
                             "Pitbull"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -3658,9 +3593,8 @@
                         "title": "Soldier",
                         "featuring": [
                             "Santigold"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/90210-soundtrack/1013660327?at=10lIXX&ct=theneptunes"
@@ -3673,9 +3607,8 @@
                 "songs": [
                     {
                         "title": "Never Can Say Goodbye (Neptunes Remix)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-complete-remix-suite/1443813805?&at=10lIXX&ct=theneptunes"
@@ -3690,9 +3623,8 @@
                         "title": "Let It Loose",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/attention-deficit-bonus-track-version/1443221533?&at=10lIXX&ct=theneptunes"
@@ -3708,9 +3640,8 @@
                         "featuring": [
                             "Cam'ron",
                             "Pharrell"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Showing Out",
                         "featuring": [
@@ -3768,9 +3699,8 @@
                         "featuring": [
                             "Brandy",
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": ""
@@ -3787,9 +3717,8 @@
                 "songs": [
                     {
                         "title": "Sexting",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/battle-of-the-sexes-deluxe/1472495201?&at=10lIXX&ct=theneptunes"
@@ -3904,9 +3833,8 @@
                 "songs": [
                     {
                         "title": "Bridges",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-lady-killer-deluxe-version/400593412?&at=10lIXX&ct=theneptunes"
@@ -3921,9 +3849,8 @@
                 "songs": [
                     {
                         "title": "I'm Beamin'",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/lasers/419432696?&at=10lIXX&ct=theneptunes"
@@ -3939,9 +3866,8 @@
                         "featuring": [
                             "Pharrell",
                             "Lupe Fiasco"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/give-the-drummer-some-deluxe-version/1440735102?&at=10lIXX&ct=theneptunes"
@@ -3954,9 +3880,8 @@
                 "songs": [
                     {
                         "title": "Get It (DT)",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/finally-famous/1440714925?&at=10lIXX&ct=theneptunes"
@@ -3989,9 +3914,8 @@
                 "songs": [
                     {
                         "title": "Gotta Have It",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/watch-the-throne/1440848092?&at=10lIXX&ct=theneptunes"
@@ -4006,9 +3930,8 @@
                         "title": "Trouble On My Mind",
                         "featuring": [
                             "Tyler, The Creator"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Raid",
                         "featuring": [
@@ -4032,9 +3955,8 @@
                         "title": "Glory",
                         "featuring": [
                             "B.I.C."
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/show-you-how-to-do-this-pt-1/502281214?at=10lIXX&ct=theneptunes"
@@ -4049,9 +3971,8 @@
                         "title": "Shake, Twist, Drop",
                         "featuring": [
                             "Tyga"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/go-pop-bang-deluxe-version/1444078954?&at=10lIXX&ct=theneptunes"
@@ -4066,9 +3987,8 @@
                         "title": "Chasin' Paper",
                         "featuring": [
                             "Pharrell"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/the-stoned-immaculate-deluxe-version/521023002?&at=10lIXX&ct=theneptunes"
@@ -4120,9 +4040,8 @@
                         "title": "Block Blazer",
                         "featuring": [
                             "T.I."
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {},
                 "artwork": ""
@@ -4137,9 +4056,8 @@
                         "title": "Burgundy",
                         "featuring": [
                             "Vince Staples"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/doris/669700847?&at=10lIXX&ct=theneptunes"
@@ -4152,9 +4070,8 @@
                 "songs": [
                     {
                         "title": "Revolution",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/wrath-of-a-outlaw-wrathofdeborahs-son-single/1525286195?&at=10lIXX&ct=theneptunes"
@@ -4209,9 +4126,8 @@
                 "songs": [
                     {
                         "title": "Miracle",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/wanderlust/1440839831?&at=10lIXX&ct=theneptunes"
@@ -4290,9 +4206,8 @@
                 "songs": [
                     {
                         "title": "FRONTAL LOBE MUZIK",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/case-study-01/1469319232?&at=10lIXX&ct=theneptunes"
@@ -4305,9 +4220,8 @@
                 "songs": [
                     {
                         "title": "Letter To My Godfather",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/letter-to-my-godfather-from-the-black-godfather-single/1467003878?&at=10lIXX&ct=theneptunes"
@@ -4326,9 +4240,8 @@
                         "title": "Stop Playing",
                         "featuring": [
                             "Gunna"
-                        ],
-                        "links": {}
-                    },
+						]
+					},
                     {
                         "title": "Crying in the Car",
                         "featuring": []
@@ -4345,9 +4258,8 @@
                 "songs": [
                     {
                         "title": "Pomegranate",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/pomegranate-single/1511541149?at=10lIXX&ct=theneptunes"
@@ -4360,9 +4272,8 @@
                 "songs": [
                     {
                         "title": "Cherry Pie",
-                        "featuring": [],
-                        "links": {}
-                    }
+                        "featuring": []
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/upside-down-2020/1516043415?&at=10lIXX&ct=theneptunes"
@@ -4377,9 +4288,8 @@
                         "title": "Entrepreneur",
                         "featuring": [
                             "Jay-Z"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/entrepreneur-feat-jay-z-single/1526750923?&at=10lIXX&ct=theneptunes"
@@ -4394,9 +4304,8 @@
                         "title": "Trenches",
                         "featuring": [
                             "Lil Baby"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://geo.music.apple.com/us/album/trenches-feat-lil-baby-single/1529886651?at=10lIXX&ct=theneptunes"
@@ -4411,9 +4320,8 @@
                         "title": "Hit Different",
                         "featuring": [
                             "Ty Dolla Sign"
-                        ],
-                        "links": {}
-                    }
+						]
+					}
                 ],
                 "links": {
                     "apple": "https://music.apple.com/us/album/hit-different-feat-ty-dolla-%24ign-single/1530112355?&at=10lIXX&ct=theneptunes",
@@ -4430,9 +4338,8 @@
             "songs": [
                 {
                     "title": "",
-                    "featuring": [],
-                    "links": {}
-                }
+                    "featuring": []
+					}
             ],
             "links": {
                 "apple": ""

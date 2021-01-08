@@ -37,17 +37,36 @@ function _template(album) {
 		html += `</li>`;
 	});
 	html += `</ol>`;
-	if(album.links.apple !== '') {
+	if(showLinks(album.links)) {
 		html += `<details>
 			<summary>Media & Info</summary>
+			<p>Find this album on `;
 
-			<p>Find this album on <a href="${album.links.apple}" rel="sponsor">Apple Music</a>.</p>
+			let links = [];
+			if(album.links.apple && album.links.apple !== '') {
+				links.push(`<a href="${album.links.apple}" rel="sponsor">Apple Music</a>`);
+			}
+			if(album.links.spotify && album.links.spotify !== '') {
+				links.push(`<a href="${album.links.spotify}" rel="sponsor">Spotify</a>`);
+			}
 
-		</details>`;
+		html += `${links.join(', ')}.</p></details>`;
 	}
 		html += `</dd>
 	</dl>`;
 	return html;
+}
+
+function showLinks(links) {
+	if(
+		(links.apple && links.apple !== '')
+		||
+		(links.spotify && links.spotify !== '')
+	) {
+		console.log(links.apple);
+		return true;
+	}
+	return false;
 }
 
 // Templates with data

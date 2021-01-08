@@ -181,6 +181,9 @@ article {
                 text-align: right;
             }
         }
+        a {
+            color: var(--white);
+        }
     }
     > h2 {
         border-bottom: 1px solid var(--border);
